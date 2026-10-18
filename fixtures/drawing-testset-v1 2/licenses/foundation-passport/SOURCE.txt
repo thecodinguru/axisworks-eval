@@ -1,6 +1,0 @@
-repository: https://github.com/Foundation-Devices/passport-assembly
-commit: 21c8763968f106c6c611c1c20d8914c71051750f
-publisher: Foundation Devices
-license (SPDX): CERN-OHL-S-2.0
-license text: https://ohwr.org/cern_ohl_s_v2.txt
-evidence: LICENSE.txt

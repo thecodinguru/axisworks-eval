@@ -1,6 +1,0 @@
-repository: https://github.com/FOSSAsystems/FOSSASAT-2
-commit: 11989ab562d77f86d93d5a1b58225cc97a02dac8
-publisher: FOSSA Systems
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE

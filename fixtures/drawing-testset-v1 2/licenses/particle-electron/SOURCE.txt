@@ -1,6 +1,0 @@
-repository: https://github.com/particle-iot/electron
-commit: be7038a072fbab0e90648251847669ba5aebe437
-publisher: Particle Industries
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: license.txt

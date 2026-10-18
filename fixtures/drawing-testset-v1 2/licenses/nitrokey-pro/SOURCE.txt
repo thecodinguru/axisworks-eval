@@ -1,6 +1,0 @@
-repository: https://github.com/Nitrokey/nitrokey-pro-hardware
-commit: 54ef8a036901894a2407b7de2dea0ff8538eb3c0
-publisher: Nitrokey GmbH
-license (SPDX): CC-BY-3.0
-license text: https://creativecommons.org/licenses/by/3.0/
-evidence: README.md (schematic design CC BY 3.0)

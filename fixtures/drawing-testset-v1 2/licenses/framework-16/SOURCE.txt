@@ -1,6 +1,0 @@
-repository: https://github.com/FrameworkComputer/Framework-Laptop-16
-commit: 51a94f193c9546741429725485433019a5865d9f
-publisher: Framework Computer Inc
-license (SPDX): CC-BY-4.0
-license text: https://creativecommons.org/licenses/by/4.0/
-evidence: README.md

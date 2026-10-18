@@ -1,6 +1,0 @@
-repository: https://github.com/nasa-jpl/open-source-rover
-commit: 0bea824015778922d4d7e373fbf56a112efea46d
-publisher: NASA Jet Propulsion Laboratory
-license (SPDX): Apache-2.0
-license text: https://www.apache.org/licenses/LICENSE-2.0
-evidence: LICENSE.txt

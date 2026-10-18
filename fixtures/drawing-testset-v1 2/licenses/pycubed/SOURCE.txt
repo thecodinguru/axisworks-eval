@@ -1,6 +1,0 @@
-repository: https://github.com/pycubed/hardware
-commit: d1adfd0c207dd5951ab175af53b3b7c1c72a5212
-publisher: PyCubed (Stanford / Carnegie Mellon)
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: README.md

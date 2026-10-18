@@ -1,6 +1,0 @@
-repository: https://github.com/OLIMEX/ESP32-Gateway
-commit: d45c9bc8120534b130a4f8bb8fa6cd3dc78e4ea0
-publisher: OLIMEX Ltd
-license (SPDX): Apache-2.0
-license text: https://www.apache.org/licenses/LICENSE-2.0
-evidence: README.md (hardware Apache 2.0)

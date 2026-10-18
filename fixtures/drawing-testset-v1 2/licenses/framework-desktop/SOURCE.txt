@@ -1,6 +1,0 @@
-repository: https://github.com/FrameworkComputer/Framework-Desktop
-commit: 75ee2c4395f34d5d98c56f81f4930fe44aed41d0
-publisher: Framework Computer Inc
-license (SPDX): CC-BY-4.0
-license text: https://creativecommons.org/licenses/by/4.0/
-evidence: README.md

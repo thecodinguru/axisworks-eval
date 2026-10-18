@@ -1,6 +1,0 @@
-repository: https://github.com/Creality3DPrinting/CR-10
-commit: cc66e1d3cf2f4ee3c0f563175c67518c487bbfca
-publisher: Shenzhen Creality 3D Technology
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE + README

@@ -1,6 +1,0 @@
-repository: https://github.com/particle-iot/argon
-commit: 0732efd5f568f37bed3adcab342b8c5c8922f087
-publisher: Particle Industries
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: license.txt

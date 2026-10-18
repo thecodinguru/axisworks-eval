@@ -1,6 +1,0 @@
-repository: https://github.com/Creality3DPrinting/Ender-3
-commit: 88c7758cea9d0d00a54fdb238bedb3b33425f409
-publisher: Shenzhen Creality 3D Technology
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE

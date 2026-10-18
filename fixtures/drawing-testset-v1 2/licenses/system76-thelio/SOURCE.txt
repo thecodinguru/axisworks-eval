@@ -1,6 +1,0 @@
-repository: https://github.com/system76/thelio
-commit: fe3ddb398e3b5513129cef6b9a1daa3ec8a3f253
-publisher: System76
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: LICENSE.md

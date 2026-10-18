@@ -1,6 +1,0 @@
-repository: https://github.com/PCrnjak/Faze4-Robotic-arm
-commit: 674f46cb608d25899c46fc2ea67741f008a8f016
-publisher: Source Robotics (PCrnjak)
-license (SPDX): CERN-OHL-S-2.0
-license text: https://ohwr.org/cern_ohl_s_v2.txt
-evidence: LICENSE

@@ -1,6 +1,0 @@
-repository: https://github.com/prusa3d/Original-Prusa-MINI
-commit: 853bc30c4b10190f1d669ed6d0a567e333c28f21
-publisher: Prusa Research
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE

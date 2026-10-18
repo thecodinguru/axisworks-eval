@@ -1,6 +1,0 @@
-repository: https://github.com/beagleboard/beagley-ai
-commit: d1c9f8b76c17c0b629341b79bd4286dbeebb1e3e
-publisher: BeagleBoard.org Foundation
-license (SPDX): CC-BY-4.0
-license text: https://creativecommons.org/licenses/by/4.0/
-evidence: LICENSE

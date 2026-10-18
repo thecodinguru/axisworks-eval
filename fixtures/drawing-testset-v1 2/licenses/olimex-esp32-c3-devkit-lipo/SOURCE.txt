@@ -1,6 +1,0 @@
-repository: https://github.com/OLIMEX/ESP32-C3-DevKit-Lipo
-commit: 5d93e79d46cf3b05782d9fe0f95a8a2e1ca6abbe
-publisher: OLIMEX Ltd
-license (SPDX): CERN-OHL-S-2.0
-license text: https://ohwr.org/cern_ohl_s_v2.txt
-evidence: README.md (hardware CERN-OHL-S v2)

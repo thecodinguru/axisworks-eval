@@ -1,6 +1,0 @@
-repository: https://github.com/OLIMEX/RVPC
-commit: 2b9675ba39c29370eafcc6df597609a9d5ea3297
-publisher: OLIMEX Ltd
-license (SPDX): CERN-OHL-S-2.0
-license text: https://ohwr.org/cern_ohl_s_v2.txt
-evidence: README.md (hardware CERN-OHL-S v2)

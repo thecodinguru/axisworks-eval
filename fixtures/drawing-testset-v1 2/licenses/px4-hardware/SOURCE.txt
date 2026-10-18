@@ -1,6 +1,0 @@
-repository: https://github.com/PX4/Hardware
-commit: bbf3de5360f0e145645c40c170fe8c4f50865a6a
-publisher: Pixhawk / PX4 project
-license (SPDX): CC-BY-SA-3.0
-license text: https://creativecommons.org/licenses/by-sa/3.0/
-evidence: README.md (CC BY-SA 3)

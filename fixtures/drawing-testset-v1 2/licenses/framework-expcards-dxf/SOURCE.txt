@@ -1,6 +1,0 @@
-repository: https://github.com/FrameworkComputer/ExpansionCards
-commit: 2904a95d60d4ba771c5c3c56d6fdba7078243fe8
-publisher: Framework Computer Inc
-license (SPDX): CC-BY-4.0
-license text: https://creativecommons.org/licenses/by/4.0/
-evidence: LICENSE

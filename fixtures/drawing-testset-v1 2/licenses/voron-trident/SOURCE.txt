@@ -1,6 +1,0 @@
-repository: https://github.com/VoronDesign/Voron-Trident
-commit: f04f747d4dea06315806f352abf57f767cedf2b4
-publisher: Voron Design
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE

@@ -1,6 +1,0 @@
-repository: https://github.com/OLIMEX/Neo6502
-commit: 94dbd1c4bbf4ad6cc79a259927c8a539d39c3cde
-publisher: OLIMEX Ltd
-license (SPDX): CERN-OHL-S-2.0
-license text: https://ohwr.org/cern_ohl_s_v2.txt
-evidence: README.md (hardware CERN-OHL-S v2)

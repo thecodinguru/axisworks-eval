@@ -1,6 +1,0 @@
-repository: https://github.com/particle-iot/boron
-commit: bc0e56015aaea350d627b8f199ba69fc7943cad1
-publisher: Particle Industries
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: license.txt

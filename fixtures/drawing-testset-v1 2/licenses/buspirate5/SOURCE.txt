@@ -1,6 +1,0 @@
-repository: https://github.com/DangerousPrototypes/BusPirate5-hardware
-commit: acb9cd667ce608e7eb560a663938787343b424c4
-publisher: Where Labs LLC (Bus Pirate)
-license (SPDX): MIT
-license text: https://opensource.org/license/mit
-evidence: LICENSE.TXT

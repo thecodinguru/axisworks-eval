@@ -1,6 +1,0 @@
-repository: https://github.com/OLIMEX/ESP32-DevKit-LiPo
-commit: 1ebbbb5ceaa84b1d67631d8d542d7f6128c19fc1
-publisher: OLIMEX Ltd
-license (SPDX): Apache-2.0
-license text: https://www.apache.org/licenses/LICENSE-2.0
-evidence: README.md (hardware Apache 2.0)

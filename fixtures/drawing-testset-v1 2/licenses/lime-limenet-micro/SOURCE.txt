@@ -1,6 +1,0 @@
-repository: https://github.com/myriadrf/LimeNET-Micro
-commit: e6f3bf05769272aeff4a85b45c497d5f62bb9d05
-publisher: Lime Microsystems / MyriadRF
-license (SPDX): CC-BY-3.0
-license text: https://creativecommons.org/licenses/by/3.0/
-evidence: README.md (hardware designs licensing)

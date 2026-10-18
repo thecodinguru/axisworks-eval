@@ -1,6 +1,0 @@
-repository: https://github.com/HaddingtonDynamics/Dexter
-commit: ce675600e08fbce8aeb5ad69775b3192472653e0
-publisher: Haddington Dynamics
-license (SPDX): GPL-3.0-only
-license text: https://www.gnu.org/licenses/gpl-3.0.html
-evidence: LICENSE

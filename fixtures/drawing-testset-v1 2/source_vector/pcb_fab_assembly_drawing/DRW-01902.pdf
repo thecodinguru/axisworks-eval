@@ -1,977 +1,0 @@
-%PDF-1.5
-%¿÷¢þ
-1 0 obj
-<< /Pages 3 0 R /Type /Catalog >>
-endobj
-2 0 obj
-<< /Producer (pypdf) >>
-endobj
-3 0 obj
-<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
-endobj
-4 0 obj
-<< /Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R ] /Contents 180 0 R /MediaBox [ 0 0 841.89599999999996 595.29600000000005 ] /Parent 3 0 R /Resources << /Font << /KicadFont 181 0 R /KicadFont-0 182 0 R /KicadFont-1 183 0 R /KicadFont-2 184 0 R /KicadFont-3 185 0 R /KicadFontB 186 0 R /KicadFontB-0 187 0 R /KicadFontB-1 188 0 R /KicadFontB-2 189 0 R /KicadFontB-3 190 0 R /KicadFontBI 191 0 R /KicadFontBI-0 192 0 R /KicadFontBI-1 193 0 R /KicadFontBI-2 194 0 R /KicadFontBI-3 195 0 R /KicadFontI 196 0 R /KicadFontI-0 197 0 R /KicadFontI-1 198 0 R /KicadFontI-2 199 0 R /KicadFontI-3 200 0 R >> /ProcSet [ /ImageB /ImageC /PDF /Text ] >> /Type /Page >>
-endobj
-5 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C4"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 390.56400000000002 438.67599999999999 400.34300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-6 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J3"],\n["Value = Conn_02x03_1.27mm"],\n["Footprint = PinHeader_2x03_P1.27mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.48000000000002 340.31999999999999 420.23599999999999 354.209 ] /Subtype /Link /Type /Annot >>
-endobj
-7 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U5"],\n["Value = AiP74LVC1T45GC363.TR"],\n["Footprint = SOT-363_SC-70-6"],\n["Datasheet = http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf", "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf"],\n["RMB = 1.33"],\n["Supplier = https://item.szlcsc.com/9911.html", "https://item.szlcsc.com/9911.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 401.45699999999999 299.78399999999999 410.66899999999998 308.07600000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-8 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 403.40699999999998 393.625 413.18599999999998 399.40800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-9 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R11"],\n["Value = 3R0"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 355.613 414.97800000000001 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-10 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C2"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 316.863 438.67599999999999 326.642 ] /Subtype /Link /Type /Annot >>
-endobj
-11 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C1"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 371.43000000000001 438.67599999999999 381.209 ] /Subtype /Link /Type /Annot >>
-endobj
-12 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U2"],\n["Value = IRM-3638J7"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 363.48000000000002 454.87700000000001 381.39800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-13 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = TSAL6200"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 330.56799999999998 461.61599999999999 348.99400000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-14 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R6"],\n["Value = 1R2"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.57299999999998 355.613 422.065 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-15 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C5"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 299.14600000000002 438.67599999999999 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-16 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D10"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.38600000000002 316.31 415.91300000000001 325.64999999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-17 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.44499999999999 309.83100000000002 397.45299999999997 384.80799999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-18 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT4401LT1G"],\n["Footprint = SOT-23"],\n["Description = NPN transistor, base/emitter/collector"],\n["Sim.Device = NPN"],\n["Sim.Pins = 1=C 2=B 3=E"],\n["Sim.Type = GUMMELPOON"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.88499999999999 328.995 426.161 340.02199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-19 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D9"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.76400000000001 316.43799999999999 422.291 325.77800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-20 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U3"],\n["Value = IRM-3638T"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 312.79399999999998 454.81700000000001 330.71100000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-21 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C6"],\n["Value = 100uF"],\n["Footprint = CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.488 371.51499999999999 424.98399999999998 386.65199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-22 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = TSAL6100"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 345.56400000000002 461.61599999999999 363.98899999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-23 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R7"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 299.20299999999997 432.21300000000002 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-24 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R2"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 365.05200000000002 438.53399999999999 370.57900000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-25 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C8"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.42700000000002 299.14600000000002 418.12400000000002 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-26 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R5"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 309.77600000000001 438.53399999999999 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-27 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R13"],\n["Value = 6R8"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 326.55700000000002 414.97800000000001 339.625 ] /Subtype /Link /Type /Annot >>
-endobj
-28 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U1"],\n["Value = OS1200MW-A1"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 382.92000000000002 454.87700000000001 400.83800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-29 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U4"],\n["Value = CHQ0038L-56kHz"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 293.66000000000003 454.81700000000001 311.577 ] /Subtype /Link /Type /Annot >>
-endobj
-30 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R9"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 384.18599999999998 438.53399999999999 389.71300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-31 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C3"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 423.05700000000002 355.13099999999997 428.75400000000002 364.91000000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-32 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C7"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 394.00200000000001 299.14600000000002 399.69900000000001 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-33 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 309.72500000000002 408.40199999999999 384.84300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-34 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R4"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 316.92000000000002 432.21300000000002 326.58600000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-35 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R3"],\n["Value = 330R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.44299999999998 309.77600000000001 420.10899999999998 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-36 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R10"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 392.60700000000003 393.75299999999999 402.27300000000002 399.27999999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-37 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R12"],\n["Value = 20K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.30700000000002 299.20299999999997 425.83499999999998 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-38 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R8"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 390.62 432.21300000000002 400.28699999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-39 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 371.48700000000002 432.21300000000002 381.15300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-40 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C4"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 390.56400000000002 438.67599999999999 400.34300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-41 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J3"],\n["Value = Conn_02x03_1.27mm"],\n["Footprint = PinHeader_2x03_P1.27mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.48000000000002 340.31999999999999 420.23599999999999 354.209 ] /Subtype /Link /Type /Annot >>
-endobj
-42 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U5"],\n["Value = AiP74LVC1T45GC363.TR"],\n["Footprint = SOT-363_SC-70-6"],\n["Datasheet = http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf", "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf"],\n["RMB = 1.33"],\n["Supplier = https://item.szlcsc.com/9911.html", "https://item.szlcsc.com/9911.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 401.45699999999999 299.78399999999999 410.66899999999998 308.07600000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-43 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 403.40699999999998 393.625 413.18599999999998 399.40800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-44 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R11"],\n["Value = 3R0"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 355.613 414.97800000000001 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-45 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C2"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 316.863 438.67599999999999 326.642 ] /Subtype /Link /Type /Annot >>
-endobj
-46 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C1"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 371.43000000000001 438.67599999999999 381.209 ] /Subtype /Link /Type /Annot >>
-endobj
-47 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U2"],\n["Value = IRM-3638J7"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 363.48000000000002 454.87700000000001 381.39800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-48 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = TSAL6200"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 330.56799999999998 461.61599999999999 348.99400000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-49 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R6"],\n["Value = 1R2"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.57299999999998 355.613 422.065 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-50 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C5"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 299.14600000000002 438.67599999999999 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-51 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D10"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.38600000000002 316.31 415.91300000000001 325.64999999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-52 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.44499999999999 309.83100000000002 397.45299999999997 384.80799999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-53 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT4401LT1G"],\n["Footprint = SOT-23"],\n["Description = NPN transistor, base/emitter/collector"],\n["Sim.Device = NPN"],\n["Sim.Pins = 1=C 2=B 3=E"],\n["Sim.Type = GUMMELPOON"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.88499999999999 328.995 426.161 340.02199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-54 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D9"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.76400000000001 316.43799999999999 422.291 325.77800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-55 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U3"],\n["Value = IRM-3638T"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 312.79399999999998 454.81700000000001 330.71100000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-56 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C6"],\n["Value = 100uF"],\n["Footprint = CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.488 371.51499999999999 424.98399999999998 386.65199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-57 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = TSAL6100"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 345.56400000000002 461.61599999999999 363.98899999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-58 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R7"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 299.20299999999997 432.21300000000002 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-59 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R2"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 365.05200000000002 438.53399999999999 370.57900000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-60 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C8"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.42700000000002 299.14600000000002 418.12400000000002 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-61 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R5"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 309.77600000000001 438.53399999999999 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-62 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R13"],\n["Value = 6R8"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 326.55700000000002 414.97800000000001 339.625 ] /Subtype /Link /Type /Annot >>
-endobj
-63 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U1"],\n["Value = OS1200MW-A1"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 382.92000000000002 454.87700000000001 400.83800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-64 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U4"],\n["Value = CHQ0038L-56kHz"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 293.66000000000003 454.81700000000001 311.577 ] /Subtype /Link /Type /Annot >>
-endobj
-65 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R9"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 384.18599999999998 438.53399999999999 389.71300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-66 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C3"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 423.05700000000002 355.13099999999997 428.75400000000002 364.91000000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-67 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C7"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 394.00200000000001 299.14600000000002 399.69900000000001 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-68 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 309.72500000000002 408.40199999999999 384.84300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-69 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R4"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 316.92000000000002 432.21300000000002 326.58600000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-70 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R3"],\n["Value = 330R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.44299999999998 309.77600000000001 420.10899999999998 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-71 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R10"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 392.60700000000003 393.75299999999999 402.27300000000002 399.27999999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-72 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R12"],\n["Value = 20K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.30700000000002 299.20299999999997 425.83499999999998 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-73 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R8"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 390.62 432.21300000000002 400.28699999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-74 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 371.48700000000002 432.21300000000002 381.15300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-75 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C4"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 390.56400000000002 438.67599999999999 400.34300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-76 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J3"],\n["Value = Conn_02x03_1.27mm"],\n["Footprint = PinHeader_2x03_P1.27mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.48000000000002 340.31999999999999 420.23599999999999 354.209 ] /Subtype /Link /Type /Annot >>
-endobj
-77 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U5"],\n["Value = AiP74LVC1T45GC363.TR"],\n["Footprint = SOT-363_SC-70-6"],\n["Datasheet = http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf", "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf"],\n["RMB = 1.33"],\n["Supplier = https://item.szlcsc.com/9911.html", "https://item.szlcsc.com/9911.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 401.45699999999999 299.78399999999999 410.66899999999998 308.07600000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-78 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 403.40699999999998 393.625 413.18599999999998 399.40800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-79 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R11"],\n["Value = 3R0"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 355.613 414.97800000000001 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-80 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C2"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 316.863 438.67599999999999 326.642 ] /Subtype /Link /Type /Annot >>
-endobj
-81 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C1"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 371.43000000000001 438.67599999999999 381.209 ] /Subtype /Link /Type /Annot >>
-endobj
-82 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U2"],\n["Value = IRM-3638J7"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 363.48000000000002 454.87700000000001 381.39800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-83 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = TSAL6200"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 330.56799999999998 461.61599999999999 348.99400000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-84 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R6"],\n["Value = 1R2"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.57299999999998 355.613 422.065 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-85 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C5"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 299.14600000000002 438.67599999999999 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-86 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D10"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.38600000000002 316.31 415.91300000000001 325.64999999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-87 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.44499999999999 309.83100000000002 397.45299999999997 384.80799999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-88 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT4401LT1G"],\n["Footprint = SOT-23"],\n["Description = NPN transistor, base/emitter/collector"],\n["Sim.Device = NPN"],\n["Sim.Pins = 1=C 2=B 3=E"],\n["Sim.Type = GUMMELPOON"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.88499999999999 328.995 426.161 340.02199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-89 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D9"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.76400000000001 316.43799999999999 422.291 325.77800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-90 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U3"],\n["Value = IRM-3638T"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 312.79399999999998 454.81700000000001 330.71100000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-91 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C6"],\n["Value = 100uF"],\n["Footprint = CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.488 371.51499999999999 424.98399999999998 386.65199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-92 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = TSAL6100"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 345.56400000000002 461.61599999999999 363.98899999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-93 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R7"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 299.20299999999997 432.21300000000002 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-94 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R2"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 365.05200000000002 438.53399999999999 370.57900000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-95 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C8"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.42700000000002 299.14600000000002 418.12400000000002 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-96 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R5"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 309.77600000000001 438.53399999999999 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-97 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R13"],\n["Value = 6R8"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 326.55700000000002 414.97800000000001 339.625 ] /Subtype /Link /Type /Annot >>
-endobj
-98 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U1"],\n["Value = OS1200MW-A1"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 382.92000000000002 454.87700000000001 400.83800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-99 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U4"],\n["Value = CHQ0038L-56kHz"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 293.66000000000003 454.81700000000001 311.577 ] /Subtype /Link /Type /Annot >>
-endobj
-100 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R9"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 384.18599999999998 438.53399999999999 389.71300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-101 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C3"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 423.05700000000002 355.13099999999997 428.75400000000002 364.91000000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-102 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C7"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 394.00200000000001 299.14600000000002 399.69900000000001 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-103 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 309.72500000000002 408.40199999999999 384.84300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-104 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R4"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 316.92000000000002 432.21300000000002 326.58600000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-105 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R3"],\n["Value = 330R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.44299999999998 309.77600000000001 420.10899999999998 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-106 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R10"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 392.60700000000003 393.75299999999999 402.27300000000002 399.27999999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-107 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R12"],\n["Value = 20K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.30700000000002 299.20299999999997 425.83499999999998 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-108 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R8"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 390.62 432.21300000000002 400.28699999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-109 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 371.48700000000002 432.21300000000002 381.15300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-110 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C4"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 390.56400000000002 438.67599999999999 400.34300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-111 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J3"],\n["Value = Conn_02x03_1.27mm"],\n["Footprint = PinHeader_2x03_P1.27mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.48000000000002 340.31999999999999 420.23599999999999 354.209 ] /Subtype /Link /Type /Annot >>
-endobj
-112 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U5"],\n["Value = AiP74LVC1T45GC363.TR"],\n["Footprint = SOT-363_SC-70-6"],\n["Datasheet = http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf", "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf"],\n["RMB = 1.33"],\n["Supplier = https://item.szlcsc.com/9911.html", "https://item.szlcsc.com/9911.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 401.45699999999999 299.78399999999999 410.66899999999998 308.07600000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-113 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 403.40699999999998 393.625 413.18599999999998 399.40800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-114 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R11"],\n["Value = 3R0"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 355.613 414.97800000000001 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-115 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C2"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 316.863 438.67599999999999 326.642 ] /Subtype /Link /Type /Annot >>
-endobj
-116 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C1"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 371.43000000000001 438.67599999999999 381.209 ] /Subtype /Link /Type /Annot >>
-endobj
-117 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U2"],\n["Value = IRM-3638J7"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 363.48000000000002 454.87700000000001 381.39800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-118 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = TSAL6200"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 330.56799999999998 461.61599999999999 348.99400000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-119 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R6"],\n["Value = 1R2"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.57299999999998 355.613 422.065 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-120 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C5"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 299.14600000000002 438.67599999999999 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-121 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D10"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.38600000000002 316.31 415.91300000000001 325.64999999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-122 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.44499999999999 309.83100000000002 397.45299999999997 384.80799999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-123 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT4401LT1G"],\n["Footprint = SOT-23"],\n["Description = NPN transistor, base/emitter/collector"],\n["Sim.Device = NPN"],\n["Sim.Pins = 1=C 2=B 3=E"],\n["Sim.Type = GUMMELPOON"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.88499999999999 328.995 426.161 340.02199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-124 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D9"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.76400000000001 316.43799999999999 422.291 325.77800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-125 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U3"],\n["Value = IRM-3638T"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 312.79399999999998 454.81700000000001 330.71100000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-126 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C6"],\n["Value = 100uF"],\n["Footprint = CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.488 371.51499999999999 424.98399999999998 386.65199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-127 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = TSAL6100"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 345.56400000000002 461.61599999999999 363.98899999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-128 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R7"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 299.20299999999997 432.21300000000002 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-129 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R2"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 365.05200000000002 438.53399999999999 370.57900000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-130 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C8"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.42700000000002 299.14600000000002 418.12400000000002 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-131 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R5"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 309.77600000000001 438.53399999999999 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-132 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R13"],\n["Value = 6R8"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 326.55700000000002 414.97800000000001 339.625 ] /Subtype /Link /Type /Annot >>
-endobj
-133 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U1"],\n["Value = OS1200MW-A1"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 382.92000000000002 454.87700000000001 400.83800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-134 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U4"],\n["Value = CHQ0038L-56kHz"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 293.66000000000003 454.81700000000001 311.577 ] /Subtype /Link /Type /Annot >>
-endobj
-135 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R9"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 384.18599999999998 438.53399999999999 389.71300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-136 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C3"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 423.05700000000002 355.13099999999997 428.75400000000002 364.91000000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-137 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C7"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 394.00200000000001 299.14600000000002 399.69900000000001 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-138 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 309.72500000000002 408.40199999999999 384.84300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-139 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R4"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 316.92000000000002 432.21300000000002 326.58600000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-140 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R3"],\n["Value = 330R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.44299999999998 309.77600000000001 420.10899999999998 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-141 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R10"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 392.60700000000003 393.75299999999999 402.27300000000002 399.27999999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-142 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R12"],\n["Value = 20K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.30700000000002 299.20299999999997 425.83499999999998 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-143 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R8"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 390.62 432.21300000000002 400.28699999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-144 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 371.48700000000002 432.21300000000002 381.15300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-145 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C4"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 390.56400000000002 438.67599999999999 400.34300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-146 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J3"],\n["Value = Conn_02x03_1.27mm"],\n["Footprint = PinHeader_2x03_P1.27mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.48000000000002 340.31999999999999 420.23599999999999 354.209 ] /Subtype /Link /Type /Annot >>
-endobj
-147 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U5"],\n["Value = AiP74LVC1T45GC363.TR"],\n["Footprint = SOT-363_SC-70-6"],\n["Datasheet = http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf", "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf"],\n["RMB = 1.33"],\n["Supplier = https://item.szlcsc.com/9911.html", "https://item.szlcsc.com/9911.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 401.45699999999999 299.78399999999999 410.66899999999998 308.07600000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-148 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 403.40699999999998 393.625 413.18599999999998 399.40800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-149 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R11"],\n["Value = 3R0"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 355.613 414.97800000000001 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-150 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C2"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 316.863 438.67599999999999 326.642 ] /Subtype /Link /Type /Annot >>
-endobj
-151 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C1"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 371.43000000000001 438.67599999999999 381.209 ] /Subtype /Link /Type /Annot >>
-endobj
-152 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U2"],\n["Value = IRM-3638J7"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 363.48000000000002 454.87700000000001 381.39800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-153 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = TSAL6200"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 330.56799999999998 461.61599999999999 348.99400000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-154 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R6"],\n["Value = 1R2"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.57299999999998 355.613 422.065 368.68000000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-155 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C5"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 432.97800000000001 299.14600000000002 438.67599999999999 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-156 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D10"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.38600000000002 316.31 415.91300000000001 325.64999999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-157 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.44499999999999 309.83100000000002 397.45299999999997 384.80799999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-158 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT4401LT1G"],\n["Footprint = SOT-23"],\n["Description = NPN transistor, base/emitter/collector"],\n["Sim.Device = NPN"],\n["Sim.Pins = 1=C 2=B 3=E"],\n["Sim.Type = GUMMELPOON"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.88499999999999 328.995 426.161 340.02199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-159 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D9"],\n["Value = 1N4148WS"],\n["Footprint = D_SOD-323F"],\n["Datasheet = https://www.vishay.com/docs/85748/1n4148w.pdf", "https://www.vishay.com/docs/85748/1n4148w.pdf"],\n["Sim.Device = D"],\n["Sim.Pins = 1=K 2=A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.76400000000001 316.43799999999999 422.291 325.77800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-160 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U3"],\n["Value = IRM-3638T"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 312.79399999999998 454.81700000000001 330.71100000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-161 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C6"],\n["Value = 100uF"],\n["Footprint = CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 415.488 371.51499999999999 424.98399999999998 386.65199999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-162 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = TSAL6100"],\n["Footprint = LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 429.01799999999997 345.56400000000002 461.61599999999999 363.98899999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-163 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R7"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 299.20299999999997 432.21300000000002 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-164 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R2"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 365.05200000000002 438.53399999999999 370.57900000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-165 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C8"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.42700000000002 299.14600000000002 418.12400000000002 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-166 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R5"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 309.77600000000001 438.53399999999999 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-167 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R13"],\n["Value = 6R8"],\n["Footprint = R_1206_3216Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.48700000000002 326.55700000000002 414.97800000000001 339.625 ] /Subtype /Link /Type /Annot >>
-endobj
-168 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U1"],\n["Value = OS1200MW-A1"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.25 382.92000000000002 454.87700000000001 400.83800000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-169 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = U4"],\n["Value = CHQ0038L-56kHz"],\n["Footprint = TSOP18XX"],\n["Description = \nDIODE, IR EMITTING, 38 KHZ, ANGLE OF HALF TRANSMISSION DISTANCE +/-45DEG/C | Vishay / Small Signal & Opto Products \\u0028SSP\\u0029 TSOP4838\n"],\n["Availability = In Stock"],\n["Check_prices = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"],\n["MF = Vishay"],\n["MP = TSOP4838"],\n["Package = DIP-3 Vishay"],\n["Price = None"],\n["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45083&manufacturer=Vishay&part_name=TSOP4838&search_term=None"],\n["SnapEDA_Link = https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap", "https://www.snapeda.com/parts/TSOP4838/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.19 293.66000000000003 454.81700000000001 311.577 ] /Subtype /Link /Type /Annot >>
-endobj
-170 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R9"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 384.18599999999998 438.53399999999999 389.71300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-171 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C3"],\n["Value = 4.7uF"],\n["Footprint = C_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 423.05700000000002 355.13099999999997 428.75400000000002 364.91000000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-172 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = C7"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric"],\n["RMB = 0.00628"],\n["Supplier = https://item.szlcsc.com/1877.html", "https://item.szlcsc.com/1877.html"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 394.00200000000001 299.14600000000002 399.69900000000001 308.92599999999999 ] /Subtype /Link /Type /Annot >>
-endobj
-173 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 309.72500000000002 408.40199999999999 384.84300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-174 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R4"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 316.92000000000002 432.21300000000002 326.58600000000001 ] /Subtype /Link /Type /Annot >>
-endobj
-175 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R3"],\n["Value = 330R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 410.44299999999998 309.77600000000001 420.10899999999998 315.30399999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-176 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R10"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 392.60700000000003 393.75299999999999 402.27300000000002 399.27999999999997 ] /Subtype /Link /Type /Annot >>
-endobj
-177 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R12"],\n["Value = 20K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.30700000000002 299.20299999999997 425.83499999999998 308.86900000000003 ] /Subtype /Link /Type /Annot >>
-endobj
-178 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R8"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 390.62 432.21300000000002 400.28699999999998 ] /Subtype /Link /Type /Annot >>
-endobj
-179 0 obj
-<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 426.685 371.48700000000002 432.21300000000002 381.15300000000002 ] /Subtype /Link /Type /Annot >>
-endobj
-180 0 obj
-<< /Filter /FlateDecode /Length 44498 >>
-stream
-xœÌ½Ë’%»r%6¯¯¨¡4è#¼Sšu³Õ’™Ôìk’œE6T%i<j‰¦þOýŽ$ ±#¶¯å‘žµë°ò^»díô€ÃÝñr8ÿüåŸ×ÝoÎÕðÕÍÿžÿüööÅýãÿ0 =y_Kª.·bŽ_múýï~üÛ¿øó/í·˜J*îñŸôõ_~3¿®ÞÑðØcu~´>÷ÖÃo¹ŸÿùšZŽå·xJ)~}ã¸Ý×ïƒ”zû­ŸxO‚Ò¿¹øþå¯™ÔrëØ’ãoîÊôÇµäk×–äîZ}þtYî¾çßÊù÷º¾E—~K(æA@á‘*	
-°ªA\	é·ü•r Z¢M Ô¬ˆÈ KcòÜÙ1©äÛ¯4fþÃEÔ`F¥e %žv£i¨²íÒãH•øÆû¯ß†pàÐhH 5+"2 ¥yìXTòK†™53†#$½,i#MÒGš¤4¤J‚¢FCp^iˆšI¨Ñ`iLž^i>—Ñ³®lzb82W`/«]ijWGšýX•E§'‚+êHSÉôDš@§'"R‘gQGÖ¢Ï5ÒP£a8Óš¦jkšª¯iª¶¦aU”qMSõ5S3i‚qMCJcòÔ×4ŸÌh‚›Û†<öÏÉ¾†ú,äa:cI÷>îû—ÿôëÚCZâjŠÏ6Á[‚¸ÏÖ’P½6'ÞÄýÊ–ˆ-jËzÑ'JŒyt—Ñ˜ê{ÿ:þòýüKu)ýæ¯ÍüNË²â5üÂÎÇØ/­?‹o×Z~6Ö\J*°~’ÂÈ¥¥ðü'‚c_u±¾_ÚC;ÈÎƒ-úvÑjêI§¤âºéŠñ¾“F‘¤ùïˆü°b“6æ`ýÉO×ÞUB-^ŽÉ‡aEŒ]óÒ+S‚Óë³.­¸UÕw‹_ÙÛ¿¾J›yã¸EûK	ZRË€ VõmÔY<Œ”†beœ´óU’Ï%|eÌø©=ÖšE˜…¡8öoˆ4·Z,êø•k#Æ¡3Œ3Œ7¢¸Á°ÒPÅŒ3‚2ŒÓÆiãtƒqšÁ8Í`›ŸÊ`R·Lê&ƒq&ƒA7V¨˜rFP6ƒI]1˜1sƒÙÔ`Žoˆ4ƒ¡l~.ƒiFƒiƒIÝb0E†–†*fœ”Ñ`šf0M3˜¦LÓ¦iÃØü\SSMÓLƒ(n0¬4T1ãŒ ŒS5ƒ©šÁTÝ`ªf0U3Ææç2˜b4˜b2˜j2Dqƒa¥¡Šge4˜¢LÑ¦èS4ƒ)šÁ06?—Ád£Ád“Á“Á Š+UÌ8#(£ÁdÍ`²f0Y7˜¬LÖ†±ù¹&&™&›QÜ`Xi¨bÆA&i“4ƒIºÁ$Í`’f0ŒÍÏe0Ñh0Ñd0Éd0ˆâÃJC3ÎÊh0Q3˜¨LÔ&j5ƒal~†3ª©µ"´Û%ýêó›©—ê";F£¤OÀo.5À‰ñÆ/’>÷©ÒØìµçÓ‚Ë/gMÝ‡"-‰Õ`Å±Ê>×±S¯C·Y9kê½4v¼”´ŸÑ=^b¥=²8xüÚ˜½#õ\+=9ê yvˆ„(~žÄJ#âZÌèBþtGHz@J¶  Äýê¡Lr“- qŸ­%cÃ`
-@Ü¯nÉ˜C‚‹Ž©’>¿ÞA€O‡HúüFç“¶Ü Òç™¾Ëú!ˆ%ö*ï-0\t¥Èv—»‡3lëýnäï—žn“–ø×Á?#u/„Q\M 
-Y›…Ú5ö!Þ{–FÄJ8c¨Ù´oT/>'¡ÆŒí±¦!jÔIÅJ#BGÎ4­ýÒ:aÊé¦äL¦äM¦„(nJ¤4b	„3†ÒMÉ™LÉ™L	QÜ”XiDè&SrŸÐ”Æ*X3¥±Ì·˜’3™¢¸)‘ÒÐg¥šÒØL)u‹)5%ZºÅ”Ž¦}.Sjº)5‹)¥n1%‚¢¦ÄJ#–@8c(Ý”šÉ”šÉ”ÅM‰•F„n2¥öM©ê¦TM¦ÔL¦„(nJ¤4b	„3†ÒM©šL©šL	QÜ”XiDè&SªŸÑ”ŠnJÅdJÕdJˆâ¦DJ#–@8c(Ý”ŠÉ”ŠÉ”ÅM‰•F„n2¥òM)ë¦”M¦TL¦„(nJ¤4b	„3†ÒM)›L)›L	QÜ”XiDè&SÊŸÑ”’nJÉdJÙdJˆâ¦DJ#–@8c(Ý”’É”’É”ÅM‰•F„n2¥ôM)ê¦M¦”L¦„(nJ¤4b	„3†ÒM)šL)šL	QÜ”XiDè&SŠ¿Ú”r.Ñ‰+¿CÎA~P\LýY{9WN¦œ8ŸËµ5qÏQßF­fñ)+­'qq˜rFPÐÎY'ÁùÁÆsÓgÞÉ?±vjÖI¤FJ# œYôùéN;Eà@j§ÎÁ8@p!gáuªS$y©ÚZ}…£‰šgÚ3ïÁ³&Yi­&;[u"Âž(gj¬€šu¢"EYv,šûôæRžCÍhÊvzûS‘×i£_wY}ñSBÉÁe²I˜rM­Ë‘`ûåÅê!¨»o´øXE2ÊAts=	³ä£yp“)ú*®Ï®Ûä*Œï®í7ÝÑW)žä“L7áCÿ7AÂš0D™bpXìNˆÕBP£«8 º™ÖâùO[¥c©Ó(o‹0Ãöìß 8X-ªD?»-¬ü3yï”Í IMDœä^r“[ÏA¨Óü×¿Wòœ("<X‡~Æj!¨»Y6#:¹Òa„Øï;×@˜Õ–’ÂCžåúÙÍ ¦àtÁ3ã¸¹LËsíb‰5HUÕ\…¨jÍÂeyÄ"j„‹‚„Í˜¥#nÝÓýÎCkÅ¿ßD­I„ÂJC©2v,:úì†Ö]—	9Î¹‡qVæ,'û5©ô¬û·¹§+l}Ö7i¬òäþ«$¨ÇDDˆdŠ l3áú˜•HK÷oPP¬JUÖŸÜJS²{VB‰ ²â|–»ä¥ñ2ÆqÈd°YIq1¤,öd¨… 3"ji¯té•ñ¶ÛkÏþŠƒÕ¢Jô“ÛÂè^MÌ»)´±•“Éˆ®ásŸës§j,Þdö¾´F~$Í^93¥=û°XcSÊ9ØÐ„=¹á Õ±}îõ¬ÊRä¨óàH+Ñ 6œA„HØ±¨ä³ÛUÊ¡ÉS)HÚøÆqµÉàØùÍ«–£è¤óo2Å ædá?	–Öd8e†  i³N†s"3 å,GéÕcíÔ¬s)€é™±hí³›^-~h)6éW{ÆÈ.½J3å×³š#dqÛ:‡ BZÞ´"÷Z¬ˆ±Rbì´gÖIp5¯$”ŒÒ$úÑ" ­]
-…±Éô¨Vþ§7š„¿#áIÀÇe'—uÄ8ªUºµÆàÂkU„k–ÐV¦;ÊÁAbÇbæ#,TÞýƒsv¼ÁšN
- b$ÌX”òÙ-«•±±ÍÁ
-‹áÆô#×J›Êaˆoµ‰«4544¶Èâà–6``‡  q³N‚]%Œ³¤U°vjÖyˆŠAdMØ±hî³›_)Q¬‘Sê€©‘áJ•nÛ2ªZyÄuÐÚåeKDÍË–­Ê•.+­§nàŒ  ³N†srÇ8K1ð¦¥uÄNe³}ÃT€UZõÉ­­øâçIô¸·)z1~ÂÜ)?É»YñÛ5ZBš-wé‹!E¬¬äŒƒ@‘ƒä£81£Uº’5®4Ë&'Elr#(²þä62¦šé?™;ŸPa}õ 6ŸÄ’&ö"æ9òR²Ë…¶c¨ 7<¤€à£ÂÁƒœÏÒbIrßÏ*‘ðKîœa”ÍšŽ<d‡è2ÿìÖBÜ¬qÌàH`¸”N[ôùÆ0ÄiŒ(î÷f¥¡›qFPÐNî£RxT9]º8Y;Å=å¬4¢Â™EŸŸÝ(kób˜N=øŒþ‚‹cæ—6MŒíUåˆQ{=AÍe¯+B3¬´æeãŒ¡ ³N‚óa8Œ!YÞžIXûSÈö‘ç^I%ŸÝ®Zïrõ;ˆø4 Á%d¢–îÊ:%ONÆ“ŽÅ‹)5{~H2 ‹•eÒ	Ê¢°qkTE\ËÒ€	gqújåi&´QëÍ—MT¤¦dÇ¤¹Ïo~°KÏóQ‘¼Ù!ö&îÜìŽiî¾Ù`¿ÖœÒäFjÿ&%ZC-V—Õ"q½Íó<ã¶@Âõ|s4o™H°]ªŸÝ:ž: KûâÒ<þ3Íë -ù,Ã;• jÅ'E'·Ø€[²|—†b~}Žóá+cýÞ¬iÔ•H‡ÁÔ°8°èçÓÙË•Æ~6I§ÁIY†õ`Y*1È°ž…F4Ž !q”‚‚öÐ »¡•*#§gÎèO«i@ v´€C¸„U)ŸÜœŠÏcM3"$ïæØ;ZÄÕ A’¹‹¯kWOHËíä¤'šÑ* „œ¯Š z¨ÒS„ì„–«tví-BÒrIPXKŒEøŸÜhˆï5§&o_P'yžéÉGð@5žd‚¢NrZ¸µ)gí¤Nòœjlbü`œyƒ¶PÔ}NK# œYôùÉ²øé5¡'algÄfâæƒ¾O-~º'…’þ2öñNªPsœˆM)`¬mÌ4mVCp¾ˆÕôÁìKikÈ.—Ê†”FäL˜±hí“›^nÉÉ%:§a8Œfii¦F%Á0-†!¡5­déFd¥Õ ÂA±õ8Ãí1.ŒŒ‹acQ6»tHD¸ý|z#+Nöºóž#âe–Vj”ÑÝÛÎ¼’´nÛ¾ËˆÞ}7y~Y•õ¸?C‰p{…q€×_XØe&R6r¦ªä³‹Ù?/]"¹Eîlþ r‡àð‘{Û7äÚ©’ ÎËXŒˆW¡ä.i½™Ed@JcÂFÎT•|vcÊ$^see)`¤.½ÁcVþòu"<¯Æbrõ¸i9ÏX<qnq|×å(Oëb¨ÁìJ5€¤ê¥6%5ó4Kßy@Yö@¬K‘ìg·ˆ=¬uf}.ª”b‘¯$“ðÙN˜G.”˜bR‰&ì´G‰)žœâÂ8áÌÝ*’^LŠØÄK8PTòÙM‰Äy…y†	ÏÜ<Ð|ëIÐYÃö jQ< •†!tŒ3‚‚vò€¼à’<$œù1¾¼ßNDñP=VÑ áÌ¢ÏÏn”Ýw¹ˆÌ¡àe†‹yÝî¡È£Ö±ó•×‹{ÌRÌˆZ‹Ÿ(WÒ¬´ìš| á`‡ Eëæâ|ƒS ÂŽ÷p
-@¨u>‰¢"¥YÎ,šûìæ77Á2ÇKÇÃp˜ÿfÈDxeX.!	á•á™yŠëðH;)Í<C8c(–™‡á0ãÓê°v²Ì<LjXÓ rfÒçg7ÊØk•“É¼¼üÆI1È$9É%q@’üèõ+$ÇÃ¤±“V$iðpíeÿ.àG*&¨#M!ÍtèŠl÷™)çgÖÒâý;&2¬X“ùg·•’dŒÇ…¼SóÆq>ÈˆÑ’Ý­ëåÝËA‚M5¢Ö;V2¸…–VÁ-ÀØ!(hÜZUa8iÏ2šp›ŒÕgíDÔ¬s+eÍØ±hî³›_ƒ?•ŠGE×äéLnÓ¥ôÜ	K—'=cˆÇŒÂ€šþÉì#/`T´b	±
-Ü‰E¾ueˆPdÌj–MšNJ#b$ÌX”òù-kúõf\Ñš€Þ®i2j¤…&ÎÛRZq»-–ºÿ{xdáa8`yÏñ¢¤c–|ü¥ù(ÝØXA¬3ÍÆÇú÷,ÙÝaGIÑÏòøtê‹û«~½Éµç™me…+º¿ò™°¶F€÷‘Þ,ËóMÕwq¿ö™6‹ÄßŒ-þ¥-1Ézê„d*ÜV‚¿’ý½w°Œ”g.NB„T!¿T·ìë=ÿÓñRÒ'ydaçø+[2#ÑÃØó>ö%@$Ìã>|¶{ä#³¿²EÅmw\üò¦üZ§WOlæ‰£ˆDg¸Ï`ý¥A6Õ4Ó]l§Ó1zNü¥<ëlq9£>~©Å3vztŸ±G:½Gº_Ý#©#‚z<TÓÿlÊc=ÄwÃ?ƒM SoOæòëY|<õˆf»‘>Ù°páWƒô©†Â|Ó™oŸ‹ùÍ8šní—‡ëIú¶+ñèoÛ3t¿Ø@é
-¿†v}6É]òå3J^á×Ð®Ï&ù¬K>FÉ+üÚõÙZ’Œ-AÜ/]nnUšß•9ÞÁ	þ	˜¿ø·•ÆüJ&e¸D	2L.WånxàœLØ7Öã"ôä»‚“Ù‹ÎWS(s>•&)T¹!¼'U3š·V\wÎ;ä¶BèrN)cë	.Ö¶v2´²è£ÆoBÂ%x¡,8áô;E=O}¡É¹É Ò±ý§UW¤ß:ÏDdÀÒh+|Ê/S‰»V6’“Ù¹æèRšy´EmRÍÐÝv6ƒ ‹û¯«_AÕ>¤í7ä‹¢úJÎ¨þgš
-‹p4pY^A &ùóqAÆ,½))éè…ŒÈº2+ŸŒ_6Ôü|\… ¶âúÑHT2OS‡ÛèhŠÇ— K‘.÷‰“ÁcÔsK«ÌI¼µKfZ©P@?.GÃ2ò'.¿Ï¸.Èö>ÚQ6ª¤º´©$öPOiŒ_nÍ´Kl±ÁëU3ft[‘	%§“ylQ:Ô–úe›cƒ@žµnfk—‘üóJÖ[å³Óv˜ÓÀÁÜÂl<Ö’·‹#1ìR¬¤?†‡ƒ˜ÚìÍ3	öþ{]-qûo°ÎäiÆÀÉÀbŸP|€KÞ%¥<‘Ø^&{ÏÎoß3YŒÆRKD=R(Ãå­üÐ™Ndô¼k2ù(µ…«¶5pÉíšÄˆë4ø“÷iJ®ýuô´ñK¾²wIÙäÊÌúõ|n®¢ah˜¸‚C·“á˜çqj…!iÃ½?Äm8ZHâæÏ¼ˆÇ¤9WõR¾µi¤æ+˜œë)\ŸÈ]Õ4Çæ	™D~,¸ÐèÇ|*C¬¨]ÿ|œŒnýN†<oë7ÇÈÒb#ÕÇ¬EzŸ²Â•  N^X]Á¸¤) ÕÝ‚™7ùyh]¨dröDE¦…›ÁÉå±¾¾!Î»ÕBØQ&îY›‚¥¤¢Œ¯ø nF×S/á*Ä[³vŒ9¶o>`éYQHžŠ“QÙDÁóþäï'†eÆÍ–0˜½Oä*o+\ú%’>HÊ§Ý˜ðK‡;.IÛÃ Iît¸ë:1çóá7ß$®öÂÊÃ¹®"—(_½Ó
-ñœ”,ßu`sS	3Ô–Ì‰€+N®ÍØÜ9q…á„\Ž|:/ë¯Ì×cÕíd@WDAL\Û
-ÁÈ Ê¡.h.ƒ’ë.*·kt%UBs™/ÆÉËÜaÝ ;ÄeáÄÉûæÌþ®Êá—-['.òåî µ
-Ëb\>O¬|É
-|àzÂå>,ã7,÷a[Àpx+tAIA’ØU©¸ã*ôþ..÷:yháê"åÃ·ÿv;6é»Œzpå{dµAÃ&N‘Í…$G(?ö8’U™Äì	™OÕŠ+U¾8ë«|¤ãC¸µ
-¬‘M’:)CzG?Ï+Ð-kÄÁÓíWpk?ó]ÉN2×jXžd°çÏÇÍ„›ùA”wÃePêÄùæ¤êš¼á¸piêgePÄL&—ãdjE¥*€%ÊºÃ÷²Îö"¢7Ö¼^2õnÆ¾K1B3n.Æ„˜ñÛq¸¨dÓŒ«"ÙéØaÇyé…af\‚,Øtˆ¸Ë˜:>ÿv’Îq›ØåŠO*ƒ?m^:HÇFŠ¤Sa‘N¥¤•t6Þd£‘¤xÃQˆ™€ºB8n‰`8a,6-ÆqhØ!†DœAVt¼K~œ€Ýq±'e´	É5u|è3\K`#õÂFþ1=ÛWœ>ÂÇÉL5g …“Ø¥|œ	9“8òFÜ)¹[".®DX•Z¾#ášç4œ{âZpQS½%ÁJö3W¢g—~‡kb:¢·Ö-ÃÅì"î²ç«.âVf–é¦®H‹‰9ÁáìÜmÊd’J½amõ‘¸æUÐgõÅùê*ìÒ­¸Z¤»7¦ù8'g¤øjí¸éRí€LƒËe³æØ‰ßp×éÝ$¦Ý“püežÂÞzZàm&QÙ¥¼éšxx†8.J·’RU”³¿Â:ÁŽò±GE\!@G¢2÷äDuèº×ÌåŽ”önÀÌöžHô'ßÓù>ßTlIvÜé…òB†ý—"à*|åST±2`0\8`z[€(š‰“³Î:#¹Ä"Ý³çúþT#úãîºƒA„mãtlšpÅge%—'ÎÊ~Ã‡¶éBÌp?Ë7†ÎË¹3¦Ž
-1ãæá…Tå	Î‡p2ÏøèòÅÆàæ4+ß€ÎMïòÖCOÈ”Ûó#ŒùLüAÌÅïºp.¬Ár[}×óúM|Å®c3(®õ>ÊoA:pOf‘5Ã5'óQY¸à&PWV£™N\îNQÿ-i;f£føQž³ó¾±²
-ËÁôè`ë4FŽŒ'Ö‹G?ò’iPhÿ§82ž°ªØøÄøeƒk4Å!¶ŽÓ÷Cò}âÔ=Þ||‡´ìl6¢IßÐŠ“]éÓ‹…cÇJ¾â1ë€ÄãH»x—¯.*CF'{‰}Ôa¤}€b¥?F3ÆâA¤í|‡¸¯T’dŒ>”A†yªO2½Pk1ãÈôÇlÖŽCå²Þc]·X×AlÝ×Î/lÉpl]Ú½Ã³ÂcqÛuïû–Ä(’_¸ZO~ß³¿CÄý@ò20–ï/’oIÙ—Ì#l:Ù¿té%RöM#è>¬§}âÙ÷oço²ï£…›GÊÙNäÍ»'n[Ø‡ÌpëËÅŽ[é‹îpßþ0ˆñP{3ãv—FÇèAŒàgé2eéÂÔ9‹Êh‡•ÇÓ_åp1´2µÙ#.S¶øŸº|§þ§Tð ‡ùŸøŸ”ze¸rš!÷;iµªáú/ÀÎtàäSÈß÷‘g©§™;qA ÄNMë—Ñ»ã?Ö>ckÚ$É¾òã¤,}T‹ÙË.ÂR'¦¶8 é(_¹øŽÜäœÙSþp\LEcé†JÓdæåô®èÀÇ8f$35pÖ,Ò%©…»ËŸ,Ïé.È¨ºÑö3çä&#ÍÀ¸¼“ì&âXÉw…¯DÂ[7f`ÕeªüÙÏœÛœÅÚ:ˆso‘å»îkµXa+‰}@#K2gá¼<‰K3:–gÄÍ¬¿å{ïÎÉ ÚÇxà<_¿úÛáÁÎ(fÀ¹7¢SôÈïOÇµù\,gé†TWæÎ]PnFˆ~ÏdíŠ<×ç¶àÖ¥Å@]&ýž¼Ë«ÛÍØQÞ#nÕoYØïíãæ#ÿa°‹ùÖýS£{aéð”vo8:	gpýù8°€ìö;Y»±äÑ#±]ËÄ²—ÃïÐ¶³—§} Gú(­×Žƒ1…¶žŒQ§ÔÈÀIEoÇáÀLÍG¤&ƒR¶‰mÙ|mÄ1ŸÂ"¡sƒM¤'_¸Fv+ðòÊh•ólUïˆ£KŽî ÑÃ¹n™éèqýÐ e¬‹’ER^N„Æm7óÖÄ–k™„5í+¾aÁ¤ÐµNË3¸yK"IXàÉŠàp¡Íë5ã`À[¿¶\f¸âZ1ãpŸF­kÛêQ«$ÄFÎW>?¦%¶áÌ	€9ïf¾¼˜¦O€lÄaÖŸiù‰ 6ìÓ'`ØØgãÆo°ð}6nìlì•zAoùicŸû¬lìå‡™IÂd¨|coÄm}Gß½˜D:­qcŸõ}6nì9ŽŒ_Æûk¸mèÕ7öœ´óÆ=×™‹î6öÜ"q–åŽSu6nì³qcŸï6öùncŸï6öÙ¸±Ïw{ÚÖmcŸûÌ7öc÷ÂÕÆ–Æ½<Ç‘u­qþŽ¬»Ï½<Xz”F­,ñÛzŠc[ãvý5Ü¶{Ò·õœ´íÔôm=;Û$Þmë©y’15÷c³ï¶õq«^lë³ØÖg±­?¯‰ñ›,šûbcŸùÆ¾Á 6Oe²"ØbÜ¥¿ˆÅ±›/ún¾è»yNB“.ÆÝ<Å‘®Iëµã`T¡­'£T¹ÛÍSÑÛq8êwóYßÍg}7Ÿ»y»ùlÜÍgãn>ßíæóÝn>óÝ|or±ß{SCÅ¸‹µ¢oë‹¾­/ú¶ž“HV[ã¶žãp™Íë5ã`‡À[¿6\f¸»á:0ãp—¦oë¹y’í¡q[Og(²­ÏÆm}6në³q[ŸÛúbÜÖã¶¾·õ
-¶õJ½ ·rnë!í3o¢_­·mÿ‹²ýCË®¬Y±qÏÏq[ÇÒ7ö&‘mÜó}Ï_Œ{~Ž#ƒ›q/ÿn—õ=?'ms€qÏÏu@¦¥»=?7Cœ‹¹Yã„^Œ{þbÜó—»=¹Ûó—»=1îùËÝžŸ¶uÛóãž¿è{~ª6¶Ð4îù9Ž¬~{ù×pdu®Ÿß—»óûbÜèSÛ7ð¯á¶•¾Ñç¤m§oô©¬Ùþñn£Om’ì”©Ûïr·Ñ×ˆ[õb£ù-#Yòù1•ô}nö}¢Ì53ÇcòT;.Â¬_"f3ã²ÌþL‡å‰ÃKÃÀ?'³3^ñûpßù{jÙ–.©dÆý‰KØ›Ž¥#&ï1mGË¼=oÑ!tÍäZ'Í`àð>ÓÀÕåä+X—¾G”"Ï8_L¦aÆ·‡u»=ƒ,ù)«EÌªaÇmŒµyÂø-rÞÅ«"úAÂŒË-ÉžbÙ²´„7ÿŠL–6qQn®lElïYŒ-Ëû¿ä®p’""ÑÉNÅ™
-I:íò“‹ÆcÌ÷.]’ÔñŽ4„D˜ï1¹DüNó8QáhmÇå¬ÝšfIÇlM’7®üœìÊö–‡[Þ0¤tÜ1tp»ý%"ä9»“G–XI."ˆ%ãíÍøHR’z™¿3IO™Zã<âÁW.¨çhéX¤óßKòcGöÊ”7o2žF_3Z¨G,ÙûøÈÝÁ¥¦BgÇ°üÐqÛÇø]î'COQp5‹¢Lî¡vö€ÉT]˜I?&TÜa?¬!T’%þ"¦î[ypÊ³TÀ¡È„èÀ‘TÅ¯á0•2mÉÇLåòóqUîäC,]$§¦fC’]SË#)ÌÃL¼ŠåA2nÚ3~>òÓ¾å)§ƒÄF:†Rà9$®è¸öóqÂ<ùò$×*Ç‰•Ðy¤0¡±h¸.Úg;RõM™ËR•Ï3Í¹‘¤Ÿ«iËt@’àUùÐL/ƒ¯†\™ñÎ–ŸƒGLÒã§˜[¨13ck½”åÃW4eílúóqØ×ÙBz!ØZ|'í+xV`;2—2®ZÁ'V~>®ÉcGÊp¨ÕN6ÎÌJ:{Õ‚½- _é=NØëÍ’¬ÌúÉÉÜÀ‘UÉ‹8X5Ìë­£¥ø{­ã™ÈÙ:ž©­Ï™é˜qdÿ°û›ïÍ>¹ù-c=÷^xyà©øG ëéÕC
-¡ŽŸ°ÿàEïÇÜÛtO$fÎœ]!ÈL]Üy¢t%ïˆû0D‘G@qîÜ|·[’‘ã0Yº†«;	¶3˜²}¬ jÏúžæËÐY6ÍNJ/ò|ãd07V1¶1³ÔéDf
-/Èc„Ë­É.ÈÛq˜ð“Ý¯ý nN˜3mmtf<Mpðùf^]÷F)àÓÌyhH)Ïq˜Fö§ãrq’`)Ë·7¾Ó»3l–àÒº«Íž¼ÅL¿
-Òóª0ý0gÓ?ZOHT€FIÈüs?S4ã0Ñ45|;&mÚ1Í8ÌÎM‡;³‘°áËŒÃ<ætxÝR¡ÓšdS×pš„Í $Û;„¶,ñtÛIlöc¥³	”qË&dÖz6§ïTH ƒé“"{.Ðév_ýž„–5´`¬8bùäþìpÐ3Çàq
-N,òùx ŽLÙ•¢‚?FJxØhÞ0Îm?#LKd‚Ùæ(NÂiî(Ì””A2ÙÒ#î!³.!N¬VN½Þq=t'¡½í«2f²·$\²^dÆ‘åêÞ±oI¸hf#ŠuãbÝÜØ"gu?|O,‘œ§àŽ;Ïó~òÒX¹VûœlMGå8xŽ¬äXj:3rbû³éôÎü†çÃ)’cÅˆ–ˆè˜ÉóiI0tô°ëyfqD½†Cïmq°Q¹ü|\Ý’@°=æ`¤B–ÔÆÈVž¹Š±<p¨Ò>ðóqà5¦}yó5Óá`'=†Vd­j+›<*ùCpp†•çÓÙ¸bG­¶FVÄJ:;™D7tî‰­¿Ðt›ïIgÛî^±þZ`›qd<y‡ãÝÎúcœ|´“ýeÞLìl`jd33ŽLŒ»åßN¼·S6!–¢.à½{!µ€‘ÞEÞ]Y8/Ðx|¬‡>Ããr=<7ÊãIyÍ—CÈT«é]R†ëM]&ÿÕ¸¬£“ÎÜ2sÂÂº/™Êyx°lÆ%ªïg;®Éî®ÔkÄ‘8e*3ã­©>¬8_~Øã	£ÜOë¿'êAöÖ0þó®€¸×_Ä½þb¼×_Ä½þBïõãU‰j¼’¯àJš¤ŒÁ±5ÔFzKÕ`xÿ{DwŸoý8.ËõJ	#¤êL@*l;<³¬Aº.³v8 “ü/Ä \í¼ˆËpa‰É¯¤¨© $¿õ¦Ç[n?G-ô¨¬ºšO¾ª'›ÔÑ4y%±’LL·¿ø‡A=Õ“H,+Ž˜Ï¿ºßÙÈwˆÐÁ©í8X¹'£axot¼UÙ¸*r 0ÛÛ/ÝU=
-'ám¿jÌBqäÖ"­×Žƒ[–´õäÖf½ËBç:;oÁs =JÑs c9PŠ1J1æ@)w9PÊ]”¢d4•™ Øª•Ý¯ÆD'/âà&{Õ¢T=!JÕ¢pÞÝ¯Æ„(‡9x½f¤Oà­_¸Ì0õ×‡y+ô„(ÜVIbcBº´'	QŠ1!J1&D)Æ„(Å˜¥¢TcB”jLˆ¢ààlX©ôVÏ„(rL¬cŽ#"ó«õ¶„(•'D	ËQS!O{+6&Dá¸­céYO>L"=Ú˜¥ê	Qª1!
-Ç‘ÁÍ˜èä5Ü6.ë	QR„Î1’ø˜+Œ‰S¸®Èôu—8…›+NàÜüqP‰Sª1qJ½KœRï§Ô»Ä)Õ˜8¥Þ%N¡mÝ§Tcâ”ª'N¡jc«ScâŽ#KfcB”×pdI¯'N©w‰Sª1q
-Å±-1!Êk¸m7¦'Ná¤mç§'N¡²f^¾»Ä)Ô&‰+’Úøáß¬w‰S4âV½HœRE†Ô*<©UxR«Ñ“Z…'µ*Raäî…lQÆÍèqUpI>¹Ò\¬¨´&Mw4ÝQÀIhÝÍè( 8ÒKi½vŒ*´õd”jwŽª";G}££ êŽ‚ª;
-ªÑQ àÀQPŽ‚jtÔ;GA½sTÅQ0×]½EeýÓŒÛ|'ßœ8ò`'®Ïšîhº; éî NÂ•k3º8Wà¼^36¼õkÿÁe†®+3wmº;€[$ÙVÝt~"î€jtT£; ÝÕèptà÷y'ô¹
-®¬%ô0AØÛb’ÁÍÍo×%{wò‘YÖ>n*MäÎ~Ÿo¹wÜBL\Øx-TV{ÖÚ_»ŒBþŽ÷ˆ•,;†öïz­£ÕØ.4Ž±¸Ó£›qÔ¢GÍT™øÈ.mI½v8ªëj”H2[[M2:å#¸"Åù"Bš”vL§¡Na`è—(FžÕ\He)Ë;cÑ6R„0“ãá¡~XÈä’KðµÂ’Ñh~6.Þa0a0—+‚qÎh„îÆ[·á˜¢ÐÍ³c6,ÊxÒf¨‘`±4Œd­3¥ŠtLS\Åb^å“÷ZF«Hd©a¤Ñ‹œ«/òó;¶·Ž™Ôà‹Ìß¬©£ù0âcèWªsÇ8˜VŽEÌTbeEqUÆ(õ™jSiGnNEÉp7ŠŠ¶$ù¢=WUI±lŽ¢ï2Ç·¬MIèÖbFø(¤’˜ìGõ-©lwý‹‰aÛuíÂc
-&ÿ±×î(Ôg›iäPñÓqho†Î ýrö^ïŒ»–åm£ézTd¤+S°¡aW\	ªÞ÷oÑQˆÙˆ‡£ßnŽ·$[™…[ÇjëØß:ÄšÓ…ë>Í°µ/›œØšMvtá>3ÌH×É¾G˜®ÙŸ+ÆÒIw}Õñ
-)nw·tûDZû&3º$b§›É½ˆ`{‹6±·d{KªØ‡ÙjboÉ(öl»qEÔžVD¯ˆPìºµ7£µ7£µ7ní°>lsœ••¬7['—Ã~:×ÃBýV®×_ÄÁ~‚·7%\Î±€£½×”{l(4é-Þvhò÷ÀáôÕ“¼0+Ã„J=Mï÷0)L¥õ£$HÔœr)²4pí[qãBÐÿJ8P0o¯—ÖÕ6®Ô{â:1ëdÑ~Kª~+2Ö$æ°Ç1³¿¬Šóq}ü†…$\Ž†)_'Ê‡ŽÊ.VµÄ:þô¨‹Ñ<É9gá<Î¨/è31›äNg¶R0z®­žpŠ3Ð5c ]3Ð)8 Sê…“Ž¦¿(¶šÈèš1€®)tp´cŒ‘{·Jés&‘ã0c,]Ócéš1–ŽãÈÉ 1Fî5Üv¨©ÇÒi¤­O"6n§«Æ :® r0|@ÇÍÕíLfL-¹EÃÉU>ë6pÇ{®ÞáIyêŽr¯?ê%±YÑ{)™—žDºùY¯ ¸FƒànH)Ñôø8ª”aŒã8)bŒ{{G"Yôø¸v×ŒñqÇ"yŒqo¯á¶ $=>Ž“¶€'=>ŽÊšÅdÝÅÇQ›$fÔÆ¨µv§·êE|\ñqMÄÇ¿!…úXz@:Ú*×Œ—Ž»1NÁúºmë<´ž+ê^ž-~?ïæÝ[’/\ˆ°²˜âÇÁ…Å1¿á9‡·(G‡Á‡jÈçÃsrµ“MÍ¿G®¼¾ˆƒ{¸T~ÛMbª‚ãÒ1Õ7¹¹LíŒà¨%•uO®§oLvß4þˆ Å
-¹äý«p ÊÃgD¬8bjÿJ8èª´½vT¿vaÔÊ4ÜÈŒhó÷µC×Ãž9	-ÝöLqdñEëµã`±HgF²øìwaÏtZ¶ãp1ÏÃž×~`_a¼ók†Ml[4Ö6mßÕmDÖ:lëÄpÁ'SÁp¾4r] ÌóY^Ãðþ…“k6Òþƒƒ£ŠõBÀu»¸nJÀµ<t`ÎT¶“îÆPìq°Óïz(v×C±»ŠÍIèøÀŸàÐÃë5ãÀ÷Ä[¿ÜW\fè7ã:0ãÐÿ§‡bs[%Jc(v3†b7c(v3†b7c(v3†bw£c¹ËÝèXVpàXVê½uÝ±ÜuÇr7:–;w,oO¹t¶©gVlô&sÜÖ±t—ñ‡I¤G½É]÷&w£7™ãÈàfô¿†ÛÆeÝ›¬‘¶U¥îMæ%sŒÑ›Ì-cŸp¹îÞänô&ó¾‚Þänô&+8ð&w£7¹ëÞä®{“»îMæ$\€ÒN¾y“©VØZ×èMæ8² 7z‰_Ã‘‚îMîwÞänô&SÛ ½Ä¯á¶½îMæ¤ÍÇ¨{“©¬™{óÎ›Lm’ø`©>Þ~çMÖˆ[õÂ›|ù¶ßGz`Ty%Bdf/¸aÁcÒÇŒó$Ž´ÏG·Ê0žµ³¸ÛS •a¼íP­ÝÞãïG‚Ù,ÂŒ9–UaõƒÁyM›Eâµ©˜Hü÷)ë#Xœjé3§ª&±ê§½<¾ÜîÁ]+êßÔCóäÞ©?põXRÏ“èxõÀ•À54H]‰67‘À4æó*ÄQ	¦¦àÀZÏªzï$R#ÇÐÍ¯®(·¤ÛqIc7æÊÂ±€+ßŽƒ¼Þx¦èXÅŒ“}³¾5q=Çlqˆ×õC¼n<ÄëâµyÌ^2Ü˜ÊÌrg:ì{'gá{:œ¶¦ä»˜æª8~¬/Îäøå8\'ñzí8¹®ã­ÇuâEj¸xå¢·ãpÝ­;~û“«Wýµú”ÍñÛ…ã—ö¶Ë1:~8~»ÑñÛŽ_Ú~âøíFÇo¿süvê„óòP‰¸é8“C÷UœÜ”œæø¥s×æ*$Íñ«ÀG±&ÍÇ¯E©×Œ“n"¥õÓÓ¤È\\ŠÌ8ôÏéŽ_n«Ähtüv£ã·¿ÝèøíFÇo·9~³³9~³³9~ÎäøÕpÒñ«Õ+õ6pšãwk"uü’Éñ;ÐS¿ƒhrüfgsü*¸­c©ÞÝ“H¶9~Nsü’Éñ«àÈàfsè¾ˆÛÆeÕñ«¶9ÀæÛUt@¦¥ß®b†›owÚ²Å·«tðíŽeòíj8éÛõZ|»óÙOÅ·»‘¨ow’”¢B‚5&ïÇ>„4µ’Ô¬Í«àÈ²Úæ¦}G–ýª;wë4Š;wMî\ŽcÛ››öEÜ¶cSÝ¹
-iÛªî\.k¶1½qçr3ÄÝ87ë}·?:¥îÎU‰[õÏîÜëïíãg¿Âå·Y‰¬}XKžý
-Ùñ<šòFÚÀµm×^fÞÃ¯yYÝñá Éh×[¡r ösß$—¿.¬÷)³¹òßYÌƒÔH}!ÉÙÞ³‰aìÅ@?pž8iB˜U¥„sÐAªÄ"iQx‡­ö,nÇ} ‡+ºepñ=I¢A9Œ¶‘œHÛ4Ha¿ü±È¹5ûÊÜ…E^9¸„Ø/œ°²Š=›âÒæT¥$9e/ÜÒf¬éhJø?n®¹‹;‰ça…ñàR—k¬—?—äKpñšî¯ÃE¹Ã+ô€ÏÚËpN:‡Î“œ2N¾«=p®ƒI—Q„´+â7Ìóžÿ+ëñ°xÛ†n?Ö¹Ûoße}ÓÁÏsZq5Ë“—¤}ŽAw#­Êë7ZäR Ý—@/Î£žóØzÍ	ªcxþA¢¯sÇ¸¦?‡+q®CgÖ,P¾g<p.ž¬¸^äÒ¸É×[—@]—¸ZŒçVUIûÇøÍÇ;t7-˜lu–!ñß×äp€W NŽMWðö~ž‹&‰K¯RYÏ‹ñ›@“KRP‰d?°âÒ|þDòñ
-®fÒ=˜ŸêÀ2zkô’ê¶©Nùx%»È€®Ý”å­n-óÙn¾NŸ$'EÂlöçãäiÇ¥Ã¥ù¹ î•’H_gå³±ƒñËÆ¢ŸCÕ±1õÀ5À‘a>AÎÕ¹ËÁù<e™eî~`©?ßºû¤îåí©v±x`“^J2£™†+Òû@'Ç4ßÁ”å‘„Š££ÊÅÁfï°ãdzù£üqóÉ¡ÔVû+$™þdð¬pì {’nž–3ö²änhôFÌ{”ú!É£” MÉ«¸ ¾¦–0ñÌ˜ä.‰·w¬UA.»hÝzŠYQ¤°¡äl ç*TŽ‚±ãn`zÜ²VÈ<ê‡Æ S>mí¸M>ä„šøDÔ–=(
-_O&Át3öÛ²ˆx¼¾½ˆÒ)ã‰ }—ÒGéGÜp°G˜8`jö:¡àØöhžwˆ=ÉÝÅ¼¤ª´ãºà‰iŒ;IÎÚ~ôM””7WCàÕ0­ã£RÞÍ(I/À‘ì¨Ö't–Z6¶_dâ•×N7Y,­4Ü_¤yŠ#Š˜¹óûÄ$=²/rm½á@OEæù›¸Þ‚ì>*Nô¤‰ƒÀŒÌ—B„Ó³“åUG$Åpl~ õÖÆøÃv´ÀøC¹46"9+8Ð[“ù(åÏŒhØ¬¸e„½‘ÝfÞèg)-*X™GmÁá©©W“ˆ¨¸Ž—Õç+1s` ÞçÉh:Î·cc¹ˆyÿ~™–=TÔß<‘zž1\à±óØ!Åí»ZÙ¢ÆâtJû}4‰\BVÜ˜ÉTRÓ”}GÊ2•,·+3n¾üh°{;®È¨Ú/Í¸*»ùè`ÇÅ¦MF¯ƒ…(sˆrW¢ã£u¶§lôÏ3‰„a6¡82;±zÙlÇÚÁfO&639sÜâç3¦PÙ<ø’Ì;x+nàšŒd8âämNn!}ñÇÑ¢ô~ø"§ö?'3\#žl+®ûíØ·´}E6¿Ýv±ú°-[/I°j®2ÏéÂ‘ÕŽ·ù¾ßŽÈëL’$…:ˆ­áVqehƒoû¥¯`ô=å£?L4‘VœœÆÆØ›ÐeeÆeB$~¾_†›çÁ^à:yãÅŒƒmêÀáÞ¹¹÷ÉnmM\•Éå5D%òzœ)ñv´"2¸üHÜ@ôø&Z…\‚2ãLñ7!;)ÎÈŒñRJ1”HŠ€ýD$§ëÅaXWL¶?;N=Œñæd0ÛÉ ‚KrügòÜO#$ËúNO£·Fo;öø
-	O£?OË:‹äîOžþð(1ÊÍXtlêLQ¬D—ñq¶ñ¯ÇŸŽçõ<À,XH$+$"G’¬3±²ÇLì80–Ð+ú³7{ó…EÃa~hò= á ¿…æq@%]6Ìu&4‘àJ=F¤²âµ.;¦h¶i²âàÐ?ÌÄ÷`Ç›¨SG'3ÓV’+¼k‡y%Ù`%!ù#æÇ‰hÌcCQö-5Î‚5¾C"ÇöâlÃø“ýWˆÛA~H[ 9Æ§ú"g·Tÿ)ÃhØ»kÄ›MMòçãàÌýèMäØþì…ŒÈº2+ŸŒ_6Ôü|\•SKèsôÑ”ÌÆSf4lHN%É§Ð›G¦ÐbéT`ÆU/7*q¬üP	Øýè”ö¬WàÆè†“~:5§*ï¯Íu qÞÖ¾H•Ä>Ì=‚d‰<¦8_bÃOÔ¸eK&%‘t,¶~”Tä©g$—;™­Òµ&±}ºv%ÜXþc¼3ét9ýóq0 {2Š{J²-ÅlZŠÅŒô"¸X’‹?"&SÙ‰o±z¿F¬¸&ŒÇ5ãHG›ï2‚©âÂ#ÖFºˆG–?/âpGÁÚÁv
-L.vn?™~÷,3¶YfÖhÇážõ*£³Àì|è<ÖÉ÷íÅéÔxî-i†ÊHÖNæ¥@œã¥Ã4¢àäU€É.BêÝY/Mú#Éáb¨´ ½¬Éµ“$Špìußex^rïZØq–.½²w›ÜFtòNNì¾¿@ªeö„VH®¨êa°lò„uâŠÌ&?pŽ¨µÈÕòÄ‘òr——fã|óÇµƒ%0§1Ó‚(XgO”¢`"K¡HSDH6õPÜ½4Špý•[ä*bô§Ô•Vrù÷‰ØšÑÿ1¾ðóã@{c/ˆ¡€5¤ ÙÂ¦@BÌ¸@ÿA&sØ:®Lò6p{yÝJ¡á,[š—ÃIš¸meÆ%yš5c£ß%Aøô ¡Ÿ©´Š8Ì2’{„”
-.ÁìÉq8Ë2þzlþlÕzËUÌ}DfÅ%ù>Ä0¶¶5pqròóàšÌuI”(Å±L>.Éc­#©†×}mYž<ìÛîiË(—Ò"a²—‹ì>Ã„þ(Rƒ	È§Œê6âÖ­Ñüû~€’<ý=%{!îYî‰äà¯~‡g•¤pøq\ˆ­?˜¿%‚ß.–b"zá©D’"Švá »¶B{ššÖðÁé®úñˆ¤ù£ˆÄ _ÄA;š»uõ#ïÜÐ ’vó½`W 73Û¨¾äˆîN6:†è0CÁùN2K‘QÔwykÈ(ê;tÇQTÁe¸ ÀëÍr¥6pä~O‘áyêÍ°Ù‰2diH‚1¦‚ƒô'AäÑzÍ çÑä$LìŒy4)Ž$¨¡õÚqP‡¶ž$è	wy4©èí8¨¦v³¥Iò×Ì™ú/¿Ç“ŒOÿ”Gsþ¶äÑä8Ì£©ádÍ‰³äÑÜÚ…åÉ<š¼ý˜GsJÍ’GsFÝªy4‘> $cÞhK0Œù15\ËÃp9– -èy4ƒžG3èy49	S¾cMŽÃÔu¼^3ãÛô<š\f˜1ëÊŒƒt‡ÜæVÆDn«˜ÑÛòhÎ¾iÉ£9ïXòhÎò,y4'–<š³›òhÎUÑF‚Ô™!’1—¤Î±’áSg*8H©ÔVTJc 3„Êü|\ía[Ë‘v³Î¼¯M±#”¾‡ÄÑÉpéœl;ÅA,7ƒ‹ycŠ	ÐA÷»,8SŸ¸íBT’¯‡^ˆqÞ92Ô0VM–yÛöÆFª2·õd™D·’~!t}ôvÜnp?¸u+Þ†["v\®P3.l^+6æ@ªµaXè-Ãeá1kÄÝUXq—7—FƒáT‚çÉü¸”ÙÍ%¼¡ÃqxãGÇ	m¶Ý„Z¹;7¡R²Ý„JÉv*EÛM¨m7¡ÎpJÃI;H‘Ü›&7â¶ïñn^òäî·w“—©ã>‚Ã»É‘'wÌ¸uÝr¥wÀˆðysL1ý‘uJî.D¼ú1ÃÍíZë"i×aÇ^àP#^¤M7ìb®‚Ký©üý"0g¯óÜ)–;âq#úö/x»šªÙŒÃ[ÝÔ¢ì8¸uN-ÞŒ[ái'¼%Á™s0¸'b. :‘Ütl#¹
-tœaì%¹èXNr3Ð¹âl9èÜÅÚÁæB&6·29+8Ð[¶åpHÅ–ÃAÁ-#,jN"Ö_m9öÎjËáÀqdô¨79R³å\øé¸,s8¬¿ð)Ûr8¬ MœŒpêá¸}Ò¢•m“e‘Ì—ù&‡—·­8©iÊ¾#‘u	³+3Ž¬›˜ÝÛq¸®cýÒŒ#‹M6:Øq¸f£—qçbÝ	1\ž7ÂfµAF«9ñ²ò–W|†B¤ëbàêá–“'Áƒ´Ÿ»„V‡<æ.æñ[^ÞÍóÂÏNLE¶(“pÕ i/g.ñ Í«4¢¼<Ùæº¼H˜>Ô"½í3dŠx¶`›¶òÃ6·ÂÔ4ƒ‰6’[GŒ¹ôM®e{gØaÚåSr\¿ËöüÊU>5²üâ2TaÃÿ¹ô0Ü¼ö'ýt
-.ÈQw>`)¥ÿŸ©ƒÕÃÛDoÜ®¿Mä³ú6‘7¾MäùÛD	ò‚oÉÍØ¹€7¾LÄqeK–¦>?ôaž‘xãËD^™È_&â8<.òÆ‡^Ã­“.ÎÒiªq™áÁ×rå§”w/yãËD¼3àËDÞø2‘‚ƒ—‰¼ñe"¯¿Läõ—‰¼þ2'‘S{õÕy® àÏqF-xãóC¯á0ªÂŸÏÁƒ ó€‹€ o|±ˆâH€‰7¾DônÅÆp–îHpñ„¥,ÝãuÙº
-é0Æ`Bžªå˜®"+}‹ÿˆòXwŒHL‘·=ß÷«½«Ø¯3eì<	ø¦ƒŒàÍhïÙû9³ÇNœEÆÈ$Šc†hŒLRpØ‡Œ‘Iþ.2É#“¾¾¦G&¹§X$õ×Êöl‹Lr"2‰eÙ¦oÝ#“D&9cd’3F&Ñö“È$gŒLrw‘IŽG&á³’$=]`#“\…Õêñ:]õèáH^Gòz8'‘už1‰ãÈzÕŽ¤àp©­‡#q™‘m‚1IÁáë«z87Pò<¬1ÉÃ‘èÓv$ÉÃ‘œ1ÉÃ‘ÖRq›„[Øï46ÉŸõUp†­óÜdû¯ó¿¿ÿÝþ¿øóãvðœæånæíBœï&‡MÅTåÞZËµÁ¦PßVÂIéd¥µm…ÌlhÂ*y#ÁJŠUé›”#k  f5D¬´CØÈŽª‡o_þúËà!•TÎÂÒ×ù2fÀQQuý/3U þ_D´ÈÇÍ¬Ïp,Xç…¤E×ê!°Pßf¦Á7Xiâ5	3M[u\>!Æ™“'a´€šun‚"0} 3­™M Ê'ÛæþuÚÕ'æÙøóÚË‹¼Ã¦åx‚š"˜Îâþn dÈÜQ?!l\¯²	ÑK-3à}PÚ@Í:7˜|‘UV=¦¹–Œnï›¼qâØ¤­ƒtxëÏ8–À·c5„°. çwpóh"Ž7fakÂ,›áÙZÆƒ|X{ 5ë$Ò!¥1É#gª~¬îŽµlfÄ”Æf¬¯×Î Uq:3H‰FË{Å·±H¬v¯”6VgÙŒ˜¥BxÅpoVö†“¯˜$‘UÞæ±5;±‚LÝÉøÌ7WÂæ[ˆO,B—§5Wác ¨5íÑFZZ‘ÙÅfA¶fU¸Ö![af¬£åYi¢f((ZÈ™qfÑš¹Óú*“Ã2#®‘°Ï3}9^Ã@Ú¾Ì†åºLÎÆJ[/Ê3fá1,S"~ŒHY{Ø°Ì¤CJc’GÎTý5\œ'/öí¦Ä)ÔAÀG›A'óÍqâƒ Ü~•otÂÑrN”Â;«éSÎ‰.©HiLÆÈŽª	soÍ2ís
-MNo
-®ÈEg/òáæZÈ ¥ùÿßÓ¨çéýIŸÄw+`(:"®V 6*x&Ìiñ$E,â7/ˆ‹W[R™÷£¥Ã‚áªLL=“ðÍ`“AZÏ½ß2ÉþAšëÆ*ƒ8Ïïj~+ZAï«"‚Ë0GØ)¾òFLÂ·/g{w ‘%Öc‘¸Ý5Ñ!§L“î7×äSœµÆ•®*ÈÌ‡µ®lf„4WŽNXðì%å€¡ˆ[‹ájo_)3Fw¶HË×#ÿŠq«Ô¢ûrX>}˜|’â|Spò‰„é‘¶ïgÆ!öR#,i„¹A _ÁÓö”†bfDpQFŠžì soó‚2)ˆD	ýX•ÝªL’Ð;òÆq)ÈÀÃVå¡yÚý#ƒÔÄQ_:]A­É§`ÏïšÇ£óÿP\”{+ÆNt7bfÉ¤éû7DÂX¥EV¥–ºB¿SÊÒuùv!Îl%Ïý©TùtMZ!¶Ï².UžÁÔ·•äRL*´´&O)g[uÜ<cdÌÌ„5Ï]‹5P³"(VÚ¡†ÅªëÆ—ñAŒ¿)¸"ë~.7døÌ0ØAØŸ:Ü,»øæËƒÖd}Z4CIFWÉˆ›O]=)ð¨ß'1‚žŒi–MšGŠ ¢"XoíœqÉÊud¨0½R^*=îV4Wæ¯\öÏÅáh¾Œ4ß`cîÐ|,š¡$£ËýŠ¸ÑÝð.$0SÖÍ®ƒëí×â{oÓNg’À
-Lr}ÁSª°+¡8y	ƒyBâùÏÔ™²“¸Gèñ:tXÅ%›ÁÝC2Pvbé¼“À@û7LrX¥Eæ…í<ìØù|ìU.Ãâ³ËüŽW1j—OkÔ\>8yuŸ•Ö\”™ƒ [³J^¤1~¥µxv@yÔ\Ô	Òˆ43&u˜;¬«˜[z–ß$ÂëÞ¯K¹¤¡ãñ¢¦ÙCŽrZp1fŠ8×®ÉðlÆYœ.+éo…v"jµÓ+9f,Z³›€‡Ši]\Ù|øŒ˜åî¿Ï÷Tž-z¾o(GU's*ÔN”«DVq”3†ZûÆf¡”ËŒÇcÌÅµpÁ“ö jVC¤ÃJCIoÌ¨ú1kýh±K¯ÀÅ%1Î½Ê;%ÃårŸ‘ZéÔ:.•ÏHÐÒzîpÊ¢°³N†[S;Ä'FG=lDT¬4¦ž‹æ~ü„=8Q¡‡í©'eûô ¥ã¤zû7=_?`p8N‹&(zòÇp=–1³›\ŸÇ}G›:“V`‘«}³*w):ù8Ä›‚Ë"u ª›„.Ìuló¶]5’ÖPæó"`ÓÏ8`(ÙžU'àB¯baÎ8=f¹ïÜ‡¤YÑ	û
-%Ê8°èçƒ§±½”ï¼]‰EîÈÑ’Swrå^‚¢'Z¸ˆ(g%GNó‘5É.ã¬BÄ$k' ¨÷‰—¶‹°£ªËÜ»ƒ¼ÉŸSÈI.·9®‹ãßÊ˜Œj¾ƒ1H	9_éÛºf²µã® RCIÞWéç½=¼|„ò¨Yi>)‰Ù±(Æ|8à=Ü£88Zk3!ºØSà"¢%å»‡ys[;O1…3‚”¶ÎGßåŒ¡È)Ã­ó7Æß±¦±ó?&(RúÆŒEkf(-\÷ß+|°Ux)ŽD¶“-£I,ckNº;XiM¾Œy0CXFJ„HBÆF%²ö°ÀF&RÚ._dæ*øÜ–—ØSBÜÂ@ÑGÇ¢HÑÉÇcRÑKÈJCãÎ!œ1©Œˆ¡„]JÚCT‰tHiLòÈ™ª«†ÇÜ-Æ¸Ô§OÿM!%ÉûJ{“'	ÒñÎˆ|éÏÔºÓƒô’ÒZ¨Ò½GØa¨íø‚‘æ0¸r¦ àë§ía‘"ˆLM¼9S‡],Åu(Y1#)´KpÉü¥ÄÇl@ÄBŠf(É¨!ÇcfæJ•1{€tÆÇ¯˜¨‹à?zÔ|hàl>‰UºxÈ	r˜„ç‘óhDñ£vVŽ3ÎJ6Žµ‡én»-äÌe¹,fí?w§¥íb'ì¨ê2O±a;tÎð*ßÛ…}˜S™“ÓÄ|wfB8GÔšû:±¤´±‹Ô¿ý…í¤ WŠ¬–y½¦½Ë3 Ï(RÚC¤ÈŽ*mó„Éžµ!w'¯+æïŒ“«ƒ#xª‰]¤œo0	1ÒÒÚ–{ÙyØ•É“WYÅxÍ‘5ƒÝ“dBÁÒ¨"€3“ºÌ±Å3° ùé±};Él934AXsò1äÐÒa†¨Q»´´°DŒ)í×õöß¾÷ÝÓ ë{„]z4ž”¶Éîàà”«yžÌòð‡¼/û¦àš”^Éò$j´×/>wê·PéRäYØñME9«’¡ÈY‚‹½Ë~D˜‰}xdO÷#P’4üü$Ç*¶èÁì€ù'•Š^@Ž“~¹jÂ»’Ö;Ù34ÉQá Íöz8þÎrØ¢µ1:Ê8NºÝN
-<ÌxÔ¬ˆ4Ÿ”ÆD‰ìXcÖr‰R&¸ûƒ1I7W›÷¦åñ_•×)Z,•–Ž½[Ç<ä«yA\dj5b•ŽÄ–WÙ{µðY ,MbkIDr[¥ª¼_¸Õªá÷£Z“‰ÿÆì.—e…p…„ ÖÑd-ODgíäç«­l»xÆNqrË¨uË
-EEJ#b?Ø±hÎc4‚#Âö&3ðF3&3€|”3‚¢f@p‡Ü	;Dq¤qÔˆ¨HiDì;Í½2@¨˜2DÓhM£ ”Ñ€”Fú/áŒ  ÊhàõÑÀ›F@)£)ˆÝë£iÑÔŽ›˜8Qé0ÔH÷#¥‘þK8#(jçõÑ€(Ž4Žš)ˆÝë£Á›ÚT5®ªimPMkDñÑ€•†ý—qFPÆµAÕ×Õ´6@XiDìúÚ€µè‡GngZ0Åa‡áf€Ý•†ý—qFPÆµAÕ×Lq¤qÆµ+ˆ]_ü¸'†|•Çno×d*Üœ]€,\äõ7å5ÝŠ~¢Yø¶c†  ißèK}¾@¸ÀÎL–Igik 5«!²ÁÒ˜œ‘“Ö^0WeX07‡‰I3]w¤	BCÔÃX¨4ÆAAÓ¸	¸"_‹=˜™ùßo ¸	Ò˜œ‘“Ö^0Pe7naŒDòÌ›Z…·GPhˆz˜ + •Æ˜!(h7P¤ç`°¬5€â&@JcrFfLZ3ûçKYîKy8÷ö U‡K•ï×§²r²xÀg#LvOî€ª1ÿ
-ÔÂPÀæŒ
- ¸1wË³á­þìe”ãPÛ44š”¶ÉŒÔ¯ÈùczªºžªIOUÓS}ÒSÕôDja(£žª¦§jÒ¢¸žXi›Ì4=±Ø¤Cˆr(
-3F[ÇSÜŒ£yYÑ¯›Ð¡¯`c–ô|'}[ûÈ`óÇwŸº'µð>+"¸"ß@¡ìÀSs´E€šu’ EQv,ŠyAËÞ¨e¯kÙëZöwZöº–YmeÔ²7iÙ›´Œ¨‹–YD”&-³Æý°–QËN×²Óµìî´ìt-³ÚÊ¨egÒ²3iQ-³"ˆ(MZfûQ-§nÓrêª–SWµ|¨–Ïï@/´6‚²i9u‹–ÇRÓ e‚:µL‹ ¢´h™6î‡µÜŒZnº–›®åv§å¦k™ÕFPF-7“–›IËˆºh™ADiÒ2kÜk¹µ\u-W]ËõNËU×2« ŒZ®&-W“–uÑ2+‚ˆÒ¤eÖ¸Ör1j¹èZ.º–Ë–‹®eVAµ\LZ.&-#ê¢eV¥IË¬q?¬ålÔrÖµœu-ç;-g]Ë¬6‚2j9›´ŒvÓÝi™ADiÒ2kÜk9µœt-']ËéNËI×2« ŒZN&-'“–uÑ2+‚ˆÒ¤eÖ¸Ör4j9êZŽº–ã–£®eVAµMZŽ&-#ê¢eV¥IË¬qæã„iŽ¥‰DSoR•Oþæì¢“Vß’ÌT•½ïŒ°øò
-6- T¥þ <oG«wõçXå sž°N°ÑXÀ.3¬_“óÇôç£íä¼w‘:t Ë±AÊå­ÍHàzb,™³úw‚äù¡§X¼¼kÌªÌIá\O¤€]fX¿&çé)—*œÔ=åy%]œI"Ë3.Ž4g›‘ÀõÄ
-X2gõoàù¡§ùJŸ¼Fªœ.{Ê3¸žH»Ì°~MÎ;›i[VÚÇL›÷$áò§<›h=É7¬ÈI¢G5¤ rÒB˜a¨­	ü°¦Í.âRÉÆ^\aM ?¬a¥mò$õ_ÿ1mu¡­nÒV7iQm‘ˆ¨	3u§­®i«›´…(®-VÚ&OM[ýcÚ"‡Ý)Ù•R¶*ÑÍÚƒ¨Gˆ+ ƒ
-3Mã!
-)*J)X•ÅCHiLÎÈŒIk/˜@L¶@¥˜-J±X•õ0V *1CPÐ4n1*J1X•ÅM€”ÆäŒÌ˜´ö‚	ÌKœ–@¥œ-J9[•õ0V *1CPÐ4nî›ÌK ¢¸	Ò˜œ‘“Ö>¶s¥G:þ$y/ŸÝ%ëÂà;,Y×Â	|1Ì
-X[VÿF ž‹aßáÅ;R¥ŸËÆ3øb˜°ÉŒÔ¯Éùczò.eÓâçõw7->à“à[›ÀõÄ
-ØdNêßÀóCO®gô(@•næÞe<#ë‰°ÉŒÔ¯ÉùƒN ’šõ y'_caûá™ÙŠn¨ 8HÛ†žÔ¿HºÒ£«Í,R·Ø…[æ<#ë‰°w¬_“³ùýÊùž‰Œ[Ša½^IH-‰äHÅ5|õ¼Ë,8Å‘ü€š9+<úAJó>HÝÎj6mVCHE¾¼B™™þÕg'k æ[—DP¤4"täLÓÚZ÷ºÖ½IëÞ¤uDq­“ÒˆÒg¥kÝ›´îMZG×:+Ý¤uÿ¢Ö®ugÒº3iQ\ë¤4¢4ÂCéZw&­;“ÖÅµÎJ#B7iÝ½¦õÔU­Ï\Šïk=u‹Ö	Šj•†Jcœ1”ªõÔ-Zó©AëEµNK#B·hýhÚk½éZo&­7“ÖÅµNJ#J#œ1”®õfÒz3iQ\ë¬4"t“ÖÛ‹Z¯ºÖ«IëÕ¤uDq­“ÒˆÒg¥k½š´^MZG×:+Ý¤õú¢Ö‹®õbÒz1iQ\ë¤4¢4ÂCéZ/&­“ÖÅµÎJ#B7i½¼¨õ¬k=›´žMZG×:)(pÆPºÖ³IëÙ¤uDq­³ÒˆÐMZÏ/j=éZO&­'“ÖÅµNJ#J#œ1”®õdÒz2iQ\ë¬4"t“ÖÓ‹ZºÖ£IëÑ¤uDq­“ÒˆÒg¥k=š´MZG×:+Ý¤õøŽÖûÌZRuë±ð¿Úþôûßýø·ñç_þã—ž÷uþo>éÑúEGe¦ˆù-ô¯ùëïûåýòËLkøê¾®o~{ûâ¿þ‡ñ¿€ZÆ:·¦±µoÃ Ã@˜þ´ZôƒßŽ)âý5ÌüÇ?RÀë“Áõµé Ã¿Ì'ìsöWfn-ù7þ«_ÍÉeôéŸ×¸Ÿ{ÖÛ—?ûÓ—ÿîøûoõ7ÿîŸþñ¿ü›õðÕoñòÝàóOÿùKüú§ß¿¾þé¿~ùorùßÿýýo¿þé¾üÛ?–‡Ë7eÃXF­©LÇú×ï_þÓyí´"ÒûÏX…øÜ™W1&ä*±¥•!þÂ‚øÛDÍ”$’)T¥•ï²ÔB yåw¾úÓ°•¬Ho*EØ®±ÒXR’Å÷BÈõRB”ïCj%Z+œ«ËÐéKÛâú®"Ç\´ä*1wÉ±¢sR)ñ´>…¨´íjæ*Y‘'ïi¬ÃÎ¨)Š£’6!W‰q3ö@Å«“×·Ì=¤p|É‰«G¯ôÛãwíA>ÿíÚKá9ºç^
-d¥o(ÅXŠ.¯ì«dÅ†BqÆþHÅš¹MH¥DÏGRi5Ø´ÚjfýLÈN¦!QÕHÅNœ|É]µ@*ã¼R¢©Ì8J«-ÈkÏRÔ¡’•ÙX±R)Q±eòiäàL%+Ò¾ös•¬è^u°ùùìª'!£8âvÆ”ØJEÝ“š«ÉØ¥=Vø„¸ºŒ÷WÙ"Õå&Ây•†NÓ -‘ábq¬DÂ# •7Ñ…ì¤ùLÌÓ¾þú½Aùjs('GÙz›4Ó^=ê'íþæoßþéon÷FÅÉgx•…d‚ð~miêÒÍªŸT§¬G-H­D>VXo—yMò¹}@^ß±,}^åªäùíÐšäOÙOZ³Äùz¬Ž—hA®e8ísûTòúv{§D“«J^ß6ùî¦eR+‘[¢ymß;ý‚ÎÝÄ6ù~Ä„TJT¦qòÚ/”©X%¯oÛC|lÏßKrñ™zþ¾ÊU©W%+ZV¤`A*%*š² ¯íS–*ù”œ­âkúnŒüK•¼¾ÍõY—`?¾Û$‡8mQJÜDƒ!äO’C²Æ_zYJ‰MQ©ym_ã•ü°_ùG!òqã
-98«UÜ¶yfÈŠk¤+XR)±TÞcÈkûÊ½áùTÌ<	b’áDE1J!k'‹•mÄöCllM ’ùBÇ'®%’/|â*’/´-H¾üÑZmA^-IÑJVìô¬Ú5µ†SÕ€¼¶/ðM¨JV¤=oƒ21ŠEŒåmŸ©X­R¢©ô,¥ÕäµŸ+:PÉÊ¨£X„©•È­‘®{¯lGé©A0+'µsS¦‘nÝ¼e¨7z#_åî¸sC%+Và)Š¥ºnµT@*½I)Ñ‚Tz¼Òjò:þ(:PÉÊhxÕ½Jæß>ÙœJ¾ðü°hËÁ<ž¸ûõŒt+ÏËÊs$Åöþ!{„Ü¾{Œn¬Ïëyâ®‘—ÏÏC®6f¤VbçašF^ŽÑ.ŸÎñ½=üÛœ¸¾«ò‚ÞØÝ6À[«ÄØndª“—:!£—oUòúÖU¸’Å[bA._jëOb<o'a?ýª-•¬|ëãÍ—“øà(øz©æò.´|Õ(êƒA´5_‹Sq×wQ¾,0öUm«-ÈU"HcìòN“PÉëÛ¶öô­F^CÜ\UZbB®Ñz2ÕˆÊ UOCÓÉÊ·å~€+é!diÌÆ:¿“¨H.Ë·ÕUÉRÑc¾ô•¬ØÏÓ·Y±fÞRéW™jDex/×AU#+ß^ìç~ ƒþ9(Äõ]†!V,ÈíövPÉÊ´rýV%+ÓŠÒòœVN1ž¿ùÔð¤-•¬|{µ•|ruãù[‘‚Ò,HE'×~©’[¸~«’ËTZbA*}ä£B4ôi¢­$ŸuT†xÀ©r‰¥`ƒHÍ!ÓÉ°È¥ì8…GR·k—¬Õ€S5ÀJ$8×ÆFŒÅ!ˆä<j%¢]õX"ÃeÙ^Ò‚äºÆšÕVS	Žòh‰@zúi{È¿þ«ßÿû¿ýýp„(-"øqß–¢“lîØi¿\›î.æót/cA*%ºD÷äoË@[ÈÍÕ F×ëæK!®ï‚Ì`ªíü,ÈåžòÞ¸+¶ —­¢+áÑ6…¸¾ƒDrš”-È7nÕŠ%XJ‰ŠµZJ«•…%ú"/v-IAd(BÜn#$·ÿ§é[%óÞèËiéœ¨|w®#¢ÂëuŒâæMfÂ–]-l©Apgƒ"7÷t®ègô¬Ppó¼ä.`ÐJ´ W‰hô©}*y}Ûndª•ïíZËìÜûv¥ª:%²Ö&68u¨ç%â¼’B ç²¤ÒÙ”Å®©´îê@—øgÖŒï˜o˜•8U3¼D”·ç;oRÑŒçrRkµb=¤R¢²±AÍ¸žÉKDÜV".dy‰3ii%VÚjr–a¤Õx´ 5åµhG‰äËüWåho5NhnLä<m¢(%J‰54c‰€äs·«E|ª¶|FwUé3$_.j%Z|ìÑZmA*ýZÑŒ©”¨X©´ìVm5µp"ïÜ+Ýv|•¢–h@òÕ›jØg’Q3€ÓfW¥D˜3ÇÞÎÑM³©è:voÔ5 •VG³=R+‘ÙãD9tx$=åV~ôºÌŸýŸÿÇé2T•’?XÕÿü÷¿ÿÕùÛÕ¶ÂÑFÂ„[\Ÿ§ûÏ—³æ¤ ¦·ò1nOø±>¡“×·´–å#`{1ä,±Žà:K7ÑV¢¹Jô˜÷I)Ñ€œ%Î“©,p¼Õä*1£t¸:,ÈUâØ¯É¶Èç^¢©”Xå¬–È™Ìh&Om¡%ÚJ‰`ój‰¤wœ/S …Ìi*q~7–ê`L£6ä*‘hžY¹JØƒ”È54ª6¬«Ä¢Ê_%¾G¿½ë8‰8ÅZ§ëx™¾&­çLÒ38¦€­¨h€Ûûœ©Œ4Q¾5©Ž4€TZÌ# µ•ñÕ€TZí;—£©Ì‡Ni!Ž™²?ßº¢lJ‰Mi¨ÉE·^¯eÊ0 ¹Q§6:RV-y'óÉüé[•¼¾ÍâQµ%$_¬hÒ¶ •{êz!“¸¾ëhí"|] ‚‰>/ ©“AQ+Æ€äSÈSKTòÛ9–>Döü—+‚ªé†¬p¦õì[qôVáSe‹ÄiËs‰Á[Käc”|sè2W‰|”üØƒŸÓ†ä äÇGÚfA^­A+F#?&¼I*‘÷.\òÒ¹¢oÈ×o©Ù1CŽ3³…pÐ=$…DÍÖx1Ëœâ`Š­“"·5òÂIÎt7Â‰¼ÿ½*kÛ¨²ê5eñÉ^Ø·»aÇZ*]Ós";cMµÂ‚|j…çƒŠF¾~[Ì‚<X&?Äi]Y)Yo°!¯MMò¶g1ùúmv´¨d¥%9Ñ–à²‘Ë†hež>™–¶ˆTJ¤Mµ!ùbù­$_,Ç\x«ÈµTÄG)Ñ‚ä‹V­Õ$_Îjš± •ë± ¹ï“÷þ³£lêIt]_™Å4bp N5^"¥/M·ØIT:ÒÖÉzïÙÈÊ·‡(X¡]À2	-uÛÒ‘J‰=Ð±Ý‚äÂ]éÉ$7€ÐÛEì™Ï]Oßªd>¶k-± /€‹ø†|ý–*ü†¬´ìKm	µD"¸Úõý"òÑäú'ò±÷¢G6–‹eßÆpE·|¤"ˆ±Ê +>ò±öäl©DEÉÓíhS2 •}çm3 Ï¶ù±¥Ðv“HT¤úU¥L,ÚÚ|Œ˜µÍ€ä>;­D’;_µV[Êà¬(Ã‚T&ÅF,H¥DÅŽ-H¥ÕJ÷² ÍÐ^oˆp¹¼ðßÿÅÍ©ü*<µ&’üXMú§ÿû½ªbÃf½ªÿ+¾WSHÒëôc5ýÅ¿ý_â}€w"E=”Í}¾Sï;Ñ"R"=r
-|JÜKJ¤ÇŒ„GåàÒ‚TJŒÝZ" g‰©N¡ä*±ˆ´>êñ¢¹JÚÂ-ÈYb,]êZ)Ñ‚\%F”oµ¹Jôû.W‡JVlY±R)ÑlË©O™bÀ©\b°g¥ºOTäËú˜íÈwiÿÎ‡²žÝºTrùËB$|ókt|2aY«Dè*ct:Îq"òå;…ÈOk¹JÌ^HíúÞ…–Èµ^óÐ#±“òä59Þ`NT¤¹÷Ú‚Tô§œXŠ%)%ZŠµ+­¶ Ï¦È_!¾)–[‚©•xg“!²æ`!ô(–èðTá#%Z³Dç÷CD~È§’Ç·mlÚà³³Sr•X¦&¤Xlb×ü½$ibâþ;œ[bŒÄ•Ip§[Q!>F¨¸«O!žßÞÒó7¿ž¤*ù²¸ˆž»«Uòå¦º/?óëUˆ|\Ò˜³ ãÒ“H®Qlî¶BT¾›ô¦Í"O^£§G 
-Q‘X®ÆIˆ£3Ã¨Œ3SÈWb1…íÙ±7 Në7æSµ–H¾÷	‰{|,H¾÷	‰{¥,H¾÷Aµi{®`µ-H>i­¶ /Ã“¦•¬°b'¤R¢bËc3^f¸ƒè¸´IÏrÌcMpPZ"eŒô¥DR)Ú¢•è;+ÛâÇöÏ6ä"’óèK¡VKcçe*1FÇcò± ðÓùÆ\œxùÎ±§T4"ïÉ>–FW-äÅè}LTY*ù±ÐÐD¨ùD+Ä‚äÓ¬Ö ò1ákÂUˆJ?PÔlA*%fÏÙ2 Ï¶M¿c‹)C?ã~~KÆã,žÐ,ôø3<õÁý¥Ë¹8Cdñ¾KÎéxÕ®ºõ\Þø}ôD'Ïo½|±oàøC£¤Rb¤Á˜×öú\ˆN~ã‚ôµGr•(ß8úøƒ	ù6ó»u5+/þ«Ä¸‹„?l©’ç·U¾S8ô¬¼Ìj@*%*#áÈ4—:}Æ„¼ØXêôÕÌm,u_©©ÜÆR£	ðMÈeòiÄãOÕX³Ä&_'TK´ —´8žöß‚\%&!\M3&ä*åÍMÆ„ä½C±eRéoÐ‹ÔÌúiKvÊKæ$×Lvò5TM3ˆäÖ“?Í‚äž½ò¶«É{¡V¢©ÌF¼Õ&¤2crÍ˜×ù››ŒNVVŠ-“Q¦2[&¸DKds‡Ëøò+ÃÍ÷ípkB^g#OßçÑÉÊlä[Ñ' I\ßÍ±`üçK$âo—•Eš±Ã$¿ˆJVÆw¥Rß/ìëde$üÑ_RÉ¹MH¥Ä™õÈV" •VƒM«­fÖÏ„ìbÑ50‰Š58þV™¹z¶|¥^-Ñ‚\Öî¡»œmSˆ×^¢ˆV%++5Eç¤R¢b—äÓ( ¼’­‘™^û¬JV4ÌG2ÒÆù(dVìXµjÄË°Koçùô7> ÇùÖ#›’H>ÉÇRôÀ"rÅÇùr$Û|òÔJ´ ù0p¶M#òaG‘²	É‡Æ«¢u2¨O‹ÒˆÚwõ2id…ßæõÝÇ"*’kt¹bB*:l—7ÉT²bQN¤bõJ‰¤Òÿ.íÓÉÊhÀ¥mB^G¡‡²Ÿþ¢o÷V•îÆÆtù–(!é¶<ãÙæ¦F\æ‚4¹tÏºÏÉâÖDœ6ßÐ	.ô¡Ó¦‘œG­Ä%¯P+²“r¥	Õ"W–¯6‡rBp”-ƒÃÝ…mGø“¼ìßÿö¯~ÿÇwˆ¨âX!ÕÙÂ»¾{ÓSØtýËDøTg¼Fœß¥"{ÔBŽ©4Äó×¤-H¥ÄÀ½häUˆŠ›[%ŸâU<Û
-ñm%ª¼ùN!Îï¢ïw¼ªäõmg\ªä,H¥DE»äµ}Š#J%Ÿ2UÜl
-q}—v—ò¥F^ßºªë0UöòâIÆùw»4Rå¾J•ÌU—š"sR+‘»à-Èkû/ùÞ1¹l˜ì•‡¡H¥D¥}äeày¯}Ôõ¿ÆÍÛ¯×w¥ß-éä‡±kÜ*Äõ|>Z•œ©”¨h×‚¼Z/$*Íì1ebÚ€Û“Zk%ÊgªŽû)-Èk·Êü…s•¬´/qÁ[Z‰\™ŸŒè
-pªÄh‰‡H? TÉJû·R+‘»¾,ÈkûGœJ>'/ÿôê÷ùEWø>Ì=<Ú¿«dåÛ~}Ç^#_FãØŸë_cnìü©v…ø‘öB¼¨åÂÑõ/ÜžÚ«’•o¯rVÉWÎNÏõ/g›k§î8…x‡Õ/5òc~ÒäLt_îdQ.rÄ±úú-"±8º»· ¯ÒÍÇIÙÓ_~ó½îò©;Bô	HÛ6Æó~Š;ŠpþTš|ãc;å¶_ÿß®·¹Ÿ*M-ú?¦Òÿ÷ÿûËñç¿ÅÏÿ¿þOÿ'þ?·ûõ1è‹»
-©Æˆ/%H,DpK…Éu‰,=á}]‚ÓJ2·ŒÂcª‡5o%"’—ˆ5k%N½>gH¨¾à{KóÐwq[‰=Òy,‘á¢Ä­IÝ\3Ø¥ÕyÝFTŠÉÁc1¡¿|£8ÅdLÈUb\hìñ4r•(¯Ö\bO™\Žuîp'371S¼©Ãz8qûV%ÏosQô¼}»Ý.W¾Ý‰¥yöVnmûv¶„Ù“BÜëÕÈëÛº}£íUÉkEµÃgúšJ^ßú²i{uòõ[Gu¤“¯<Üñä‹¬J/TG*ù¢#Õ64òÛ©|í[•¼¾Í·<«äõm¸“•N^ßº;éäë·Ü6tò•gn“:ù"+­/¨ä·»Ê×]µýV“'0|ý—÷+¦y–å¬Œ2Ÿ±\ý™1OÐÿ4Ö@5¨yu5Îãç­„^<Ð*ByçÆXëÿøþAÌ¨T®*rö2©ÜL—fÿ`Ä©Þ9AV°Ë·	2Š>äõ­œêæMŒJY0 W‰Ò@Næ·ÚK4 g‰1Êg¾äàÚJ´ g‰£_è…(Ä•È/d½9
-qeQœ=Z­J~£¤)Ú‚TJ»RK¤x4 Òà=·È§L!•ßU¦@|è0;wì²ŸÿÂíæ	®’+VX´ •ž¦ˆË‚|»TåÍw1×7â²ÌÒ«–˜dJº+c@|ø·(Î,ª‚ä2Ò>ùÉnä*1;]HÙšcþï½Sx.$•¬¨êPUvËMà²VÉoÆP6æöE¿Ù-&tèHŠ´-ÈUb¥•í…p¢Â‰"iòí®á¹Üµ"…å	ãÀgœyNÂ‚¼Œ±ŒeãE#_¿Íµ¡¿ö†¬´d„e8¶ ßbËóáì'AnYÛúÐ<HÑù1â¨_r"·»'U2ï„q†PšD*%*M:”Š{Òu¸Ê÷éoŠV}Ëº"'ñÔg×«Ä«F}ªçªâéo—ž:þqÞ—þ¤Q-Æ‚\ƒ5Ã…}•ÌzMhäeÚ¹¨éúÅf®F ’µo‡Aé_îÖvðú)˜ç¿)Ò˜/ö’1Ä‚Ttãf&Q±’ùÆ0éWäÕf•bTòµWœ¬_ÿrö7EX
-QéßW©ä§äa (‹Ðw ¤"Ÿ~„Btà»+}›T%ó¶†äù e@>¤R$>k•È×Ï!Uâ8³!ù¬¦Ïœ´Í‚ä=G+Ñ‚ä½[kµyUBÊäâ†ÌG2Í,H¥Ä˜H‚]òÚ>è
-Ïí£=…È0°wémHÅ"æÙÛ”ËjãÖ ¥•üXqkMRˆJOQÄkA^FvMÙ*ùú­bz*Yëó¼#X§L•N©¯zTˆcTž¯2kžß}÷Z%óÝO·[ýÝÏ'åØìÂ‰—ÚwOß£VÉðó!'Ý~Ì§U­’÷r­Q$‰4[—qQS¶Jæ£´fz¤2îƒ¥«ã>íÇÀîø
-I%+ã¾ã‹%R÷ç#lÞ6 •Å ÷|
-0 ¯ã¨RŒJ¾ô]­Q*ù\*VˆÊZTQ¶y]›MÏ× Oœã-ÕQ¤Øú„Ï•–ˆgˆ\V(cRTIÝÉ¥§ÖÍß—YíAß~ùz#µI¼u‚IKÆÌ«œ›¸y‘‘ù.HEÀ³2•íƒ$iœ¤oä	Y‚‹•¾ˆkA^D«³:dêÝ±×Õd—H®gRiß:÷¶ô1D^†w7Ó;èÃ;’g{ÎqÉ(Ä‡ekß)ÄËÀªñª’«W$gAÒUíZgûˆ1]Û§ØÚ[êMvŠS¦„x.—õ/5òãŒVÓ#1éœÚ…×ùëÊÞA=š9ÃáTç!+:)Š0H­ÄJK´ ¯í«ž¶ïQq09e¨Òƒ¬|«0oA¾]¸{‡y ÃÅLÇßçÄõ]Ù¦|©‘U¹UˆtU¨JÎ‚TJ¼êQ%_;éÙeˆ¾bqZdÄAÜ«Ê…“éF~ù¨fA^í=†(ºðü‹Âo¸ˆF%kß>¤DˆsÕýþ†àÔFÓ&ºÞD£ç_ÆÝEI*YûÖÑG-È¿­Úl•üÎ[Î×o.Ût/Zñ~YÉ\nC*%Ö@òµÛ—ñ°ÕBÉßãa›ù)˜#›Oy+ß)Ä«Ž^U2·8Mr¤R¢¢]òÚ>0¦çöQ[ÛÄ6c~X§çÄËÈ¬~©‘s“¦Gb€É(FÀiÃ>/‡¸6“‹°Å¡yULläUØ²Ò¾h6@j%2‹1<³›ØôÿÌÈêxYÍ*%È:¶»ðjV›OÉý”¦þõ_ýþûß¿“ò¦§Hã§ß©É`&%Îš!YÀ+ÅÑ \r•(Ã£”har–XeÐ”¹lCÎ‹ŒSb¨mÈYâÜ£‰æJ‰ä,qžêHoµ¹J”Aªf,È·ÃT5ƒQˆçw4ÜW%*- ¡Ç6¤"emCrK¸kß¹]>}«’•^¢´Ä‚Tz²"mRm# Èb¿ 6\-‘D‘!Ë0Ëœï%¤V¢2Ú«ÄòNŽåô3!W‰2tH§%ôvÙ«D©jÆ‚\=Ë;½…¸úxÝBˆ•©deÄQ$mAžcŸb 
-ñüŽü«D¥4àß†¼Ê:ä³<IÄ6­ƒF²Û§\h¸JT8¡‘ì6äÛ]Ã-r¹kh!¤³+Âµ •aAãÑ€TxTÄnA*Ãë«r4·'0Nq4`Ü†ä­Ž%òÛ€TJ¤7lH®k~9Á†äš¹\¸!ó	IÓù˜´Bâe xbýùo|€Ò¤gA>M©
-ñü®Èðõ; *-€ë8jÈÅSJôþ5£@˜qÛ|åþW‰kÕ.{¢ªnC®Q”Z‰ä*v>—¶)D¾Ð¤lA*Ã(èWF©%0œcéULH¥Õôn‰©Èÿ¼érCV¬Þ»±!‹ÕJ4 •¾smŸJVz²"mR™´‹° µ•‰Õ:~á<§_ä*1HŸÀuüâÄ5ÊM“:ÚXç¤ªÂ‰×©ádûúe:R¤fAž£¢L…xùŽ›•BTZ X»y•ÚµÃ=ÿíÔ‰ÒÍ¢bZ!¤b§Oc…FVz6V+–R÷kYl.Y$M¡Ÿ‹ÂUNó,g)¹Ô’¶ØÚ³Î­ØÙlƒÏqšÔx‰G/bl‘k”-¥"rµ…âhp°y*‹^³Q‰çwJå‹è†ü3™ N›y‰ØRPlC*%N§©­D@ò%€Ÿ4ØZHÞ­}ZiÇ´Yz'óÊ'0mC>_­…xÚŸXþŸR4éYëÕ”ªÏïóRˆJ«ß
-™ÏÆ$Äi£œR"›ßãßU¢ÒAüÕø4²òmXÉÂÔo7²ÂoÈI×=mô&aÏBÛUâùÝ•×ë_-ß²7‰ü€ÏÅÄÈÕq”UJ´ ù‘á¥m
-‘/¯žD¨’•oµYÜ¿¦u¡¥[×zµì§ŸJ‰0Z»Vuó"òþàÚîL;KDjmã"· •ëÈËÿßÞ×íêŽÙÝ÷SôlHÿté'€'Wž˜\ôÇn žXöÀéL¼g^'	‹ú$QäZÚëôÞçØb »½¿µXb«øÿ3ž€B59–8Z5.¸2˜¤0":Ó 1‰Ö!­Zood2‰~¦«u“=o¬øÈÀcóQXâ8Ë4yU˜x>ŠåQa’<.+4ÂÄ]áÚQ×zlÐ!ŸÃJÃO‡#Ø¤CÇX(ˆ›ÐÉ®˜AKâ7®“#./0q?ŒIT˜¤ê Z+L£¤0&“ˆÝBa­áé%IJžNÓ˜¸Ã@%
-LÜ‘¢þ¸³^ÀÄäÈh™Ä¾•+<täKcÂâµ\I*^ÀdZ‹.˜DbB.øþîãloQÝkýOÜ}ìŸwƒd÷ñ¯þñ‹>åÌ#>ã’çßüå·ú¯Û~zÜ{œóÔí÷!‘çµÛ/H7"L¼µðÈ¾R…Y%¦n³Ýîª0«Ä¥Û"C·ä*L“Xz»ïS˜Eb^—q4”(1Mbãh¨µÄ¬gq‹¸ÄÜ ßï‘˜D"Þª*1‰Öx;­Ä$%ƒ·üJLì=ídc_¾m^¦0‰,²yYa’è'›—&©¡Èæe«h+(ò²¹ÔÍ£D ¦ñfO‰I$.póMÎcÉ ÝuÈ»ñ.E‰Iìˆ÷ëIL’G¼KQbn¢u¾ÐŽªÖëäÏ…û'7DÙ?ª0«Äi¨wX&É#Ù?ª07Ñ:_hGUkP†èziT÷à«¡ÄãîÐÌ¹w­ÅÃyHÌµ3ä¦ÝÊHa’vIiw×éÍnÖt¡«*éÆ…Y%ÎkŸÍë×·“·´ÆÞÏ4Q˜ØW›¸RSŽ&iŸýÇåÌ¼ßg‹Ø¥ñE(qàQ‰mQpä1#‰CYº€w€(L\çá[$5&Ñ^‹©1™D¸Ã•¸r¹3¾¹Nc;Îè^bI´ž¡?JL"Ñyôn—Ä$ZÃaQïÚ–`@o¸IL"k-1qŸð´—â¢Q¾WcV‰ë°wŒI˜¸ÿÏ´V˜UbPKFa‰Ä{f•ß÷[3èòTäeø:VT‡C‰ 
-ñ•±×sÆ;&“(Ûq`­ºTcâVaNx”Â$e%‚šbëk7Žm!$é|âµ]q×îã0®ÊÈŽ5‰Y%ýy*Q`Ö &QnúQWƒM	HÒ•Î.r…‰+;²gNbâîøË	Y/õòQMZ“P&»ÿ&©n°µ%&‘x–;‰n·X£ðØÔ„^›Á@Ûp¦¿èˆî“ädÆ{±&“Øìm¤0ÑïÚOI@â¡d[šÂ$õëÇ$¢ìOñÚÈGabÓãJb
-âtÓšàn4…‰µ˜V¼íKaâ²›Öfƒ#…q)µiœÐf' üÀcÓXâ8Q5ÙqV´Ö!0ñüÍ£ÀdyÄ›&žgù°e­A­z*ŽŠKfÌã°×w‹Èž@‰‰;iS€›H%&	«3‰É$";
-;?æ9|êfðÎfú½Ý.í	oÿø„÷ë3Ÿö€÷/ÜþüûÿöÇßþôçç«åÊ€ª¸½#‡8Ó;ˆ—¸wˆ¬¼°¦ón¸ÁoP˜Uâ4,ÕM
-Ó$ÚVØž‡7V(L“èÖ\/„!b(\Óºe±R¶´sŽÜÀÜ ÷°¢V˜D"Ùd¡0/ÝÈ¾
-¶ö$û'(Ü”ãm§Äý7ì?·&ÞL2ª0IÄ£)ÌWmì£¶^PxªkÐÒ-i/²¿Â5íêzo"P˜µtçšQ¼ÒáÛÀH4À[G$fkO|K‡kÚÅßÌÆÀ9~È¢0«ÄÑÿ‰B
-óªQˆq	Hê6RÌ
-“H$§0/ÝˆëX™„!`ÂÍ,ûÇÈ> ›­
-óÊ	ÙíC@b’Ù&²n{E…€ð'VV˜mEAòBa’bi…¹qÕß·Ë³µáw¹½ |ëÏœ’KÚx¥Ã·v1ÛšÜ&1›µ›5ºßÎÆ€Ù‡€¸1`B&É[Ö)|VÌ`ÄAËŠNa‰ø*6‰yé†¯bc ±'¾ˆíèÎ”ä°a	ˆ{¬äâ‰Y%îúv÷U÷[¿Ñ¨ç)’ðÃ—IL D¢Â$zéFÀËðÎ3W&e¨0™DxÄ¼tÃ1Ø²¹™ˆÃ¤dñ=Ióª„‰¶U|›õûoÄ·‰ÁæÕÈ‘¢#`“î©q„~ƒb»³Âl-wPûËU&¬˜{÷<n‹BÙô8N"àM=c,°mBvÒ½»fi_d=ç;È.B·iÉ. Ú& {_~H˜‚¸-ÁkÌ¦-!{z8\}Ø*²w‡§ïã‡§)ˆý‰	Q˜¸þbê(L\›2Ó*Ì³^gÅL@+Ìá&‰>ø|°Æ<u#†1[?ª¬1±'àž5&©ýðV<‰yÆBÀ3N™:lêfZ
-ãšŠ³Â<ëLÝáÐ{ÕGÝ
-_‚†µx­~ŒìdÛ5¼“É¥Gò¾½¿F}èv¼U}6ã'~ü=§«Í©m¡.*Ðäµ!@äz ‰I|na NÇr˜àmé—ðËÒ¼Ò9x1qØK?$&^‚!—~HL<°œ¬kŒê‰;µÓo…˜g—•
-Á`ÄZ4D6ËpÌ´>AVÌ$ÞNNa‰Äõ-[~-=`¡vd—†HL">ã­1·3û+z.˜‚W1{ûv6|U¿4-…–Ÿæ—€°j¦–S˜D")]…yé6¸R«ô³Ã`ø¶ÕO‰ÁkÄGË¸_8ðH}Ç$V;E\‡ääzòúfiI)
-ÌKk“I ¶®àÓÒ•¾ýBªN~})€Wé)HâÑ³æ“H¼ž	€/-Ž'½Û¿[“-Ô’ÂÄ˜D`Ng÷zöx~»ýñÈƒßñ
-o¹|ÂÕ\aüF“–Â°wC5Q˜WÑ^–»þ&N3=;ÍU&DÏ–kÌ3¯øÑr
-b«’S—T^x¿Ycb¿a&öíF7žÃlI@°¤T&“ØøØ£÷µ÷‘y™ûP¦ò#.…I$&ÕD#ó*,ÛIu@âð9xI>i®1I‰
-“„;ÑZa^±?qÈ<Aa‰Ä[æ¥‰ ÄŽI½¿	ð¨DðŠü9þÁÑ?ÀW¸À÷ç)H´€¯ÏkLf—bi©¿?2/Ý\€V! ©
-H	9I+ÏÉäVž“lKvÂ¦¥ðUÉ“” ã±ô=ÙhooýUœ¶FKŠ¸	ˆã6%l9…I$f+
-óÒ­ü‡ÎÒ`› »Ûñ'iNed‰D7…y:ë³nØ8k²ËìÑ&€<%›™–[
-Ã•"j9…I$’ÒU˜çŒ	‹>à¬Á;æñ¥o&Â}²£X£=_…4€÷2„iw×ðñ6¡Wÿ&~j™ä]×LÒ^Ú Ð*ðf°›Jÿê–'÷²ÒXÑ'G\P`â>_²)_>Ø}Á¸wwKKaÜcš(Ì«†»,wýMük7:õÌ«L 8Û¡µö'*f`^yµ‹ÍYŸs‰Õ¦Ó¯HJj*!*õÃG&ñ"Qaß¾t#à1Ä–$1JJUa‰­p\|ì²biÒŽíšviâhdžþs¼MfÖ¿I^sS3R˜¤M%SCïý£³¥Nï¯áÿÄs´éù-øøGÕ†øxœ|mö~úUÕ³µ),um¨-E˜ú²À§ktD<|SbV‰Snï†gD%¦I,Ãøáönx^UbšÄ´†UIL“£ï682‰
-Ó$†Üo™dZ+Ì*1ˆÇ£%æv9+s
-·iñQOMð±S‰I¬ÆJLìíA]cÿ¼¥¥0‰¢‰Â$M¬­0I­CÜ 0£XáûÅ%fëŸ,K!±3aÈçðY9‰ÙæŸ2ã0É>+'17®úûvyÖ¢üo0S"p¸›WaV‰ËÒ,“ä‘]an¢u¾ÐŽ²ÖcÈ\'Üˆï—˜8cä™ÄÄÅÁò¨0qq,19­8F&‘ˆOüIL¢5>ˆ(1IÉ4'!9\ÓNÃq:|.SbÖvhm˜D…yÖl7•Ú_pmÊlª0›Z‘6…Û´Äõ(L4!1¡0/ë‘PÁNp!>ä)1q÷…ô’˜µ‹5tÛÃŸ®i—¥ÿÆyÔ‹$˜ñ0‰IÂ‡HT˜—\ê\‡Ãgå$fëþ¤8)|KÏ
-r˜h‚Ï-JÌËrÍiÉÛ/¤´ð±L‰I*d"Qa’æ¡U‰ÂÄ¿‰M&iPIa+L&Qn¢¡¢XÅ1¡0I\I@â¤6x…Æq®ÔÃz9cîk4·^éKR†¯P€aîÈ¬¡áÞ•ã¶OWhlF³–xøµ‰3cL2FÄ #¹8ž:C<|Lb¶¥7|î®ÌÍ’,¼à9‚3À6#õd‰áºã•Ã¸w1{xI»ÄÄ8äÆr‰‰û×¹4âÚi^à™U‰‰k*Q`ÖàçÒ€xÂYYaâ^ó…ÙDÉÍï¿mOÁB?vÞú|¦=¯À¾ýrc¤>8_gÑ\›a“RÀ·KL\3‰
-·ú7ý(ŒkÝÆdéÎ"" Éks8‡‰å&xm±Ä$ÑÎ$
-L<©Nýe÷Ò)S‹VˆU_WºÁd“í8B-±Àd9Çb%&‘˜à™I‰I´Æ—bKLì]ä*p‰ÙÔL°í‡Èx“G„ÒKL"q¸yœJDw”#]‚ìÖ“0¾£\b¶LÄ°G4A«3•ñì§
-Ìsˆ>-¸ 	ˆîä¯Ä¬–v}·IT˜¸£ÇU˜Ä¿ˆý&‰¡äi@A<â±“hm[“´js`’’Á‡Ú%&ñ|À^b'ækDQ’¨'öW˜mDƒÂÛSÕ¦ÅÇ©Ç1';“=jB$žŸƒçÃ9Ü¦Å§Õ9Ë„œ—˜‡w°Cß$~:ÍªŸLKD¢Â„ñNU˜°N¢öW˜°Þ¤Ž¡0‰Dâ¦
-“hMâH|<?ýú<›ŽÈè€q´Ê®˜$Œðý³Õ®¹a ûíÆ"µƒIžñmó
-ý«<ŽÏ;ñóŽT~“«k­Ç`R£»ÑòÙ®±#ãñ$½è[ÚÁýÉ!i‰‰C”œ|–˜$è'x<Tb’ Ÿà9XPàñÎ¢8ß~iƒ‚ä—ÂÄ+åLŽLâ•çe„S§m:ÂIªÂ¬ûU"jZ…‰%6ÅI@8eÕÝèÛèü4âá3Æ ZÈÉ-Âv`Àc%N$Ž1€OVKÌ6p"®(|K‹ÍtÀ^©ìå¸˜g;“KŸö»˜>x¹ˆÄ„]L*Qaâ.&STa’Ö†Ø_a’øJžF$ôÀÃ§Û%&Ñu—˜¤dxÂYbïYftƒÄ$N$*Ì+Öˆ¢$QOì¯0Û:ˆ8…·§
-êžv'Ž‘Ç<ZJXâè3n-&ñöžŠ–˜Dk[ŒR&ô “IDnÎ]­oSs[nÿŽÛŠÙ?¶g]ÒÐ1»æý±çóby?.ö›ÿÔS»}Ô¢èë|ôÿŸÊÏ?¸8Ûë¿¦ò¯å=žX+Ö}'ÏÇ×i?gÖ’õÓ:ÀSw ^+¦d™gÁ§¾±‹ÌKøct+2Òëz-m=ê]Þ.Ñž`ï˜sÿöñ†y¾çU‰èÛÐð@¬uXrÜ=@ŒmôÅ¸õ}æ†yGp¸¦íçœ8¡M³J\ÞBô˜ÄbK@
-CÈó>Kuêçö—uÿ­²üëì!®iÃ^Ø%*zóKe¤=ù’ó•‡Ûo•õršeFïâq¸Mëfhh
-·¹¢èžQd§¦3v
-·6Ÿ2:°Äá¶TIàPxk|„¤¥pMóLášvy´…kZ÷XF®i§Gß p›–ø$…Û<·^ÿ­µÊ=í/­ÍIlR¸-ë6ú×!ú_¿ä’-¤e~	Y–ñzX=_cpM{ÔØº.icé”ìÅÖ?_Ór¸¦_Eõåp›vîv¿§à6Ï³{Ìó ·¶"‘Gá¶ŒHÄSxk
-Ÿ¤¥pMû\[P¸¦uO¶âpM;=•‡Û´Ø78Üæû$‡[[‘X ðö x€#\ô±–ºÇÛ6åûèíË†×ûõ·«6Ð+òK¿{Ù‡XpãÅ#ÏüÎÀÜêuU•ÿâ»¬ Ø¤sðÅÖtÃ¤r± yç}æV/Ü©Ó	Á'ø<…kZ¹		hé¦a…	Q˜UâÜ/0…f]d[#5.kºaÎ‚³Ä$ã‚³%0/ÝbÂÙÂ ±òg4~æÙ³ œóSºü
-ÞÑŽ…Y%î3iÁyøz…k Ž¦v¤˜$´—	…Â$aF$*Lâ Dk…y¹¢‹è­?’ ÀÞ 1‰Ä¹6›TÌ_Z˜‡·?<ØbZ¡Ë)LR²S:7çsøª´[zûKÛ$LR˜xñi^bcðÛ/ƒ„<IŽ°»IÌÖ>Äõ)|Y‡!ð1[åwvµäÈ{åeX¶WÐÚ_NmÏnØ,22«‹kÇ$èÛ!³[…nv>ÉÇßK„û4Ág&ù&–ˆLáf ð¦	¿3$0Iq_¦Z£<"Ì£ÐûwëFŸ5ÈïRZÒ]9<@<Ü•˜û¶Š‡Ç“IÄmœÂ¬c¿DÇz¸
-³Jôk7¹L:Þ³JœX2
-Ó$úyÔKT˜&qÉãðk­0«Ä(ì$f•èû­IÌ{&‘H"
-“hMF%
-“”¢ ‡ýB[¤»ª0÷ýâ2éJHÌ*q´7éb(Ì*1±Å$
-Ì*qâŸi-0k>F+)…IZ2ªP˜Db;ª 0ÑïbXwå%&ñ†f Áaâ›·´&‘Â4˜$š/›´œm9R˜¤%^%×Ic[Êê$¹o:êM
-³¶º«Z')LÒŽ3‰“´Dk…IZ4R2
-“´ºÄ{&‘Øú2…‰~WüXšD²Â$ÞÐÖ+&¾yKË`)D…I¢¹©“0(ÔIc9ÂÙÐ±‘úh<› ¾Œg@µgRé‘j3èÛ¯	¤è9› ì|¦™c Gs('D"0¿žc˜¤ÉƒÂ$æCŒ¡{ÎáÓæüôÞC\“#ƒ®h·Yöƒ\<Œ›#ãþ˜û—Ø¨Hb‰~íÜ<-½aª4 oÆ#`…i§ìë´éŒ3Fáš6†^¿«%`Mç7"u¹Â4K¯aÐ¶iY8\K)Œ½ñ&-…«ã™y:j"1«DÏ{Ê¬éFKá"•˜$¨°¯IL"qðr*ÅÒ/+JLbÜ“”˜ÄGpoWbÅ=r‰Iâ‡HT˜$ÆI_a’Ú†ôñf[÷a—á0©‰e_ÆÂQ"élR…BôeÜ!ÜÛVØŒva•ÔOEŸ;úr@·³×¹/®#‚p}öANˆÄÝ&¨Kõ‚pO¤@pçNb‰?·s7¹ÝÝ?©G÷{{0é¹G7¥îµAÒ½óqíG\¸{§u×ŠŸÃSó“HŒ¸ÚT˜[£ žáç°¥çe˜¬/6¼*Ì*1LC®q—XašD«‡¥¥‰i‹_ÆZ+Ì*q^ŸÊ€Â5mù±Ï5ö…I$¯U˜­~ïÄÐ9û„œ÷Ü;Æ@’Žô¥f¤sBáêÌ‹ý»°¬.›Ò°53É+…I¡Ë)L"ñ*C¶Z4S\Ýo—È€ƒ€5}r¸¦/—Ñ¡ìZb‰
-±:âJ·kíW<À 0û&îD)L"1·EÄàV“|,Û_Îòôvw<Â@ñ?CÈ‘™ÔŒÂï¿¤…;tIºÒÇEb…Ùæ×®±šRø2tiìNMÛ_ˆI[:€”ÉWÕXº‘è’PãŽEùïKTwJÏŽ?&î>0‰
-wÝØ:±'…‰eF]–.â9tÄlõsÝÌabS—°™&)w×•¦å>0‰o‰
-“D	ÑZa¶1KÊ€Â¤Ú ¡0™Dìµ#sYÑàu×¼›ªXú.J…ITdãÌ¶('<×@aâX6¼Â$Î?OªóL D¢Â$•ÑZa¶U)
-“
-–x„ÂÄ™×*ÌF?C¿>ßË¶²]r³6â÷¡tÅìÙóáû¿üøÝ?}÷'K4%W§mšÿû»í»ùû(ÿü˜ÛÉoKéï4Â<¼ŽÒàU.qö û•aÿýœçÞÒÝ
-óìÜöÇóÉÙe6wÈWyð[hÆM×¶ÞK35?ºïSN~Ù\×åõç?A‚?")*ïÿ15€íŠŸRc^¼xÀžü¨òà·>¦­[¢sXÁô9F]–©[x‚ßD¼OÉ@,ç„ Þ§d »Ø›€@¼OÉÀ<Y_~a_ú!ñJ«û]Rób—W†òµ"äÞà“ö%Osi]Sw…aÒ~~š°ŸË`&—6âV ó<š`±ešAæÒÂº·™¤=A»¿t¹>å»´\Ó–þ/`àÌ¸æÙ®:5p:îôík5ó<iú5‹z1A÷6ÿÓJÝ=•ú²”ìßç‹AÆ·Ïu¥”^¶§`M—<+o
-Zºá¶8*DašÄì_°¦‹+2Ê+kº~g_á¹õÞ½x	˜D"tUyéVzÔoÆ›nhéB©#uÀL´€b¾fÀÙÛ¦ëW
-¸åq]t±›êzOÝuRº3 iín´›~¥pí~’Q¢Â¬û}Å\¢À¬Z»î´&ñNY%«c–Œ^Ke ±©¦ÇðÕ˜D¢³1=ÐM`^ºÍÝÍ@båÒ€rÃHÊ†®Æ4‰f¨þcX¢Â4‰vmÿåS7n8.¡a¿fµ”\6-[•>­ZòOÕRåö×$”p
-ÃýÔ,-ÓêúJ$†áîçäÖTý;ƒ‡•)Xs’‡J
-
-ùš¶º0ÑòIž
-luköÞ*Xë¯.–H¼ýHÚY%†ÈjT
-’œÀº]cšD{Ë°³l4¦IÌ6b¬éV­ÝÒ˜._br…Y%ú\{e°{€Û´°Áz€‰&°fÕ˜ÄÚGOÁ«ta}EAâgDˆÂ$±pi@À+ö¾yÃT'ê>q*">NEÌ.ä@¦fçs¢3ÝS.í ïöÃŽÏžô8ZS.1Ügî?í?³Z£MJzmòÝ…£{Êuj|òöCcK<DÑš2,4~8º]^Ñäéú¡âq¢½6Žî)ÿ`a‚6)a•ÊÑ&·°NçhcæIml›7Ž6åÍR´ñ$ê÷m¼—Yˆ MÄÀRùø* Xq8VàÌ§/	À ÞWÈ˜÷‡¹¼¯° sx_!7¯Õ˜ƒö±¯~haYËàÈ56Èßh¡˜¢×ùšl`»€Ó ½a“‡ñÞ|-#ø°Üöv¼^V{€¯eï‹%×x[F8~k4ó%A8«ñU—>­Ô¿tÁ6¼¿Mï/#øK´ø¾ 4æ±À@<‚p
-Q˜pê¦0éy`ÈkzžXy˜b·£¤oË-,ÉB`b‰Ø½5æ©[a¿ùÔ–r£Û^K¤Þx€±XÌ7^zø´ ýÒ¥èÈ`ú™„†Æ„KÞ—z6''$&œŠæ&œ'Þ©1éy_º©m×v:W0ˆí¿Ìñm	@ˆÀÄçµT83e*qdžºÍ>¼¥Ð*ôúÛsv¥jÉ­pfÏ‘‰Ë‡¯Æ„ËT¢Â„ËTk…	&Z³ãÕˆO«©¾t5Â¶#—ã%Rh`	ÂÇ¥â›œÅs	Â—1BQ¶•{-A .A!ßx	âÓJéK— `íæ3I{¢1iPR³Rç×ñN“vHc“ÔTá¤8ÕMaÂ‰{jr…y-#æìnÒâ†ëÆš4uèŒíŠkty–0®³(ˆ}	Q˜8˜n
-óŒÌoÔ@½V%>­ºSV%ð¬Â¾îÀ&$(zÎ¬’‘"GÏõ
-2<äè9³z›Æ¸ÿtÎ¡’*„£WJ§½òÕxO÷Ó9ŸLÜ”£—¥É„EÏysž’ ç\=Ï-AÏõÎíOçê·4A¯”¸æè•/Üpô²õ(‚^öÇm"G¯2§)	zù÷Œ^^L-DÐ&æ`©|dfL;‡u
-æ
-`¶z‡¾Â7í'×ß^ 2 x_!7óópÈà}í†ÍOi±z8æPšÓŸ×˜ýâ©1«³ôùæc1çÙü×ûàÞÂ­ÉØ!SÚÏ¥=¹ûmÌ1ûÄl1ê­Œ›â:ÛzùîÍÍ\Ò†©Ô‡ó;ßøúEP¦©l|žsÿŽÉÏ+š¿{,š¥!]S©x{ Ð9zï§®Ù(<ÆëH4¦IŒÞZ–Nà-ãØÒ–ªp^îß˜xýPc‰SZÇ~³Õo*î:¥ößˆ]íu`…iÁ°Îo±1öb/»æy\ÕÖ˜Eâl/®ß'…ˆD‰‰%®v7q b^ð†=¶IËa³viìîõ²½ƒKYa’òƒ/õjÌÖo–º…oi=xdùf¾‚WP5&±¶K^´öÀ$e?ÔVÔP½†\JüÆÕ¿[ç~ÆöçUÿÿXý•™+ÎA+ëº‡ÊÀ°BrÅ]â[j¿A*$À4‰¾¨½Jf‘èJh§æàu¢ªJL“h¿¹ŽgiG‰
-ºª[í’ü1@%¦I,_g`˜_]¥Û/7Fq7˜—Ã$¿¥o%æw`›¦uB$&)w»;W+÷I|3Oùlž(L"¥MKá6Bqö9;?…€¯~ãJp-c†·ÜÄêÏkûåc%8ºßg3õõKÄ=OeÍ{-lEká×Dˆ¿§å0t‹¢×ZŠŒ¹ÅÃV½€azvghÌËÑ¬,ËwoÞuü]j]§Ò 7:fÖŸL,1/3•aØ•ÛüÅ˜ÃtÚmWj¥Â¿u+ˆí –ä—ÒõqƒD‰	ý
-ø.q1ÕË‰ÄÌ¼.9æ…^Ws|Î\Ps‘É0ÿóúÐW˜óy}ÎóWÉ|û¹:Ë·|½©›ÕLéœÎ)&77S8†—œ¶±¹Ôâ]dÖ†£ûgÒô×˜¨1{Ú×7™œ©Sã\ÌÓÊ&a8º§\6ïÂÑ=e‰O2ÕÂÑ&%œRáh“Ûk¥û©±œ8áè¾À'6ÁÑ}²ß¦ÖiJ‚^)›I‹î§í*ù§ýiçäÀ&08ÚØNTp´)87ÁÑ6%š™àhëéh2‚£…à¤GûÃ©€wâr/Êo>‰ðªš¾ÍÄÁ+dádÁ«0É š£g8’Á<G÷”óü”£¯õ¾ü[‚îE½NlXÏÑÓIÈð£{J?7#öÛ-ŽÆëmò‡èmì ‡âmlÇ¬mÊûw?5Þtç4?5¾Êr@ÐíŠ€o>P~ú·¿
-^X;í~z-Ä§žÓþtT;¨í~:[2xåèYÄíxµûé,L2Dåè•òŠ¶Ÿß&£OŽžú’'GOk’%GÏ²"Ã=Žn^òµƒÁnÇ+›‹·¶ ìý!à·?ýøÃ”¥\zÄÅ[£íÏÛàj+éÃŽ¸¤]§8ß·Ï11Ó$Ú¦û\ùÏ¸å¶´Öïï×ã×v ör$Y%º®'sqø%´I_f•h×¯_?úïc*ÎíºC¢ÀÄ-@ÆÕ˜Xëà<H‰KÆÇÔÍI³’™ŸøµÁßãõöÏ1˜>F“¢WÄ ^\Ý±í®iK>&ŸßÖa/-]L}a%;ì;îä—˜&1ÄnÈC%*Ì*±tƒ¸nƒUš¢NSïÜ´Œ&ÖŽIT˜§v7—m1†·+»oyc¢0±DÌ
-óÔ"äÒ[i*L×*4‚Øž¶Ñw¹­(1{ŽL\æL¢Â$qI*ÓÒaÀNœ§¹¿›„…]ÓÝ…­"âa·Ð˜UbZºú³ÿ­jÒ8#! 1±m˜ÄØpl3ê3>4-…-­íe¥)	hé†wîÖ£pM¼Ô jL,±iA`¬	®r5æiSæålÊ‘¥¤ð„i¡0«Ä¥wÎ›M)LÒÂšCcâÆ•nžJçµ¸É²v‹_&dn3÷”Þ±,PXÓÅ©ošÚoRxãª¼«çûyÅE> ÷Ç5æ™“›ß´¿`û°o*Ì+ø®ö}^?²Š…ˆóä†1ÐkE`_}À=Ù*ÍmA.ÌÖÕx~è•¾ÿÃþþ·Íë®Ý×–¹>Eò±Oü»¦iÿú…ý‹~,Ú“¾·|ì»Ù¾6Ù¿ïJH“Ý	ºàò\Šâ^›!^N3œOaµ›)ˆ˜Å/÷ãu!ÚTóØA;ÄŒ_Á¹	Kéùó?öüuï28c#¯ÄÜ9¢0ÎXvsÍuQÓ'ã,ä9 Ù
-‰Y%¦îÑEž1IòHÜ@¶˜ªõìc÷ÆzX–d› 7}÷„fX¦â#Ã‚ŒÆ4‰Kèžíž³KT˜&Ñ­ïûâ.QaV‰sµV˜&qkbxóÃkºeêlà‹¯½ Y%NÝ{©,Æ%&–H*‰‰µNËLõLKcã”‹ï6Uanm<‚¸´I8KLì‘$œ%&Ž&QaâÈfZ+ÌV$¬ÊY“§mÙ†uBs®i}ìÛÁòK¼m$|‰˜&1¯S×$¶‡-­ÐxãÇášÖNõjšìÁõÎ:wïÃÑºQab¥˜D…‰Ueµ­Â4‰q]ú&T½
-Kdõ°ÂÄZût›;ãOaâ’	Z1Ô˜Ø{˜D…Ù7nr\°s¥7ãA—<R&tW­R_æ°¥]|_	01
-Ó$º2d/×»D…Y%†î1Ò£—÷ÃàšÖõî²Ø–µÃÄÆiCtÝA.&fdbMHwCbbk“ºVbbhk~7žxKpÿG ÉóR:<÷ùÜv–!d·õ–5ÁKp³ÒT€/“¸˜X"‰{‰¹A]˜Ä”<'-yrZ&17ø9f<…Y%¹{Ë£ÂÄyl+•g‹Éúù)Z÷ )4[Z;!M¾HL“èúkŽX§ZbšÄ¥Då½##‰Y%FÏW«©Ön”ÕºK$½‰‰5#4‰‰­O:’{	B‰‰½˜’ÂÜžnSš6’½µJR½"1·ãŸÇs·žÍs"0·NW¢ýS^íJ·»ÂÞ÷§N‹0[Y_¼ñ^}ÐaZÖ~æ×mÓ$:óð›.Dëà—~6ú²WðqÆÃÕWZoP°žl¦âë}Å2&0q[÷yÇ6ª~Ñù¬T²q^‡7ÜM”˜Ubô“®i—ºøp¶7í-nËM§líØŒóEfŸ$&¶iÌ%æK¥Ä4‰Kìç˜D…iý,.nHÌ*Ñ3’¤df•˜–Î:Ìe&‘x:)Æ°f·X 0¶3‹L…‰}tÑ$&öW&ñç×Gd)1qÜ“	‰ÙÔBdª‹ÃMÚv~¤ûç¹m#8Œ-HZ,‰‰KYou`«
-ü‹IT˜8Z˜Ö
-Çî­(Œk‹[S§eŽ¦0±&,&¶6‹R…ùeuSr·ÉÇ˜BÐFs;¾À’€–.®½÷³œ(Ì­Ó•hÿ×4»Ié¹Û|?í0ÐÒ¹¥ß<Cº³J47h}ƒu$f•˜×Î±HW@bšÄe–åpÃ,1±DòkÝV@ÆeÐz ‡±G˜§oRÇà}_,qŠduCáš¶4ñ6¥pM;õKg·²¤°UkîXc¢0±DÖ-U˜X?¡
-[›Õ"
-³){V½Q{"«jCê™„õý…Ê—¹ÁÏ±Q˜U¢wO!Baœ›[ˆ<ÛFÖÄ[öÓä9ŠË>ÓòhùI6$¦åqòY!JÌªõhÇ‹5Ý²ô•îJLl2ù/1±Ä¶å0Ö¯õMŸ6%Á@\ºÄ§%¦y`ÎÖtnÑÆVsƒQØØó“wÓÛ3SoþufÝ¶Ð?|Á·Ð-	¥)šÇ›ìø‰íàÏ·s±EH¿‰üïv‘ÿãÿöÞéôyòÆŽKŽãóS‰';ýoc¯ãá†i)uš²bkJoÇõ÷Ÿvé9õœö'ãøÉÌ`æ¬ã%ÝS&û\i4ÓEo~ÚNÝ³µºƒ+sôJ™¬kr»< M9¢W¾J¿õm]@J‚^¶ˆÅçÁã-½,MË‘ W9²”>¤lç‡üðè˜azÇ‘£5¥ŸÖ‡”­)—° ü¼RtOéììeiÿïÏ)1z¥¤¥BÐ+·)¸·)¢obô²õ>‚^¥BSt;Ëšæ– 5eÜÐ´I¹¬oa¼&‰¢W©„RC/ãÅB¥¡«§±ž«÷ÞGPK¦ì¹m­	+>Tº®Éõß´f‹û-C·S*Ë-CkÊÒH?|“ Ûƒ&ŠžïçûÐnVk2ôú&ó>†^¢ß$èö ‰¢'Ïí7>œ÷±«qþãþgw5Nÿjgiæ»¶úà/žßêœÜBÏ½–áûÜŸÛ'—MHL“èƒvÒ^cšÄ0»ûÈâv—‡kZ?õ÷ÀC¾³J´Cws®7=Î³i
-K%DæÛUÆLâÈÄZ“*$&.rA…ÄÄ~mUn|KÌÑ¼]nÃaKk/ÅÞsMîG’˜:êÉî—‘˜ä<´SQb‰eÎY*L¬µ_OÍ,èBµ™¸dÈ%]û	¹=LbV_ÎBˆ#Ÿé¶À%ä$— 0ÎBZIf“VîÞÐ¡Zn¹=)/ØæYë‡³[BÀ)AV<s»>GZSãÜ01VQt÷Àœ­éœüú”
-[Ú¸Ðk|(héìòzýÍ\Ó×+ƒ¯µ’˜XbÛÆpkBZ‰yÚ”ù›rd))¼AaZ(Ì*qYúö½µ)…IZÜ/‘˜¸„Écn²Ù#ØItóÜí”¸9-‡·C,	Öt!?
-‡7®Ê»z¾ŸWXäÀ ¤»%1Ïœ´~sûÛ‡}San\ÁwµóšÖ‰ôå—)uë*lt`7ã¾[ÉÛç×Ò—ëšNÜ:JLËãìÒC»°„R‘Ü{°j<&q8JW²äÞ¦î‘´Øíåñp0KL“K··»zJüª×Yï‹$»içW¿š¥˜Ë8.LüÄüÃÒü¼
-³$Gö$^7.ý2K¹cÏ)ÑÊšaöø2^äãè¾J‘×‡”ÝS.t7G÷”uýóZûë~Ú×@Ò}­¶ûéâà]½r€—¼9ziWÜ9zYºÙ	Þýt•ãÓþty	ÍA1ÐÍ¾¤}(&‚n§(êÝSÎóÓ71ºõÙ§½Ÿ/RU[Zì½¾‰·7pô²ÿ&F·M=Ÿr[ô·irÿP‘o¹%)+Æ*/†î“è!°ó«Ýs[þÏy$£ýûÒ%•&vì.ÍSt&×Nâõú’²ô€J+â§7–bŠÔ
-Ñ;zd¹ a¥ñŽ1û1tO¹Dn?†î¹5O¸ìwý}é‚í÷É»5r.×¡šÞ7n ìc{8BºM„å•æ÷V;þîW¥WQú‡%"›¤óÐÁøÍ~úãûï”ÞÒÜÉúlk÷jRšòô>ï5§—ì1”dSbáöfjÕKQ³Æ~¯”XZ`›ˆÊö¡oÆ`Ç;S¿ßë7O®›šÏÁ6\Ž“˜Ub‰üÊ8mÆ#ÇÀ€5ÝšÔœÌM´ÁZëI7géÆò¨ÚÓÙ0úö%òq»„÷îëÔ?ø}L¾Ï¬s·Ç.•LÂ«†¦I,mãÝÀ{_ZÌj:—E‰ëÔ]E$æÒ‹¤ŠpŸåRí¯0«Ä¼öŽŒÔ…þÒxœÇÒ&w»¹™µ$¦It)¿kÕ]¢Â¬§LíÏÀ:AÔ?Áì/1kNæîrÿì,¶Çµ.‰Y%Æî¼l7J¬M”¨ÂÜêµEÝ%«G$fõ‘U•¨0MbµV˜UâêÄ’Q˜Ubÿ¤D¶K-Ñ,Â¬þ¸vOªæ)¹Ê¹;S”rì®ón®»o„†Â4‰9©5€Â¬í)
-s­óevÔµ^—n™xàšúŽŸ³Nði…¹—uwçõi…Yµ^û^%Ë£ÂÜDë|¡E­¿ñ†®µ´ôoÓ-c_0‹ùïÿÐ1ú]>uKFûà?ÿkø¡hù‡¿Ø¿úóÿ°ÿüÛbÿþËõ¿ñ¿˜”æ%ýëïþùyè3ìYciç[àÂ}€GömìO„^Äu!-¾—a“±Æ„»š¨Ä»½j$#/®Ç›ÉÅùJKêó_4rÃQ‰óeuë|KJó80á6žGIò(—±£ªõxE5.ßyJÝ=ëâüÛ
-®©U˜×&Œu±ã)ànZ
-7i‰™ÆE’{+ _b\‡l³ã)	÷PC*Ì*Ñu›`©M&–Hª0‰‰µŽ±t@óÐ›ôó´SÇ´?4eÛ2n?Ám$4W
-³n#™ò»ÄkO‰ÀÄƒ=î‰#—®XÆ—SË@;“.¡4ÀÍ¼Íî"ÃeâÔæv|Œá¾ž¹qµß·É»`§-–Ö%æ™æyÄ¶¤9˜Wû}›<hPz9‹Òq<Òb &Ì–+QÒ5éMCQK™âÜ¬IÉÐ:\±óïäí5\˜ûÐ´Û¡ÁŠYbîÉn&xeh‰&™&–è§Òyj–W*qdb­IŒKL\2¤ê‘˜ØKH}"1±Ç2‰
-GÑúµ™éråã{W}m¢0u|ä´‹»®Æ@…[—n)j)—àú€Æ¡'1«ÄÜíc¡'1M¢Ÿº#÷,ô$&–HBObb­IèIL\2Ì	&ö({,“¨0›øaª®žÇÍv¬)”˜Ubétþ‰›k‰‰óÈbCašÄÒà!K@Kg«û]Ž‰…i×Ùk=+‰¹…ÍLNÀš.uï¤³…ÄÄY}¡0OÝXA@le*{‹a…yú$B@L7…‰#˜˜Ü;×­?­öEê/c/M¼]â‚ÒÙ ¼¦í(¬«üêº­lÎNbâ|‘6‰Y%æ¥Îi±Œ1˜ä×îºÅTýÆ»ÖqI^S’ …}“`ë¿]?×£³J\6	$1Mââ‡€FS†nèâö[Ê8¹w£«H‰SxŸW%Ž—ä^y¯tmóRªŽE™‰<29)17t=+«%æ†.†eÕ³ÄÄ¶c‡‹`‰ÄášVªµÂ¬Ó0IŽk‰Y%z×Å0éHL,‘Œm$&ÖšÔ—©?$æ}¢<†ZÊlÙÜé·Ÿ*g}½Hò«0MâêÄYC‰Y%Ç‹š€g:ætÄ°XP˜ØÊ,^fS¶¬"¡0ö("&Í>÷^xÎxU/•â—éç%T˜º²wƒÊ¯œ‡C¢À¬§ÞD³ËÝÎƒ—D¹AS’y¯C my½•‘5ßyq+k¾³Ý4ÆÝ…Ã–6Îý0­©QrJýWaÓ_FXáa‘–Ã–»O€KLË‚bBXÓõ›MYå&1«]úM‘l/1K“q<‡›´¤Òä0Ö„T›[›T›ó,w4Ìý–KJ
-³Jœ2U‡Œ7fåeÍo¬&Y³' ¥ÍÓÜo8ƒZ ÞU7 5Ô…’ÔÓ˜Ub|‡»Æ4‰Î;ºlÀÑšrÍtÒ"Ov¾‹Pîy*}Zæt´t!Ì¼æ€-­]«õ^Þv1
-³JŒý„
- jL,×ŸkÍ|Ga6eÐûí§³|[FóÃý„åJaV‰~ðKb9…‰%âFHcâÒÅ»Sòd·‘œ§Üï""á 1M¢s‘Çt1LŸÔ¯ÉsŠý w4¦IqRa/‘˜&1ú¬ùÄ¬ZOûÆ+\Ås¸¦]ú=ñY‰‰Ë€ø¬ÄÄqwJcb­q›¯1›2 Õ9‡±G°hR˜&Ñ§‡Áì\Óºa¢(¥07½ÄÚnša*¬ð¼£ÙbàåILÓmÍÚD„ÆÄyü°µd­ÝªL—"©gh¾ûê>gÜÄ³UÁ³õ_÷±£šÏ¤WÂ””lˆ×´> …m…Kž.0Q/iL“hçÃ•9IòHJ\¶–ªõ²LIXhÈ‹½.Ä¡$¦Iœ—~“¨0Mâ”ÝC;Ááš6xi>@cV‰®ßjCZV‰‰%âyf‰µ&‰Ù”évq{DSSP{g›’¡ô–õÒÖ
-‹ÅˆGz}Ó$¦žlJášÖ­tY–£–2ÎN§ï)j)Cœžò;ªC2…¾hX¡0±JL¢ÂlTeU…kÚeØÝ‡§$&–è—®ÎÓ˜~dËalm2'1±G0‰
-+PùÅ'aÓ2â‘Æ0¡Ÿx·ÎZC)1M¢Ý– 5æ³Jt|,Ã@K7­^ëKÌ*1Fi°ÆÄI³+1±Ö¤Ù•˜§ýI…Ë@ì	M%OQì•mJ†âa÷¹Îû;_’6•Ý.¦Ô¬iƒÿÆ{†—7¡dÇ0/|÷G-¥óÃ"A“’¡–r™ú‹ÄŽ³J\†…ì—³JŒýô.‰‰‰%’ø–˜XkRIL\2¤j”˜ØKH-1±Ç2‰
-GÓ:ÇH»E!Ï“Ö8IL“hOíhÆS˜U¢Ÿº}®içþh=s7…iCîˆ…„ÂÄYØ*L¬5«ZfS¬Î£0öˆ¶Òe(öÎ6%C·ËéI~ã<÷÷•@×<Ò¿LhŒ8§áØú¥E-¥ËÃ"J“’¡–rñýMÌ.
-³J®_!&1Mb‰³~T‚ƒ@bb‰$P%&ÖšT&—©å$&öRýJLì±L¢ÂÄQ…µþä{Zë•¬5$^—³?|Á·>ë~¤yrvvø‹^¹ûÏ?þøÓû7¯ÏFÍÓRê¬ýÙ¢áE9»×~½Ñ¾EHbnè¶#*Qanè5³C]…7t_‘½{>‡Á½
-U ÂÍâÁùyI$ÚU›‹Ùa¢EÈÙTa›ÆòÓƒMw˜”piîy¡¸¡—¼
-K§õp0oè]±–~Â¸NbnèÆ«¹DRx£bð†C*å2ä>Ò2˜¤ÍËåÍ&yÎ«?-HabÁµT,š&)Ï2ˆG1¢0·×3mTIlÝöçÄHEs€8ãýTXâ5~Îáí¼ŸêæŠÝo–ÑuúJa9ë
-×´Ó ·´ÞÐƒo÷˜¡pk\¶ã=IM-þº‰5$Þ^·;Ñ”ÜÐuR·V‡Ãº(ÉÞÅöHm…I$¶>Ea¢Ië^¾¬×8Èí—¶lZÎý·o›
-oèzª»îfi¯vŽÃÄæ!Ä£–¯/H5…î&{¨éNÇ^'1-ëœ‡žöc…¹½.GºûqûË†®g¢®«0‰Ä¶ø(|å·õ”öb£Ö)LJ¬IËáí,ý&g·_6ôjÚMo³´—Ûr˜Ø»u[——!ÔN­Â”1¸§]â`MÔ#v"‰Y%–qc?ú¸¼˜Ã–Ö÷Ðzp˜„ˆIöÒâ½L^ƒ‰ñQ¸{æ)¼a±z J1¥]ß&÷ßÈwÏÓ£®Éï<À&¸ã 1IÆÚp¤pk2’
-“ï¶µÆ³žòüóŸŒ±:q†ÐçNzüù_I>”–RÝy¯d•½¯9‚qžÜÛÒ¬Ý¦Ï±‰)¤æ³¯|©eÁF˜ñS¿®7{eÙÛMuMã÷a¥¹iò¾ÿËßýÓw²D%rª æÿþ®äáû(ÿüK!,~žíŠ…)dÛ¾»|¯ýdü¹i©‡ü•2ó×ú®=¹“Ú)y«¢+e{o·í5·õ­{C4øi‰ïòªGý•Ôšø)–Ž…WÀûëjb“ò!”öüÞ1Û^¯óc,ÿ•ò«Y´Z~rZz·	¥÷˜î?/÷…buúû¶ç( yÓüvÛèí™½»=—ã:|7w~Ty%|ºïZ×`”7ÛêEÝòÖmdKÊÝ}…ç}íÛ‡ºc¯ËIŠÝ:lå-ÝÝH¾^V?ëfø)÷gûc‘¾Î"¼z®§€ýKCŒƒ¬ö®ö†h{?šËÎuÅ´& t,‰o–˜gÄs¼¿±Xsh\xa:,Ú›­€Ùg–¥G÷J¬ðŠü!öb/Xv@~ï;¡î^xßÏ;ìÎŠÀý†ð(¼¨<ÄXiµjû]õ0Ú/$¡ö(¼´à
-¨@T@C…Vxk|•óP+Z£;Öžµb5h¬0ÿh·I“¶·vV‡ÀX/`N¸º(9m+V?…×¾B>ª­†.G°î+<?õB@Zxn*äh{††`¬à£Ë)ÁØ`^ß_­NËH·S4]Ñ™Oö¼±ý+¼úLö4Ö9ƒ¾ÝÛçÂëÁö>ºc€þCá-ËÐ/û#Zgòo¬»;î@cXQ Âº”ÈUab…µp“£âžë^à¹°.îN°á	,îG›jØl‚6Ã ƒm9¨aß`¯Yaâ¨‘¯¾¬üõ²`£õÆL“_÷¶
-endstream
-endobj
-181 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-182 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-183 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-184 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-185 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-186 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-187 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-188 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-189 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-190 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-191 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-192 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-193 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-194 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-195 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-196 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-197 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-198 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-199 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-200 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
-endobj
-xref
-0 201
-0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000103 00000 n 
-0000000162 00000 n 
-0000002096 00000 n 
-0000002396 00000 n 
-0000002711 00000 n 
-0000003248 00000 n 
-0000003537 00000 n 
-0000003825 00000 n 
-0000004104 00000 n 
-0000004394 00000 n 
-0000005657 00000 n 
-0000005987 00000 n 
-0000006264 00000 n 
-0000006565 00000 n 
-0000007010 00000 n 
-0000007332 00000 n 
-0000007746 00000 n 
-0000008191 00000 n 
-0000009453 00000 n 
-0000009774 00000 n 
-0000010104 00000 n 
-0000010393 00000 n 
-0000010692 00000 n 
-0000011101 00000 n 
-0000011400 00000 n 
-0000011689 00000 n 
-0000012953 00000 n 
-0000014209 00000 n 
-0000014508 00000 n 
-0000014809 00000 n 
-0000015218 00000 n 
-0000015538 00000 n 
-0000015827 00000 n 
-0000016127 00000 n 
-0000016426 00000 n 
-0000016726 00000 n 
-0000017003 00000 n 
-0000017292 00000 n 
-0000017593 00000 n 
-0000017909 00000 n 
-0000018447 00000 n 
-0000018737 00000 n 
-0000019026 00000 n 
-0000019305 00000 n 
-0000019595 00000 n 
-0000020858 00000 n 
-0000021188 00000 n 
-0000021465 00000 n 
-0000021766 00000 n 
-0000022211 00000 n 
-0000022533 00000 n 
-0000022947 00000 n 
-0000023392 00000 n 
-0000024654 00000 n 
-0000024975 00000 n 
-0000025305 00000 n 
-0000025594 00000 n 
-0000025893 00000 n 
-0000026302 00000 n 
-0000026601 00000 n 
-0000026890 00000 n 
-0000028154 00000 n 
-0000029410 00000 n 
-0000029709 00000 n 
-0000030010 00000 n 
-0000030419 00000 n 
-0000030739 00000 n 
-0000031028 00000 n 
-0000031328 00000 n 
-0000031627 00000 n 
-0000031927 00000 n 
-0000032204 00000 n 
-0000032493 00000 n 
-0000032794 00000 n 
-0000033110 00000 n 
-0000033648 00000 n 
-0000033938 00000 n 
-0000034227 00000 n 
-0000034506 00000 n 
-0000034796 00000 n 
-0000036059 00000 n 
-0000036389 00000 n 
-0000036666 00000 n 
-0000036967 00000 n 
-0000037412 00000 n 
-0000037734 00000 n 
-0000038148 00000 n 
-0000038593 00000 n 
-0000039855 00000 n 
-0000040176 00000 n 
-0000040506 00000 n 
-0000040795 00000 n 
-0000041094 00000 n 
-0000041503 00000 n 
-0000041802 00000 n 
-0000042091 00000 n 
-0000043355 00000 n 
-0000044611 00000 n 
-0000044911 00000 n 
-0000045213 00000 n 
-0000045623 00000 n 
-0000045944 00000 n 
-0000046234 00000 n 
-0000046535 00000 n 
-0000046835 00000 n 
-0000047136 00000 n 
-0000047414 00000 n 
-0000047704 00000 n 
-0000048006 00000 n 
-0000048323 00000 n 
-0000048862 00000 n 
-0000049153 00000 n 
-0000049443 00000 n 
-0000049723 00000 n 
-0000050014 00000 n 
-0000051278 00000 n 
-0000051609 00000 n 
-0000051887 00000 n 
-0000052189 00000 n 
-0000052635 00000 n 
-0000052958 00000 n 
-0000053373 00000 n 
-0000053819 00000 n 
-0000055082 00000 n 
-0000055404 00000 n 
-0000055735 00000 n 
-0000056025 00000 n 
-0000056325 00000 n 
-0000056735 00000 n 
-0000057035 00000 n 
-0000057325 00000 n 
-0000058590 00000 n 
-0000059847 00000 n 
-0000060147 00000 n 
-0000060449 00000 n 
-0000060859 00000 n 
-0000061180 00000 n 
-0000061470 00000 n 
-0000061771 00000 n 
-0000062071 00000 n 
-0000062372 00000 n 
-0000062650 00000 n 
-0000062940 00000 n 
-0000063242 00000 n 
-0000063559 00000 n 
-0000064098 00000 n 
-0000064389 00000 n 
-0000064679 00000 n 
-0000064959 00000 n 
-0000065250 00000 n 
-0000066514 00000 n 
-0000066845 00000 n 
-0000067123 00000 n 
-0000067425 00000 n 
-0000067871 00000 n 
-0000068194 00000 n 
-0000068609 00000 n 
-0000069055 00000 n 
-0000070318 00000 n 
-0000070640 00000 n 
-0000070971 00000 n 
-0000071261 00000 n 
-0000071561 00000 n 
-0000071971 00000 n 
-0000072271 00000 n 
-0000072561 00000 n 
-0000073826 00000 n 
-0000075083 00000 n 
-0000075383 00000 n 
-0000075685 00000 n 
-0000076095 00000 n 
-0000076416 00000 n 
-0000076706 00000 n 
-0000077007 00000 n 
-0000077307 00000 n 
-0000077608 00000 n 
-0000077886 00000 n 
-0000078176 00000 n 
-0000122749 00000 n 
-0000122848 00000 n 
-0000122947 00000 n 
-0000123046 00000 n 
-0000123145 00000 n 
-0000123244 00000 n 
-0000123348 00000 n 
-0000123452 00000 n 
-0000123556 00000 n 
-0000123660 00000 n 
-0000123764 00000 n 
-0000123875 00000 n 
-0000123986 00000 n 
-0000124097 00000 n 
-0000124208 00000 n 
-0000124319 00000 n 
-0000124426 00000 n 
-0000124533 00000 n 
-0000124640 00000 n 
-0000124747 00000 n 
-trailer << /Info 2 0 R /Root 1 0 R /Size 201 /ID [<c51395bb3b2a1102efbee995a2da9350><c51395bb3b2a1102efbee995a2da9350>] >>
-startxref
-124854
-%%EOF

@@ -1,6 +1,0 @@
-repository: https://github.com/arduino/docs-content
-commit: 404d4b35349e6558974af82a0966a2846dbbb510
-publisher: Arduino S.r.l.
-license (SPDX): CC-BY-SA-4.0
-license text: https://creativecommons.org/licenses/by-sa/4.0/
-evidence: LICENSE.md

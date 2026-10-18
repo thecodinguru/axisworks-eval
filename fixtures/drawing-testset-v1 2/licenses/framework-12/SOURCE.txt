@@ -1,6 +1,0 @@
-repository: https://github.com/FrameworkComputer/Framework-Laptop-12
-commit: be04ffcf0725ed32f060559b0b14222e38be3533
-publisher: Framework Computer Inc
-license (SPDX): CC-BY-4.0
-license text: https://creativecommons.org/licenses/by/4.0/
-evidence: README.md
