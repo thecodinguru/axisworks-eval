@@ -1,0 +1,6 @@
+repository: https://github.com/particle-iot/core
+commit: c65d36c29a4e9d681325aa0d36ed2661aec2b8f2
+publisher: Particle Industries
+license (SPDX): CC-BY-SA-4.0
+license text: https://creativecommons.org/licenses/by-sa/4.0/
+evidence: license.txt

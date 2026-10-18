@@ -1,0 +1,6 @@
+repository: https://github.com/oresat/oresat-gps-hardware
+commit: 83b3ee21bde482f4e08fe5f95b72553dfa3021bf
+publisher: Portland State Aerospace Society (OreSat)
+license (SPDX): CERN-OHL-S-2.0
+license text: https://ohwr.org/cern_ohl_s_v2.txt
+evidence: LICENSE.md

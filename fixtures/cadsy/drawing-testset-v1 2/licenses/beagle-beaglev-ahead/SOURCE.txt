@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/beaglev-ahead
+commit: 6b56e2d69485c375c5912eaa2791f79f1d089c07
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: LICENSE

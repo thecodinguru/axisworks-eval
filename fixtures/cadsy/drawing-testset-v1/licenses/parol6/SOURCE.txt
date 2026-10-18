@@ -1,0 +1,6 @@
+repository: https://github.com/PCrnjak/PAROL6-Desktop-robot-arm
+commit: 45a7502d71d7ec6e0721c711a8642941b0667115
+publisher: Source Robotics (PCrnjak)
+license (SPDX): GPL-3.0-only
+license text: https://www.gnu.org/licenses/gpl-3.0.html
+evidence: LICENSE

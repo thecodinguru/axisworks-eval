@@ -1,0 +1,6 @@
+repository: https://github.com/OLIMEX/ESP32-POE
+commit: deb38a377d50eadb04ddc7118a17a5ae58b1ee53
+publisher: OLIMEX Ltd
+license (SPDX): Apache-2.0
+license text: https://www.apache.org/licenses/LICENSE-2.0
+evidence: README.md (hardware Apache 2.0)

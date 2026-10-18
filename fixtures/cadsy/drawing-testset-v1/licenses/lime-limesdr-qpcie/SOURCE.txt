@@ -1,0 +1,6 @@
+repository: https://github.com/myriadrf/LimeSDR-QPCIe
+commit: b956ed9b38742895941aad578ae080a9f8116a9d
+publisher: Lime Microsystems / MyriadRF
+license (SPDX): CC-BY-3.0
+license text: https://creativecommons.org/licenses/by/3.0/
+evidence: README.md (hardware designs licensing)

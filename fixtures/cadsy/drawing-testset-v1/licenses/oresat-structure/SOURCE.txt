@@ -1,0 +1,6 @@
+repository: https://github.com/oresat/oresat-structure
+commit: 4c02299f908e8b60afd23ca562b4ec418d51ce56
+publisher: Portland State Aerospace Society (OreSat)
+license (SPDX): CERN-OHL-2.0
+license text: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+evidence: README.md (CERN OHL v2)

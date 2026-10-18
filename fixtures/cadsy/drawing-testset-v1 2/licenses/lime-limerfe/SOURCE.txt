@@ -1,0 +1,6 @@
+repository: https://github.com/myriadrf/LimeRFE
+commit: 412e190d36fcab2f0a5b8902dd3e4330019df56a
+publisher: Lime Microsystems / MyriadRF
+license (SPDX): SHL-2.1
+license text: https://solderpad.org/licenses/SHL-2.1/
+evidence: README.md (Solderpad Hardware License v2.1)

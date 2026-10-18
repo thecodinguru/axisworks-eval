@@ -1,0 +1,6 @@
+repository: https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware
+commit: 66af1522b4fba0ec4a1d7790e66f5e4652208d30
+publisher: Open Dynamic Robot Initiative (MPI-IS / NYU)
+license (SPDX): BSD-3-Clause
+license text: https://opensource.org/license/bsd-3-clause
+evidence: LICENSE

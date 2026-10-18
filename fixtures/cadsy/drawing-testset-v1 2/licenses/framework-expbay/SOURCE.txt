@@ -1,0 +1,6 @@
+repository: https://github.com/FrameworkComputer/ExpansionBay
+commit: c9b8eef0f5daae5893357aeb328bdf67454f3ede
+publisher: Framework Computer Inc
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: README.md

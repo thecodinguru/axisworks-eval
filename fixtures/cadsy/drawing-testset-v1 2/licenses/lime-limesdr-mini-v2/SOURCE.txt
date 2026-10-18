@@ -1,0 +1,6 @@
+repository: https://github.com/myriadrf/LimeSDR-Mini-v2
+commit: c90822b5d363bb6b4887dfb674109c91ac1bf882
+publisher: Lime Microsystems / MyriadRF
+license (SPDX): SHL-2.1
+license text: https://solderpad.org/licenses/SHL-2.1/
+evidence: LICENSE + README.md (Solderpad Hardware License v2.1)

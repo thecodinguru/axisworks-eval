@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/beaglev-fire
+commit: cdbd4b6892cebc5eab2d73c5a098b73aa0c2612c
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: LICENSE

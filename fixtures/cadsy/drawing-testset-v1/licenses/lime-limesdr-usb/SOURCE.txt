@@ -1,0 +1,6 @@
+repository: https://github.com/myriadrf/LimeSDR-USB
+commit: c6ea7cea27b90e94625b8e49b71ee2a10a5345bb
+publisher: Lime Microsystems / MyriadRF
+license (SPDX): CC-BY-3.0
+license text: https://creativecommons.org/licenses/by/3.0/
+evidence: README.md (hardware designs licensing)

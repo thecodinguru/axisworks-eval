@@ -1,0 +1,6 @@
+repository: https://github.com/GlasgowEmbedded/glasgow
+commit: 60f398fadd6b2f6f25c28e7ce49faba287397c18
+publisher: Glasgow Interface Explorer contributors
+license (SPDX): 0BSD
+license text: https://opensource.org/license/0bsd
+evidence: LICENSE-0BSD.txt (repository-level)

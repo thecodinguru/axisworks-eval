@@ -1,0 +1,6 @@
+repository: https://github.com/OLIMEX/RP2040-PICO30
+commit: a6937dcaca37d4b517f87f02973337e7d8501641
+publisher: OLIMEX Ltd
+license (SPDX): CERN-OHL-S-2.0
+license text: https://ohwr.org/cern_ohl_s_v2.txt
+evidence: README.md (hardware CERN-OHL-S v2)

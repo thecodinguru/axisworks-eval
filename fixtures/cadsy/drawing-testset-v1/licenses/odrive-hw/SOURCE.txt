@@ -1,0 +1,6 @@
+repository: https://github.com/odriverobotics/ODriveHardware
+commit: 079f30ac58f193226fcc552e4d6ba24553027ee1
+publisher: ODrive Robotics
+license (SPDX): MIT
+license text: https://opensource.org/license/mit
+evidence: LICENSE

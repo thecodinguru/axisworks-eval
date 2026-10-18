@@ -1,0 +1,6 @@
+repository: https://github.com/mjbots/moteus
+commit: 8f747f4ac448d117c1390b77ca2d80c27e751a56
+publisher: mjbots Robotic Systems
+license (SPDX): Apache-2.0
+license text: https://www.apache.org/licenses/LICENSE-2.0
+evidence: LICENSE

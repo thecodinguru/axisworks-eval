@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/docs.beagleboard.io
+commit: 16fe321218239da46f68cc6688347deddd044181
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-SA-4.0
+license text: https://creativecommons.org/licenses/by-sa/4.0/
+evidence: LICENSE

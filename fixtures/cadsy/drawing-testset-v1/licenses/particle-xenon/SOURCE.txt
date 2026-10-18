@@ -1,0 +1,6 @@
+repository: https://github.com/particle-iot/xenon
+commit: 76f405980102954aa8980816687075820dc05776
+publisher: Particle Industries
+license (SPDX): CC-BY-SA-4.0
+license text: https://creativecommons.org/licenses/by-sa/4.0/
+evidence: license.txt

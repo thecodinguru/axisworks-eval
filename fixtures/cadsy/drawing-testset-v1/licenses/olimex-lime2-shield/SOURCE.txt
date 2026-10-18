@@ -1,0 +1,6 @@
+repository: https://github.com/OLIMEX/LIME2-SHIELD
+commit: cc5fa939232c5851eed8f06755660ba56cc45bde
+publisher: OLIMEX Ltd
+license (SPDX): CERN-OHL-S-2.0
+license text: https://ohwr.org/cern_ohl_s_v2.txt
+evidence: README.md (hardware CERN-OHL-S v2)

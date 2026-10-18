@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/pocketbeagle
+commit: d793a63f48dd3041e333362d5ec870377d255f89
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: LICENSE

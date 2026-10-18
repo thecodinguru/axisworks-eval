@@ -1,0 +1,6 @@
+repository: https://github.com/OLIMEX/OLINUXINO
+commit: a8672538a650d3a1eb23c11fe9ef594229333232
+publisher: OLIMEX Ltd
+license (SPDX): CC-BY-SA-3.0-US
+license text: https://creativecommons.org/licenses/by-sa/3.0/us/
+evidence: README.md (Licensing)

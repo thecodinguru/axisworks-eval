@@ -1,0 +1,6 @@
+repository: https://github.com/oresat/oresat-dxwifi-hardware
+commit: 3738a4072d0736b650e0824d88e5e1b56c145d7b
+publisher: Portland State Aerospace Society (OreSat)
+license (SPDX): GPL-3.0-only
+license text: https://www.gnu.org/licenses/gpl-3.0.html
+evidence: LICENSE

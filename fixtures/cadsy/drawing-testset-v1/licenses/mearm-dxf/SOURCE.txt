@@ -1,0 +1,6 @@
+repository: https://github.com/phenoptix/MeArm
+commit: 35398456ff3f1cded211198909bcd571d86102b3
+publisher: phenoptix / MeArm
+license (SPDX): CC-BY-SA-3.0
+license text: https://creativecommons.org/licenses/by-sa/3.0/
+evidence: README.md

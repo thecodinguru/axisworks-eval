@@ -1,0 +1,6 @@
+repository: https://github.com/raspberrypi/documentation
+commit: ddea98e98dafe9419feb4fd82710c2fbdef7dc44
+publisher: Raspberry Pi Ltd
+license (SPDX): CC-BY-SA-4.0
+license text: https://creativecommons.org/licenses/by-sa/4.0/
+evidence: LICENSE.md

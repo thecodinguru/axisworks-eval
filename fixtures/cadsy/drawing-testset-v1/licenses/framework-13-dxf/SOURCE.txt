@@ -1,0 +1,6 @@
+repository: https://github.com/FrameworkComputer/Framework-Laptop-13
+commit: 9680262347b80efe2314673bf1f26eb955165fca
+publisher: Framework Computer Inc
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: README.md + LICENSE

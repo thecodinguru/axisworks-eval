@@ -1,0 +1,6 @@
+repository: https://github.com/VoronDesign/Voron-2
+commit: a192410e27ea345644ae5c4b29b4c9c40cbe1a73
+publisher: Voron Design
+license (SPDX): GPL-3.0-only
+license text: https://www.gnu.org/licenses/gpl-3.0.html
+evidence: LICENSE

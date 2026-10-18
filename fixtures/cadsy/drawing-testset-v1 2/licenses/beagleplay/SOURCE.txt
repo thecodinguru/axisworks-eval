@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/beagleplay
+commit: 7a59a98ae27dc4fd9e2bd8975ff90cdb44a366ea
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: LICENSE

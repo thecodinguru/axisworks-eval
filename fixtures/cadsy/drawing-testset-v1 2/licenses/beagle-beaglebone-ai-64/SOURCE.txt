@@ -1,0 +1,6 @@
+repository: https://github.com/beagleboard/beaglebone-ai-64
+commit: 7313ca3cca8a7035bd077dc51d4a9b3a40e4c1a3
+publisher: BeagleBoard.org Foundation
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: LICENSE

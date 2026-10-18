@@ -1,0 +1,6 @@
+repository: https://github.com/OLIMEX/ESP32-EVB
+commit: a3ec2f448109cb8f35ce7cb21a027bb7c837ab61
+publisher: OLIMEX Ltd
+license (SPDX): Apache-2.0
+license text: https://www.apache.org/licenses/LICENSE-2.0
+evidence: LICENSE

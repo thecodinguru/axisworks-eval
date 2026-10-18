@@ -1,0 +1,6 @@
+repository: https://github.com/FrameworkComputer/InputModules
+commit: 8d101b479ea4700ed1b758fd7ba3bd6b5ed75317
+publisher: Framework Computer Inc
+license (SPDX): CC-BY-4.0
+license text: https://creativecommons.org/licenses/by/4.0/
+evidence: README.md

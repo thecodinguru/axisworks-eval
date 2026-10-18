@@ -1,0 +1,673 @@
+%PDF-1.5
+%¿÷¢þ
+1 0 obj
+<< /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Producer (pypdf) >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+4 0 obj
+<< /Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R ] /Contents 120 0 R /MediaBox [ 0 0 841.89599999999996 595.29600000000005 ] /Parent 3 0 R /Resources << /Font << /KicadFont 121 0 R /KicadFont-0 122 0 R /KicadFont-1 123 0 R /KicadFont-2 124 0 R /KicadFont-3 125 0 R /KicadFontB 126 0 R /KicadFontB-0 127 0 R /KicadFontB-1 128 0 R /KicadFontB-2 129 0 R /KicadFontB-3 130 0 R /KicadFontBI 131 0 R /KicadFontBI-0 132 0 R /KicadFontBI-1 133 0 R /KicadFontBI-2 134 0 R /KicadFontBI-3 135 0 R /KicadFontI 136 0 R /KicadFontI-0 137 0 R /KicadFontI-1 138 0 R /KicadFontI-2 139 0 R /KicadFontI-3 140 0 R >> /ProcSet [ /ImageB /ImageC /PDF /Text ] >> /Type /Page >>
+endobj
+5 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.05500000000001 313.40499999999997 425.83499999999998 324.43099999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D2"],\n["Value = BAT54W"],\n["Footprint = SOT-23"],\n["Datasheet = https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf", "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 427.25200000000001 350.255 437.03100000000001 361.28199999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.608 392.56200000000001 417.387 398.34500000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C13"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.34399999999999 370.21100000000001 414.04199999999997 381.01100000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = 4.7V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 411.803 351.01999999999998 425.39499999999998 357.68200000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R28"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.44099999999997 304.41199999999998 444.96899999999999 314.07799999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.339 311.19400000000002 397.346 386.17000000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q1"],\n["Value = MMBT3906"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3906-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.81099999999998 313.22699999999998 438.59100000000001 324.25400000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R29"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 422.185 302.99400000000003 427.71300000000002 312.661 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R24"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.27699999999999 344.50099999999998 422.94299999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C14"],\n["Value = 10uF/16V/CASE-A"],\n["Footprint = CP_EIA-3216-18_Kemet-A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.93700000000001 370.04899999999998 420.03100000000001 383.35700000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R23"],\n["Value = 100K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 324.65800000000002 438.53399999999999 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C15"],\n["Value = 47uF/25V/CASE-D"],\n["Footprint = CP_EIA-7343-31_Kemet-D"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.654 330.46899999999999 437.86799999999999 344.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q2"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.18700000000001 302.69 439.214 312.46899999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 311.12299999999999 408.40199999999999 386.24099999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J4"],\n["Value = Conn_01x08"],\n["Footprint = PinHeader_1x08_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 453.685 318.351 488.83499999999998 379.01299999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q4"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.05399999999997 360.28199999999998 420.07999999999998 370.55799999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = L1"],\n["Value = 680uH"],\n["Footprint = L_YP0504"],\n["MPN = YP0403/YP0504-681M"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.245 360.79700000000003 437.23599999999999 378.66699999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+23 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R22"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 424.61599999999999 344.50099999999998 434.28199999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+24 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 396.97800000000001 392.69 406.64400000000001 398.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+25 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = 18V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 438.87400000000002 315.01999999999998 445.53500000000003 328.613 ] /Subtype /Link /Type /Annot >>
+endobj
+26 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R25"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 418.94600000000003 324.65800000000002 428.613 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+27 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R27"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.02499999999998 307.64999999999998 418.69099999999997 313.178 ] /Subtype /Link /Type /Annot >>
+endobj
+28 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.05500000000001 313.40499999999997 425.83499999999998 324.43099999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+29 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D2"],\n["Value = BAT54W"],\n["Footprint = SOT-23"],\n["Datasheet = https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf", "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 427.25200000000001 350.255 437.03100000000001 361.28199999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+30 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.608 392.56200000000001 417.387 398.34500000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+31 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C13"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.34399999999999 370.21100000000001 414.04199999999997 381.01100000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+32 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = 4.7V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 411.803 351.01999999999998 425.39499999999998 357.68200000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+33 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R28"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.44099999999997 304.41199999999998 444.96899999999999 314.07799999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+34 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.339 311.19400000000002 397.346 386.17000000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+35 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q1"],\n["Value = MMBT3906"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3906-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.81099999999998 313.22699999999998 438.59100000000001 324.25400000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+36 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R29"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 422.185 302.99400000000003 427.71300000000002 312.661 ] /Subtype /Link /Type /Annot >>
+endobj
+37 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R24"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.27699999999999 344.50099999999998 422.94299999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+38 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C14"],\n["Value = 10uF/16V/CASE-A"],\n["Footprint = CP_EIA-3216-18_Kemet-A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.93700000000001 370.04899999999998 420.03100000000001 383.35700000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+39 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R23"],\n["Value = 100K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 324.65800000000002 438.53399999999999 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+40 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C15"],\n["Value = 47uF/25V/CASE-D"],\n["Footprint = CP_EIA-7343-31_Kemet-D"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.654 330.46899999999999 437.86799999999999 344.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+41 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q2"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.18700000000001 302.69 439.214 312.46899999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+42 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 311.12299999999999 408.40199999999999 386.24099999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+43 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J4"],\n["Value = Conn_01x08"],\n["Footprint = PinHeader_1x08_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 453.685 318.351 488.83499999999998 379.01299999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+44 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q4"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.05399999999997 360.28199999999998 420.07999999999998 370.55799999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+45 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = L1"],\n["Value = 680uH"],\n["Footprint = L_YP0504"],\n["MPN = YP0403/YP0504-681M"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.245 360.79700000000003 437.23599999999999 378.66699999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+46 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R22"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 424.61599999999999 344.50099999999998 434.28199999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+47 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 396.97800000000001 392.69 406.64400000000001 398.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+48 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = 18V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 438.87400000000002 315.01999999999998 445.53500000000003 328.613 ] /Subtype /Link /Type /Annot >>
+endobj
+49 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R25"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 418.94600000000003 324.65800000000002 428.613 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+50 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R27"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.02499999999998 307.64999999999998 418.69099999999997 313.178 ] /Subtype /Link /Type /Annot >>
+endobj
+51 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.05500000000001 313.40499999999997 425.83499999999998 324.43099999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+52 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D2"],\n["Value = BAT54W"],\n["Footprint = SOT-23"],\n["Datasheet = https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf", "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 427.25200000000001 350.255 437.03100000000001 361.28199999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+53 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.608 392.56200000000001 417.387 398.34500000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+54 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C13"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.34399999999999 370.21100000000001 414.04199999999997 381.01100000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+55 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = 4.7V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 411.803 351.01999999999998 425.39499999999998 357.68200000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+56 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R28"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.44099999999997 304.41199999999998 444.96899999999999 314.07799999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+57 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.339 311.19400000000002 397.346 386.17000000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+58 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q1"],\n["Value = MMBT3906"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3906-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.81099999999998 313.22699999999998 438.59100000000001 324.25400000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+59 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R29"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 422.185 302.99400000000003 427.71300000000002 312.661 ] /Subtype /Link /Type /Annot >>
+endobj
+60 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R24"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.27699999999999 344.50099999999998 422.94299999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+61 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C14"],\n["Value = 10uF/16V/CASE-A"],\n["Footprint = CP_EIA-3216-18_Kemet-A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.93700000000001 370.04899999999998 420.03100000000001 383.35700000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+62 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R23"],\n["Value = 100K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 324.65800000000002 438.53399999999999 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+63 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C15"],\n["Value = 47uF/25V/CASE-D"],\n["Footprint = CP_EIA-7343-31_Kemet-D"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.654 330.46899999999999 437.86799999999999 344.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+64 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q2"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.18700000000001 302.69 439.214 312.46899999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+65 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 311.12299999999999 408.40199999999999 386.24099999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+66 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J4"],\n["Value = Conn_01x08"],\n["Footprint = PinHeader_1x08_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 453.685 318.351 488.83499999999998 379.01299999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+67 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q4"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.05399999999997 360.28199999999998 420.07999999999998 370.55799999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+68 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = L1"],\n["Value = 680uH"],\n["Footprint = L_YP0504"],\n["MPN = YP0403/YP0504-681M"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.245 360.79700000000003 437.23599999999999 378.66699999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+69 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R22"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 424.61599999999999 344.50099999999998 434.28199999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+70 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 396.97800000000001 392.69 406.64400000000001 398.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+71 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = 18V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 438.87400000000002 315.01999999999998 445.53500000000003 328.613 ] /Subtype /Link /Type /Annot >>
+endobj
+72 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R25"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 418.94600000000003 324.65800000000002 428.613 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+73 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R27"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.02499999999998 307.64999999999998 418.69099999999997 313.178 ] /Subtype /Link /Type /Annot >>
+endobj
+74 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.05500000000001 313.40499999999997 425.83499999999998 324.43099999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+75 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D2"],\n["Value = BAT54W"],\n["Footprint = SOT-23"],\n["Datasheet = https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf", "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 427.25200000000001 350.255 437.03100000000001 361.28199999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+76 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.608 392.56200000000001 417.387 398.34500000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+77 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C13"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.34399999999999 370.21100000000001 414.04199999999997 381.01100000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+78 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = 4.7V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 411.803 351.01999999999998 425.39499999999998 357.68200000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+79 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R28"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.44099999999997 304.41199999999998 444.96899999999999 314.07799999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+80 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.339 311.19400000000002 397.346 386.17000000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+81 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q1"],\n["Value = MMBT3906"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3906-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.81099999999998 313.22699999999998 438.59100000000001 324.25400000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+82 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R29"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 422.185 302.99400000000003 427.71300000000002 312.661 ] /Subtype /Link /Type /Annot >>
+endobj
+83 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R24"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.27699999999999 344.50099999999998 422.94299999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+84 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C14"],\n["Value = 10uF/16V/CASE-A"],\n["Footprint = CP_EIA-3216-18_Kemet-A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.93700000000001 370.04899999999998 420.03100000000001 383.35700000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+85 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R23"],\n["Value = 100K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 324.65800000000002 438.53399999999999 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+86 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C15"],\n["Value = 47uF/25V/CASE-D"],\n["Footprint = CP_EIA-7343-31_Kemet-D"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.654 330.46899999999999 437.86799999999999 344.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+87 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q2"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.18700000000001 302.69 439.214 312.46899999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+88 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 311.12299999999999 408.40199999999999 386.24099999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+89 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J4"],\n["Value = Conn_01x08"],\n["Footprint = PinHeader_1x08_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 453.685 318.351 488.83499999999998 379.01299999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+90 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q4"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.05399999999997 360.28199999999998 420.07999999999998 370.55799999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+91 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = L1"],\n["Value = 680uH"],\n["Footprint = L_YP0504"],\n["MPN = YP0403/YP0504-681M"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.245 360.79700000000003 437.23599999999999 378.66699999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+92 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R22"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 424.61599999999999 344.50099999999998 434.28199999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+93 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 396.97800000000001 392.69 406.64400000000001 398.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+94 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = 18V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 438.87400000000002 315.01999999999998 445.53500000000003 328.613 ] /Subtype /Link /Type /Annot >>
+endobj
+95 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R25"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 418.94600000000003 324.65800000000002 428.613 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+96 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R27"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.02499999999998 307.64999999999998 418.69099999999997 313.178 ] /Subtype /Link /Type /Annot >>
+endobj
+97 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q3"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 416.05500000000001 313.40499999999997 425.83499999999998 324.43099999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+98 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D2"],\n["Value = BAT54W"],\n["Footprint = SOT-23"],\n["Datasheet = https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf", "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 427.25200000000001 350.255 437.03100000000001 361.28199999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+99 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D1"],\n["Value = LED"],\n["Footprint = LED_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 407.608 392.56200000000001 417.387 398.34500000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+100 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C13"],\n["Value = 0.1uF"],\n["Footprint = C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 408.34399999999999 370.21100000000001 414.04199999999997 381.01100000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+101 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D4"],\n["Value = 4.7V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 411.803 351.01999999999998 425.39499999999998 357.68200000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+102 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R28"],\n["Value = 100R"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 439.44099999999997 304.41199999999998 444.96899999999999 314.07799999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+103 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J1"],\n["Value = Conn_01x10"],\n["Footprint = PinSocket_1x10_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 362.339 311.19400000000002 397.346 386.17000000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+104 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q1"],\n["Value = MMBT3906"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3906-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.81099999999998 313.22699999999998 438.59100000000001 324.25400000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+105 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R29"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 422.185 302.99400000000003 427.71300000000002 312.661 ] /Subtype /Link /Type /Annot >>
+endobj
+106 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R24"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.27699999999999 344.50099999999998 422.94299999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+107 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C14"],\n["Value = 10uF/16V/CASE-A"],\n["Footprint = CP_EIA-3216-18_Kemet-A"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 413.93700000000001 370.04899999999998 420.03100000000001 383.35700000000003 ] /Subtype /Link /Type /Annot >>
+endobj
+108 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R23"],\n["Value = 100K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.86799999999999 324.65800000000002 438.53399999999999 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+109 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = C15"],\n["Value = 47uF/25V/CASE-D"],\n["Footprint = CP_EIA-7343-31_Kemet-D"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 412.654 330.46899999999999 437.86799999999999 344.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+110 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q2"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 428.18700000000001 302.69 439.214 312.46899999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+111 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J2"],\n["Value = Conn_01x10"],\n["Footprint = PinHeader_1x10_P2.54mm_Vertical"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 398.05500000000001 311.12299999999999 408.40199999999999 386.24099999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+112 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = J4"],\n["Value = Conn_01x08"],\n["Footprint = PinHeader_1x08_P2.54mm_Horizontal"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 453.685 318.351 488.83499999999998 379.01299999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+113 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = Q4"],\n["Value = MMBT3904"],\n["Footprint = SOT-23"],\n["Datasheet = https://www.onsemi.com/pub/Collateral/2N3903-D.PDF", "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.05399999999997 360.28199999999998 420.07999999999998 370.55799999999999 ] /Subtype /Link /Type /Annot >>
+endobj
+114 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = L1"],\n["Value = 680uH"],\n["Footprint = L_YP0504"],\n["MPN = YP0403/YP0504-681M"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 420.245 360.79700000000003 437.23599999999999 378.66699999999997 ] /Subtype /Link /Type /Annot >>
+endobj
+115 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R22"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 424.61599999999999 344.50099999999998 434.28199999999998 350.02800000000002 ] /Subtype /Link /Type /Annot >>
+endobj
+116 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R1"],\n["Value = 2K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 396.97800000000001 392.69 406.64400000000001 398.21699999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+117 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = D3"],\n["Value = 18V"],\n["Footprint = D_SOD-123"],\n["Description = Zener diode, small symbol"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 438.87400000000002 315.01999999999998 445.53500000000003 328.613 ] /Subtype /Link /Type /Annot >>
+endobj
+118 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R25"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 418.94600000000003 324.65800000000002 428.613 330.18599999999998 ] /Subtype /Link /Type /Annot >>
+endobj
+119 0 obj
+<< /A << /JS (ShM\([\n["Reference designator = R27"],\n["Value = 10K"],\n["Footprint = R_0805_2012Metric"],\n]\);) /S /JavaScript /Type /Action >> /Border [ 16 16 0 ] /Rect [ 409.02499999999998 307.64999999999998 418.69099999999997 313.178 ] /Subtype /Link /Type /Annot >>
+endobj
+120 0 obj
+<< /Filter /FlateDecode /Length 31442 >>
+stream
+xœÌ½Ë¶%Éq8Ï¯Èa÷ ³ýý’¢DQj5)
+-N0‹TŠD³Åµôõr÷ˆ8'Âlï¸v3³*/j¨{l‡…½üeæáþOŸþiýã¾8WÃg7ÿyýëOOþó¿ÿýûèÉûZRu¹µsülûéÿõëŸýë?ÿÔ¾ÄTRqÏÿ¤ÏÿòÃ„ùqïŠÇ«óCûj-_òçŠó_âË4ñóãEŒ¡º/¹¿þóùçAô®~ñ¯ßª§_öó$?úÛf.$¾ï1é/	ý²PÓaŽBV(e´Rò_ÚÙ õÓxçøg™°8¬	dØIZŸ^^ð5/<ßæ•ƒÀ5¹kõ7`r ŽÅ1?}°ÐqÆÐñ¦Ðñ¦ÐÑ¨Sè GðÐÑjœBÇñÐq¦ÐÑ(:ˆ0¹)tF*tR7†Ž3…Ž3…ŽFB±8B€†Pã:©ÓÐIÝ: Cr&·„Ôèc…N³…Nê–ÐIÝ: õ
+Èâ:ZSè4:Í:…Cq&7…Òèc…N5†N3…N3…ŽFB±8B€‡ŽVã:•‡N5…ŽFáÐAÜ€ÉM¡ƒ4úX¡SŒ¡SM¡SM¡£Q§ÐA,Žà¡£Õ8…Ná¡SL¡£Q8t7`rSè >VèdcèSèSèhÔ)t‹#xèh5N¡“yèdSèhÄ˜Ü:H£:É:Ù:Ù:u
+Äâ:ZSè$:É:…Cq&7…Òèc…N4†N2…N2…ŽFB±8B€‡ŽVã:‘‡N4…ŽFáÐAÜ€ÉM¡ƒ4ú¡ãCq_ÊYÂr÷_’€‹ê§Ÿ?§6ãô{6Ê÷C“ª@ßGºs@?°ÆÞåŠ«I¡”	ŠS/ ¨Ë^½ qC6Ö’”Öó'è1¯”B’ye ¤§Fw«!nÀSZ2“?h›jCáˆÓf‡¶3EœFáˆÜPŒ˜"N‹#N+…$ÓBzjŽ8ÄxÊqHÏq©#Î™"Î™"N£pÄn(F,ô„—º%âR·D@ÁˆƒÜ€§,õüX×l—º%âR·D@ÁˆCÜPŒ˜"Në‰#®™"®™"N£pÄ!nÀS¦ˆCz~¬ˆ«Æˆk¦ˆk¦ˆÓ(q€ŠSÄi=qÄUSÄUSÄiŽ8ÄxÊqHÏqÅqÕqÕq…#pC1bŠ8­'Ž¸bŠ¸bŠ8Â‡¸O™"éù±".#®˜"®˜"N£pÄn(FL§õÄ—M—M§Q8â7à)SÄ!=?VÄ%cÄeSÄeSÄiŽ8ÀÅˆ)â´ž8â’)â’)â4
+Gâ<eŠ8¤çÇŠ¸hŒ¸dŠ¸dŠ8Â¸¡1EœÖG\4E\4EœFáˆCÜ€§L‡ôüq—Çÿ§kâ?ûÜê—<ÂCÈåZ‰øùS­ä[ÒÎòç»÷ýÈDø.æ‘ ÛÚ¡wB¹_7¥Ö9úÞUQ¢~¶ˆMÙpÂh”Öæ'hWc]»Ëµ8nsÒh'M–Ët·äÎ“Ùõ‡Æüj&˜³s¶39[£°³7à‹³6ÐÙ©Sg§N}g?¡»%ÏÎ†’üpg7êìÔ‰³ÇÔÀàl€‚Î†Ü€{LÎÖÚ`g7îìÆÝ„³ÛÅÙíâl$ÉwvåÎnÌÙÍälÂÎFÜ€{LÎÖÚ`gWîìÊ]…³ëÅÙõâl$ÉwváÎ®ÌÙÕälÂÎFÜ€{LÎÖÚ`gîìÂ]„³ËÅÙåâl$ÉwvæÎ.ÌÙÅälÂÎFÜ€{LÎÖÚ`ggîìÌ…³óÅÙùâl$ÉwvâÎÎÌÙÙälÂÎFÜ€{LÎÖÚ`g'îìÄ„³ÓÅÙéâl$ÉtvÊ¥ªoV|–»¸ .º fË©Ä&«¥±†ë®µ<ûl9óR¨aÌù)ƒüêpÚ$(¥çz§ÆùÐ¦ÿ8Ã–XŸI˜ì€A¶g€=÷X\2ƒæƒ}É=E=¾¨ÎcÚt=®©¸B¸Ò„9óh9kŽ•ÅÈÑÎb¿þPÃCNÑK@n­Wƒ0 ¥T[ï8ï§‹‘8)9ƒr
+5_´Y0@NØ%°øç£h)ê¯w^-ú&ö¶Úbk"½ »FáÎqÓÝ’ ”ž¸ój>É”’ÌÕhÐS¡p‡¸ É,þüàAY\©NîÜö>ê*ÀçVá@%Ôõx×B½þP3¡Þ}ZûÚ‹>ú6‘“ß$ ¥Ââ­qnôl­ž„>:Ü7•Ð¨­* M‚¸‹q,þùàA6zjÕÒçW=0.¦~5Üø#G¹†JÁIÃ¹$§QÓY~8U”í7?FG±
+T’A”Òs½Sã|ÍWÕ¡dÞeƒž
+5z>d5…ƒP’ÙüùÑƒrŒ\AÕSÛªY€˜\³ÚjÒ¦i,ð!©V»sú“³ôêþLQ½z¥FíR¯©•&¶âEûÄÚ=”z&g­éþ°"x%µõGêpÅ‰pz]¡^#¢&Vœ¨ƒ@Ütg£%ƒ(°Œƒ¸m%Å™«G¨Ï¾âDY+NdÏ}ÅirÉ‡«¹R»®–zÝÀƒºL$ôš÷³YJÜ¬’¢Úê¾HËÌÑ©"à".ë¼ù6ŒZ$UßÅ¢ IPRc’—£K{ªy€qÀÛˆu?zTä:´¼ú9äÑ›Š\!nè:Lç63SyÓ@×a$wWäçw
+5Ì?ý&wuhnc–ß¡”rã7–ûŸ¡0É%ƒj
+5U;¬X ónXüóÑƒ¬5ÙYfXÝ>®‹õí@µ1yqcš(ÜÝºJ~jÔlá.wy„•æÖýè?Þ¢¤jó ¼ÈAÉ|’ù{¤§B­Û2` ì¬…1yí£‡žn?x6…pz6µ·`”f× NÚë.qÓ=¡PÒáö©gM‡>ûêi…,w0·ÿƒGÐ\ŒÊÉ_¡Ê$*ÄEŸ®ó„âÇk„YÃ¬¥‰¨ÝË¹‹FÍ¨ãÿÅ<pN¥d¥ôœ§8 œOB\(™+¢sƒz*ÔÔXp ’YüùÁƒ2ÏJ¿hYÉyµâüV‰ì²y'_£XE§
+Òµë û ¹õáq°É& (mæk4.öÐÅ„‰-··UÓ¨•¿W†BÜ´‘d¯}üÐK²ý¤œœQnf‹DI£zÙ²‡Å«ªa;_
+µxTªpëYfd ¥ô\A©q)Ç­"®Å‰Mèµr
+5_L¸³âX<÷ÁÃ¯„2©í¤U¢\&e±ü’¥]X
+©uÙC nc¦$[þ&  "ÂéªTx€j°^tX±ØŒ$ †ÿà“cnqéšC8>Ù)NæbÉb^4PÍBM~ÿ÷¹iÖå®>Ûa­7Æú mr,.û/)
+/ÀÄ¹ù—cþûä ÄÝ`‡Š€õÕÝ}9Æ"{ÇYN¹„+)‰xtwE}$8¦Â"5[²0¢Ps!”›ÛNÚÓ,Jöj$Òâ ”Rn¾àféD$‘qb—Y¤‘BÍû nÀÖ@‹ç>|øéüÛ –­#AÄÔ¢´ÃžösÃº0Y¸8õ¹=ò“à=µ‰ŠSœ.:YèF„(sÝH…:å;dV-5þGP€;¯Nïo:J`ƒ(eÀíV ¢q¨²¢Å(°	âô¦&$™Þ …ôDÛ­ž¦,€­8Ï}øðÓË8tÚz-Hl*­ë¤‰ÕVÓ–DõØý]ÃÕ¯Ä¨%5.Çæ£Ú£$3¦¥^\^$h(õÊ[ô(©C.ýýwWI$€›i‹Ï¹æ¸þ½a“Z¼œ¾jÔ0}­.©ÄæVkÆï×­ÀzÆµ$6y"ab­rc	PM£æ;—m`u ŒÅ7=Àºë²‚”bŒ{7ˆsœè†|‘»ÐSšÛ€ziÜ0tŒò£çý™$ÓÍð• µI=ybH2b‘ÃXrX*(Ôªj nÀž@2ê’LÅ…$Ö@ól†.óŽW†µÄî£è½<a´9¹	%v™éÕ¨98¥6ó)ÅX¼Ä(¥Ü|Â¹°¶Õ2¤èj(ÔäŒ¸!Gì2X|ôÁ-W„ñÞa„Ó{‡«W_¹èÝ¾¹ý-'Ø;<¿‹SQÈÜ[$C·[è=µ§wè"Éôn_¤'Ú;Œ¬¸ É,þüèA9Æ~õqÝ±{‘ôî½XÔÆc#ßÕÙ¼Ï|9Š1äõ\Ñwƒ#Ô¶3‘ÀÖ: Á±7HþÚÈ4>ž&/&6ÿð±¢W$9VÑðBp~®$—Ízy”Õ‡Áh}¥Qx‰ˆ¸éÅž–¢”žxé˜Cwpµ˜ƒÜkUS(¼ŽÔ8hô)ŒÍk=ôZS_CRy/„ÜElj{È@59Eij«	@­m-ÉÉ‰æÖ}NoK†PJÏ5u×¸e©Iæ‹Þö§õT¨¹íXpÐ’™üùÑƒR6yÊá#¢Î­ë¯8÷Ô¼þô™Î×ß‘Ï¨–_	PÏt>$ªü9’@çâ‘
+(l ¸!ckÉ¨K>z0µº}Òužl'…¹ë¶µ"?Œê1ËÕxë9mûI%iõWúh}Í¢{Ž—îÿ®d[ÑFRÞ2’}ì.¨"­}ÆZWÀb7œ’€Yô£GØÝ
+k<§k<Ç¦ZPã[qaìåÜÀf` B¡OêNUdº@ƒôD5ž§© `k ŽÅs=üÀ|q<!¶'áY~­a¸f¬µv]îSó_ÂS{ÄMOÆwq Ii„çóu,"Ôê@‹3GÙ·•S(<¹×8hk%™Ís>übíÒpÅ©›1®ËÉXÈ×Zä”d4jåÂÚâ„X”.wL!qJ*·^¤qÙ¯Ïw	R’s&¤„B­Jƒ6	àÌ»I`ñÏG²:Æy—úXqÈ¸ÚIÕ«¯Àæˆtµo«ò0Ÿ1„äµWJ“æ„f.„Ä@XD×°AI½¾j_¤Ûgø–TÔWX‡ Š4Ù]5‹ÝTë¥Ì¢=ô¶Œìjwj²…p­VÙOo»D²ë©ªÎYn4(¸¡àÀ D)åà†šsrÇ’¬DÕÅ=êµ¡²@>ÑâX<÷áÂ/$·ŠŽêNÙÐý¿èÚPõÓÏŸþÓ<ÈÐG™‰z%Ab)úk}yã8Îý´j¶[Ò
+×±"NG|dýñ“Øjû¸óÒ_00_«ùC5áññ0ªùÑšîgp¤›ËÕD_ÎzVCüCCÊÔyÎNÏÿ¡:Ùy¼eÈá: ç¹íl.IX#}
+û‹²!¡)Ê îƒµ|r‰¦rðÝÕÄ"áƒÞvƒ!P`ÜõÑŠÜ‘™Û<Œüïíf³Ê4/¡p?¤/øhaSŒa£òÑzT¢‰Aãë“W`?xxýØ˜NæwÐ­¢ðß ²±h?Z¿‰}bñÝGkÊÄ'ß}4Ÿ »P‘O4î£µ“dl'K›­qß¥×á­Ÿ|÷Á¢+ëŸpú@ÿôÁ|Â41hüÑ4ñFM4î£EÑDE—ÿXÑZr3öÂí£iâÅöƒ!¡üiî]KQž/£q¬0Ÿ|÷CGF“­§OŽÒ¯ªÖ~´É–ú‡1ô~¬&Õ©‹hŠ‚j¥ª„ùÑ|‚4±iüÑšy76sûhƒÑÄà»©‰ØŠz–§ çä³Êß†¹BlrMòô×y	û<-AWäLúæ0zuªlr}û;É}ë9ö¼‘âªòåy`sT|ä9zW7–µËSrr,M–Ínn·¤(û€AJjÿnŒ°H^½J¹pÞK-CC"Í+=ÉiR‘G]\l2À®ªxBèÚ€¥ÈCÅ²—{!7œÚŸëå–Ý…Ëê y"xoÞŽö¾}É§_RwAÕ6çë‹f{Ó+ê”ÆÖ›êÝ§'ôU×òKî…Ã{«Zíš“ü¼Ð¸×ÕEÜÎ{ _Í²¾8ÓPíÍŠkò¨¿Ôý¼he#JßÎEûá–ÔB{›´þŠòØÔ{RtU_–™û&È=Ñ;¯ˆ%)"Üè³U¼Å³ò¢—n´yÑˆßH!d9<?IÚk{[®‰´ µrÄÙ„·D}%ö 'ûŽgèÜ‘Æ?4Pcn²‹x…x,ÚŸ¨ØqIéé‚î®Í¸¨Î9&8Ù7oý ì®ã¶ÑhS»üÝzÑÎ L[R“$äœX¨Î(MpÊØ­æª:M3NG@+r{>£Vä¤Gb›¼ªfeÆ©ÆÑ²ÏÚÎVœn±mü£õÐÝCKµkû\Ít7ªûj56í_Ý6õ}"îD	Äz¯îä± í¢Ghç°»¸ê–¤FQ=fœÍatƒ)l-`Š[Ÿ§¦@­Å×lKLËhVæ“|ÕünQ½ª¬»É'1©bÙ»ÄæKûdtô[Ì…¢ï`¦ºýv:œOb Sgå8?òö”}àjÄ³þA’×/ÃUÄÀùö\{Œ¥<e._®Zª5Ð F4ó–kª“7BË²ä“Þ1Vv×9¶åâø¥€ª–™çµ‡·åé Êe/\ãN\]¹¶ž8v.iüUBîò„›'©8/M\%7(àÀªe	:»„L5pžÚ{s?9gü]´rÚÃe¬|år
+ÉÀygƒ”¼”ÿÖITr€ˆ¸¢ÛÓj'ƒTuÒMmàZU¸zäg]¨Áœú2u î:oxöBˆç! ÚnòÌÆ+jE>M#Æ”kjm2p±)~ò›+e‰9–ª†Ë@>µ"¡VåÕ6c©úë¿J\UÄŽ[[³'149 ½AÌEž±“<ìmáôñ§óHpe€«yöÊRó^-l’´í Êƒ"Î«KS .ê°y½,ªƒ±Ä -åEhÄ¢êèâ!+Î«k•p¬˜qN·5Ë.géñ²q2ˆÀÍòDÓœ4î|4F{ö6£¹¨y^ÄÜ¤[š¼8ãçç Ý»ó_òr?Ì0Í¬šfXä5­lãÒg&‡åùµ6¢Û×§_¼ëÛ/.l‡ [GÏœäÔ¤óÉrX
+w	¢ºcËNp’ól}ÚÚvœ¾¶yöü*æ~‚ßˆ.€“fIk£§ÁÌ¸y³/ûþÉm…Ü˜äi‹ÒNŒ*úžÄ*/jYÄ)ó¬j=‚º)ƒ¤Óhƒ¤U…84äU*.°´‡TvÍÉI´›«êN¸ÃÞw¤²ƒ|{GÊÝ‘s9nm…©›ç¢ÂÞŒKàÒ2Ð,r ÃI‡â¾Â© ÁÄm}xÕÑÓi_Ý"PÙJÔFM#øÕTÙŽÛ<<˜^l’Bš´â*Í¢Šõ’ŽáuP30¹§›ÕœÌkiÍ8ÕœgÐV8wÌ/@“¶1wTI|Ï¾’¶òÅòèN_<A²ý64À=QÐ+fœŸ`ÔØqjü„±Æcþ`|‡mÈŽ»™;ÝNÉÀ,29yÀ(žŠ~LGÜƒ§æåÉËœ2žç§ ¯Àë†4s÷j^lÅéuÍ§u4ãôºk®µfœZïœªzAœ—çáEhò^¥ÒÑ¢6yyt^$cœ^iã÷ê•;Öà ]tfÛÙŠÛÓØù·DEÁiÆ©,n1:k”‚Ì1.œîÃ}«ú½MžÝ?qjÇÏÌ¦iOv=AMª—Lxª,Þèë#È¦i\•GÉþ³}©êCP¶/UyîÏ0Û7pzÂ²}©¦Šü¶[ù¢ÚC4œ/¯š7×í‰æZÖ}±jkÍ ©êï<wÝ®æ7Eï^¸ªFÒ1gÔÞ*ªRò6…^76Š®e¦’tW`Åy5ïÎ`•€¾ÉF,N©ˆÞÔùwOƒÜ E¬ä“º`èpÈœÛ‰fqxØÉÚbšgÄéøœŒÈ
+èäµ‡×v’¾²ö')oPðjYÄ¸g2NBæQ™º=9/·,ÈÝ¨ö‰qQ—?¯6Þ§‘J¤*Ï§Ûp² 8p`:ý\mÕ²'odJr¶b]»òa~ð;Æ]Íõó vOR5_oJÀrLù³¬¥íBÎµXhYöý9©Üæ‚EÝ –÷ÝŽ÷Äù»z½×^GfïŽõØÌ—ž˜NcI²ðI]§l‡ÍéŽK‘»œzíÓã÷$ÕYU9¥=p«u=ù™ÄEÒÅ—õ]õ·‘öµd•5º•ªè*ß\åÕäNw7÷«KÙ0Î¥EÒeõ¹÷i×RíU›—K)ŠÞ’»]&,¡·Ç¬N£Ds“5g8 ÛqëÞÛIÔãÐ æuöavptj<¬ªì˜c”³“yÃºÞXçfl9Îù´ï.¼'ÖMìì£Œ\øÁlvåØÔêUgýbëä)³XðÐõê"t½öD†3_YŒ†Þ3<5ÍBÑjWÍ¿¥cˆzøš±ÈCZ‹HÙ5$ºRqÌ®ví«(…ÏŽì<ÒÖÌc5N2÷íèí@ßfüvyê¨›;Á.»ïÓç^ÄôÐóÓ-ë›TÊ8ÏI­ê|u‚íüÝq[·wÄè.è¼%©ÉNvòþ®'gwçöÑgÄÉë,·=ºrZœü&‰7·ûÈ6]Âs´—$½qÍÊh’Õï]¸m"”Õ$rÍ¦BúÍ­²š½.œœçÜ:ÐÍÝ²šC?§sÏëkr˜gzZM*¿ŽNR‰rž÷B~`’}È¾òì«A4½Ý
+ÌÜ¡9¾;N/: '}ûTGœì_) Å"Ô†ó½Õ”«[#màå1èÆ'÷ô™ý­¥«3ÑR“à¢—\›7œ¶0øÈ-Ðç)Í(Ù®,<q†Ä Á©DVW0­4F4E Hw¬/ótR^¥OæF§O¾·WZÀ…eHxšÙ±}ë«‰àô¢˜Ùt
+ìô¤N±aÁçÞÌ·g?(µw²Ò×•tþû_g7qÜí)Ò±¼hÇVÏ ¬9'aúÉ¤F•y¥ÆÕ´½AO¾ËÚ*-'Ë)}ÆIèW_‡ˆÆu6f¨³1Cê|—¡ÎÆu¾d¨³1Cy†:3ÔÙ˜¡Î<Cj‚SêlÌPgc†¿tm<C­ºlž¡Î<CjŽ“iËPgž¡Î"CêÌ3ÔÙ˜¡ÎÆ5Áé©3ÏPgc†:óuæêÌ3ÔÙ˜¡ÎÆuæê|—¡ÎÆu¾ËPç»u6f¨³ÈPg‘¡†’¢UÎ]†šó¹03f¨3ÏPgž¡ÎwêÌ3ÔÙ˜¡Î"CêlÌP#ÊPÜÌPgž¡ÎÆu6f¨³1Cæ0_bÌPcÜ‘ª¹ËPgž¡ÎÆu6f¨ó]†:«u6f¨ó]†:ße¨¡à(iÌPCC£ô­1C£	¥—y†Õ‹Xc†º3Ô…g¨‹1C]x†º3Ïß„SŒêbÌ<#NMnÌPc~ºec}u†º3ÔØÎß·u{…g¨ÏPž¡.ÆuêbÌPc†ãt†ºðu1f¨‘ÊhRŒj‚Û&B…g¨ÏPc†ºðuáêrÉPž†~7	ÇoÌPC~`’]D†º3ÔÐß§Ð“ C]î2Ô0ˆ@†ºˆu1f¨Ë]†º3Ô§2ÔÅ˜¡.Æu1f¨‹1CMp*QŒj ÝQŒêbÌ<¿Ç2ÔÅ˜¡.wIh+\•q—¡.wj,¸ÎP£Ù Jí•»$ôÛDC†û_g7qÜí)Òr—¡.Æu¹ËPc†ºðu¹ËPc†º3ÔÅ˜¡.Æu¹ËPc†º\2ÔÅ˜¡.<C]ŒêbÌPž¡.Æ5ÁÉœ84A}1Cßº6ž¡ÆV]6ÏPž¡.Æ5ÇÉˆ´e¨ÏP‘¡.ÆuáêbÌPc†šàôÔ™g¨‹1C]x†ºðuÁê¢f°óÄ,Ó3Gcººðtu¹KWcººÜ¥«Ë]ººÓÕE¤«‹HWCIïIª9fy^â†SwnMÜñjy Ú"ª&Áé¥WlúeàËh}lnÉðCfu¶ÜÀoàKQM$5ÿ6i›üÏÃúÔZùžÕP=Ó²ú3ï&)Uô—S#f:&6ß@Ì5ÉA I—'O…þ&ÜÌÜÔ¯!y5‡:TÎ15• Þ˜ûÈôTAËóÓmÙ­Ò/‹(/›!©*.3)×7&O1Aš&à¿7¤ïúE%ô‹1¡_îúå.¡Gù^cB¿úhV
+³çÆ„~á	}tû$bQ	ýjLèWžÐ¯Æ„~å	ýjLÔL5&ô«1Qÿ8}ç±1¡ùé–õÕ	ýjLèc;wÜ–Ð¯<¡__Y{¹…çØw9ÀçQµb† à7Û0(+ù`Ÿ°prýPôá«§Ž›8µæ¬E_„±øÉ•€\6n8Y€ëùýàó®†Ç™§ÐUvulêX‚°8yºÏÀÁ‚JQÝ·^>Ì½Uª8XR“Æy¦²L* \öke!µÙH²ðDŸ“µ‚WSÖ­ ²%Nô¢hÔWÍ¶Þk2Òqr	pà?¶ÿäEòÛ”g®M¶¿·Ù/¸tæ	®j©„_RïjG•×Ž*¯Ucí¨òÚQåµ£z©U^ z7	Ü n¬A~`Å[Eí¨kGÐß§3 Ð“ vTïjG0ˆ@í¨ŠÚQ5ÖŽê]í¨kG§jGÕX;ªÆÚQ5ÖŽª±vDp*;Xµ# Yµ£j¬	½ÇjGÕX;ªwå!+Qç‹ë]í¨ÞÕŽ°àºv„&ž(é^ïÊCoµ#ì]wÀq·/ê]í¨kGõ®vTµ£ÊkGõ®vTµ£j¬Ucí¨kGõ®vTµ£z©Ucí¨òÚQ5ÖŽª±vTyí¨kG§jGÕX;ªÆÚ~/èÚxí[	tÙ¼vTyí¨kG'#ÒV;ª¼vTEí¨kG•×Žª±vTµ#‚ÓSg^;ªÆÚQåµ£ÊkG•ÝP_7Tc¹¨òrQ½+Uc¹¨Þ•‹ê]¹¨ËEU”‹ª(AIïIªËEõ®\Tå¢j,Uc¹¨ËE–‹Â¶Ð·½A’)¥ÓSz;®úmý ¿rÄ"“'x=O)”ù°
+Žæ]°ZÔ€ë8Ì8_Õxö¸y)«N|®©Œ]ò:ÚZÚ}u¢kGh\~ÖŽª±vTïjGõ®vT5¡oÃŒõ]í¨ªÚQ5ÖŽê]í¨ÞÕŽ à¨´`¬UcíÍJa¡ÆX;ª¼vTµ£f¬5cí¨ñÚQ3ÖŽ¯5cMè›p `š±vÔŒ5¡oÄ©¦ÐŒµ#ÌO·l¬¯®5cíÛù»ã¶ÚQãµ£ÆkG0ÀA­6P;‚Õ¢Œµ#Ø'€šP5ÖŽª±vTµ£j¬U^;ªÆÚQ…µ£®N¯#²µ«zWsÿ\5¯•&‹AÝ«=¦+~y11©¹q”ç</\NX^T0ª¼`T£j,UcÁ¨ò‚Q£*
+Fõ®`ÔŒ£vW0j¼`ÔxÁ¨FŒ/µKÁ¨ñªÐ»IzeØŒ#È¬y›(5cÁšã»ãt zŒÚ]Á(5Q0jÆ‚Q»+5cÁˆàTÁ¨FÍX0jÆ‚Q3ŒN¥›±`# d›±`ÔŒ… wáXÁ¨Fí®&d%ê$q»+µ»‚\ŒÐleÚÛ]Mèm¢¡`„ý¯‹8îöŠE»+5cÁ¨ÝŒš±`ÔxÁ¨ÝŒš±`ÔŒ£f,5cÁ¨ÝŒš±`Ô^#5–~Ü
+bä¨PÌ£Ðs´ð:%£ÆKFÍX2"8u V3ˆÕŒ%#ü^Ð¹ñ’¶è´yÉ¨ñ’Q3–Œ8NÆ¤­dÔxÉ¨‰’Q3–Œ/5cÉ¨KF§'Ï¼dÔŒ%£ÆKF—Œ.YqzîëGÁ{ÒÚÑ4õ®~ÔŒõ£vW?jwõ£f¬5Q?j¢~%E‹ž»Ó± 9Ÿë4r:Ö
+Ù07RY$tŸ¦ž`Ï¸ÓÛ1ê1kS×ŽæaY\Á¸¡„ŽwÕdN^–5q^%nZì]¶öcpD¹Guõ„—e{/Y-&N×PŒ¿§G4}/ê;pù§óïo.«ÄÓšz
+Ó¤¬R¹…¢r©É7•…9Ê±ï†6ËÉÂI±Bú}	7¥Ø~1¨†›N‹å§Zü½wÑK­öµ«z9´fíc¾‰R{W6B×î	'Ä¢È9éKŠšÔR*R{äÖq¤MLÚä5‹ïÁ~nàà¹7ˆUîooó:sÕÛÌçä€¯33ÊU¯Ôd†cµ®"3òÝùì÷ÆU9Úôye§–¯	#œ®þ^X.<'®îá‚œ%u—tÎÜˆ›§;ÉÉ/Æé/	®ë<bV7ô™C_¬õ ÷åÎ£·_[•\íwÉÕŽ“«Ëj›žtœiU3‹Ó©ß·&;ý’ží<ûn’žxuczòSÊ.Ò³Ý˜ž…æøî8=Å†îSviGšµÓ¬ý.ÍÚiV‚SiÖnL³vcšµÓ¬Ý˜f%8µŒîÆ4+ô$X±wcšµÓ§ïÂ±4k7¦Yû]&ÕJÔ‰•~—fíwiV,ø¼WvwòxAœêw™Ô·‰†4+ö¿NÑá¸3ãä¦¬‰{&=·da¿ËÕvc®¶ßåj»1WÛy®¶ßåj»1WÛ¹ÚnÌÕvc®¶ßåj»1WÛ/›û»qsç›û»qs7fj;ÏÔvc¦–àT¦¶3µÝ˜©Åïý#ÏÔb+~Ÿgj;ÏÔvc¦–ãdDÚ2µgj»ÈÔvc¦¶óLm7fj»1SKpzòÍ3µÝ˜©í<SÛy¦¶óÍýÝ¸¹¿7÷w¾¹¿ß%g»19Ûï’³ý.9ÛÉÙ.’³]$g¡¤hÉs—œ…æ|®óŒWt±Ý§‹í>l÷1õ^$§Fùa½ž­,ZRÏkŸ`ã÷ç¼ND–©žÞäÒià²Þ;Þ[©©‰Ë*a3Œ!6”Oœ’öÀ… õXÄ:Ì%'QM).ˆbàäõ	Wä9QóþDnîóH¬ËK®n¯*r‡[v5ì;ÛGkNò9tíCŸ›-…¼ S„/kk¬»'iéÇzêQ›`4=“I»ž¥\iêÑ&À>TàJï‚Ó¦·ât|œš÷Ùqs·÷Õžø½fœüæÚoÌ×|À.¤Ô™Qf?ÿß“š—Þú\3´+ñ±)Ì©¾JÎƒµÀVjËnv!&Ío¶BñÞ15ÔÂAe‘T´Î“±³4}9ø§\„E’ÓÐÓÅÁ¸˜-eø¸94fwN-Ž¿Xþðý$5xœ)µˆùé	ÑSö=µ8Ô4¥±9¾;NMÎ´ó3»›Ÿƒw~®<È 	„=9æ#¦LäÀñLä š2‘'3‘óe–Ldv¶LäÄY2‘îíµÃÉeât”%‰¯W¤³_™(ß›%àôJx6šaœ­Ç’aœ­–&ÍD•Dža<?©²Dpµ‘sàL9ÏVúâÛFâW•X"ñ´e§Nm['Ñ”œ8šDSrpàXrðÔu!¢-9¸ÍÞNœ)98q–äàÀñäàÊ’œ÷H¿’ƒc	aJÎ‹£IrpLÉÁ±ú1%çjŠ$É”d8™œ8Krpâ,ÉAò^ÐµÑä ±èŠirðåa0pØ’ƒ78‘¦äàÄ‘äà$“ƒjHÎ¹?InëÖ·“ƒp}’ƒ'Ó?G’ƒKKCrpâHr0;šÌzJ}$³þ‹ÌýlÉÁìhr0»›ä`Ö¹/2·¾Ižˆ:98‰–ä`v×äà™é¶â°%OêjÛasîO`wé×>=¾K˜Ý59˜µr'°6~‰öÕIRíåŸ÷o³§ßf^?£o³§ßfäOÿøËŠÐóeß»I:V¼qEùVàÅŠÐW„Ðß§{èI°"ôw+BDú[À‰;8#Ó´4ôwKCo\œZzãÒÐ—†Þ¸4ôÆ¥!Á©I‚7.a€ùˆ·mRÉÞ¶ùä}8¶„ôÆ%¤¿[%Z‰zÚèï–þn	‰×KHo\Bú»UâÛDÃû_/?pÜík·„ôÆ%¤¿[BzãÒó%¤¿[BzãÒ—Þ¸„ôÆ%¤¿[BzãÒ¿–ª/Mmˆ‡áÂ×“Þ¸žôÆõ¤çëIo\OœZOzãzÒ×“ø½ ŸãëIl%Ðóõ¤çëIo\OrœOÛzÒóõ¤ëIo\Oz¾žôÆõ¤7®'	NÏ£ùzÒ×“ž¯'=_OzÛg§§‘ÆÅ¥ç‹K·¸ôÆÅ¥¿[\ú»Å¥7..½X\z±¸„’¢õÏÝâšó¹d3..½X\z±¸ôw‹Ë`\\†»Åe ßB’é[ˆÑS›¾…8[!òÛpËÃá²<|ún’Ž¶`\žB~ …×òT±3(ËÊZæ»ãt#tY0èŽg0®8ÃÝŠ3Wœ§VœÁ¸âÆg0®8ƒqÅIpjŒ+NèI0c	Æg0®$ß…c+Î`\q†»E¥•¨'–ánÅîVœXpõYÄàjú,âl¥¯!–Øÿzµ‚ãn_ò„»g0®8ÃÝŠ3Wœ¯8ÃÝŠ3ÌsõËÕŠ3Ì5‡^ù©g §½¢g@3™áº&åË`ïQhòdÇ)X"XqóHW¨³€Åì÷Å(}¿'Wìw´ÚùIªb‚ÖUß'pžÎO@ø¨ºÃ\Ý!ü×CS¾èñ+‰3?¡Ý°Üu?¹Ì‡dwS£^}—§dLÜ>hÛTùùwQ³ãÐ"N~‰?pN'UÆz±ËPAÊ!œ:/uÃ©é`–š¿çÕÌcv{• ¯ý`a.«”Ä÷ÄÒvb8x½ý‹SÛ‰ò<’IÔæsÊXþï‹Û0ó´­S0ì _ ·©(ºLÄ¸ùý"¥ˆ[œ¼MÜ,U@b3GàïÂ©XŠª¾WÔffŒ«Nä‰.UÕk¬MÌWô€?pÊ¢[‡FˆÍP½ìcÖ'îLœìþcÞ_È=W9¥HUNÊ.‹!iàBÚHIŠ<Iúh‘¬NÇÀ¸Ô;I{âÄ”‹žbjƒäŠÚ©1HQ~‘\Rª‰“©øä¢>³à\¬*=p¡àÑoÔ‡=s]!¿!a8ùD
+ò4ë¹µTkkÛ?-à€õyÈ³üêJW_&n}‚'¾HA}5k%úUFÜ:ˆgõ>ÿy„·úøãŠú^­zp+{Nmÿ$M‡(8õ}/lÇí§ÊwtÇCœ—Æ¯Ïñ°:ª¾£;$À‘ûÝx™F¿»L£«Ë4ºñ2~w™F¿»L
+îZ€† ×?@Cƒ›& ·ÀÍÝx™Fç—itÛeÙ¡o²´HÙÙ.Ó˜_ìÚ÷ 7NflÂ¹ûÜ ?ˆùî8%pk8µ3ÝŒñ­8µr¶4?Õœ‰¾ê¹¡Ýrƒ±ówÇ­¾î?q%¶ú¬Vx³ãV–}Ò_†FUº8 ñûü¬XŒ=l_Þ$xÙS”—ä1lN5šÑÌµf ‡/ö€0œJÿ8|H‡ß®j‹ªY·Ã…ÈÑn”·ãŽH¹çÎo~¶QqàL£âÜòJGÅ±nbÛFÅã£â™-èïl£"6êÒm£"ö‚l£âŠN<*â ,à—Ê@$o=½bjLWL[}‘C¼qàû&´ñE7|ßˆSMÁHÌO·l¬¯ ½q€Ävþî¸­ÛóôŠ©gt‚ž8`ƒ10ÖKãB(G‡6Ï=ˆv¢Ï8½8åô,w7½—e×6pÒoÇ2RmbAc¢§·šŒ~q7ÆWGÏ¦o&z¹Q+ËK8.ª]VHÁïsM©µNh38þûãä¹Ù8€¿÷j-o•Äh[Š§-¢×qàÉ£ž†Úq*\C”õíwà@ÃùFœjêP;NuEÐÎ kƒ~³ãîúåÛ]“G¹ÅžºL:&_O¬kIBF‹±â¼îs}Ÿ>þú–”äh9?$Ù„yƒXäž¼¹w~#uy^É˜	ìg©]OR]kˆ'—•údoïµÈ@€úqÛ–8Qm™WúÁ­sÜø,€Ô w·xfªT½ñ}'=k/Þ«RyT•åm+]Üª^ú`÷A¬Q1U¥£Jˆ[™ÖÁî‰º4‹s Ôü*ë½E”EïW)½>™kVâå^¢èe¼Uöå6ƒ8·µiÜ¶#`U‰í$€¸àÔò,zpõ{pA¹Ø}o9Ø#pAÖ&ß…qìÀÆ/3NmR‰1TºsfµÃŽ‚SÛy®/»#êEV¢Þ
+…e3ãÔV­8­z«VÒ•e°oeÀrüÊ!|SMn^G‚·´1!eïŸûõºLuÌ1||ÕåÎÛìe>áQŽdú6‡‰“öÍ³Áè­pU\sÇ¢–¯HÓŒÙØ¤Ô’Üñ;'°@Y˜8}ÀðÿdCF!$ãpú\³˜cž)ê[J.÷ERT¿÷±«ë|ÑÉqbàö}£kKdÎÉíß<f9µ36ô™S“™¤‹¦'ü[8ÅoÌe¤	Òöaü˜žÉï[vR½^þÊåò—lGèÍÿå“ÿ<ÿùãÝÿå¯ÿ|L¹JÚêÊAªô8å¹~ƒ$Ö›ÇŸËX{!â¨ŸÆ‹ÔlrA†…Ù	R…Ÿ>$_Ãgø/ËúPf…šœ ·Ã„›ÔÚ?}úÛOcÈ›€×Ïéó¿|r_&ïë ýË§Üf_«ê£©4å:„+jó÷èHäîƒZäm¹UuF‹´ª/AÜš*#É Jé9ß‰pY_Š$›·À\{
+¤§BÍw«nÈSZ2‹?­Áq„WS‡<>ÎD•Õ¡Ü¢“_Y€†¡Q¸1#n«a"av‚TáÙ˜‡Ç«j³ú•>ËA) P¸e#n‡=8ÔFOW“¼.z™	|ÜúŠuäÔpºP¬¸&¿?¨ŸæWfU^¨€¸u'[ÆSD’Íœ“ó(ÎÜ¼¯â åj¾˜
+p¶’Y<gmÐ½¯9Kš9\cìq"ªBÏ”H|À2Pòøíy2¯<Ú[£~Z'àÊKØ7ï;æ (&ç$/ä‚¯œSæþ¦
+õÓ'h…;[Šsãó¸=g«"¬ûÚe÷ Ä.§‚-©Ë–’rCKòCC€úi]¸)oAÜ²Žf B-åÖ‹ ÑåÏH‚Øäm‘Húé²â†,½„¡þyo[…3éQM^Apê¹/
+u4“Fq[íNó$èééAšóXø5÷…2£™4²€žI?M¸fÒÜÚfU¹½i^ÕQ–·)ÉÍ¼kDvoMf>ôÉí õº	rS•f(BÕ–­5inÎŸ¡UõH…š/ÖÜ€¥qˆ¬þÍjðŸ¡ˆ®ëq`ÉßÔ¼PÔ“¬&/ 5Œ“g)GT’7ý¹= ”žë §zH²$sUPO…šïVÜ§´dš‡ã¦².:1ã{\’óý6ºØµë-¶¹tq.7kNÂlóÒU±Çd=3Æ uB§~DI©×k4nDŽx€0!ÈŠ6
+5ÇßÃ€0¢Çä’¯oüx\†85Dë0Fé)Ý(p²K71ÌMß–$C(C¸5Ž"aôØ‹TC#92àŒ¾	cñšu	íçÕÒWf!ÈèApUì(™¸Na,u¡ËãÛ6ÂO³@—EAíùŒ¼H¾¡ôHqsus]š#aüšàBü>÷…ŠÏË[ü`ÎpUy)ÊXµø"ó"—eŠ.é„_RG“”JjÔÊN9BÜš,½CÉJêùÓ'„‹]í” ’M“ªô˜ÒS£V~OYrS@’YüiŽõáBJó«
+UËxe„RVŽBÌRæf¹°V¨åùaæV;f'HçEJª~„^9Þ©¢@+ PË¿Ú€ÛaO õƒµï1H…`úâ¶|cˆç(ÃÜ-‘ ã’¼<	s“[Ž_ Èx"œÎ+"qtŽ)‡2ž»u `Q ŒÅ?ÖfK	rø™'¬Ô$–2·>©;gWVî±J~Z_ ¯ûƒÑSM~|¼–¨“! ¦*þóµ)©Ý6›°Š0ym`, µ·yv|’ãf–Ûœ7Ï‘’Uò¬;Ö¸êÛòh›0'šY}¡½?“«l è• ¥X¯8/ÇH˜¤Ž®GÚ(Ô|'0â\ %³8ê*ƒZ¶vŠˆc(‡‰7F•ÄP	Â‰ÈM_&±	›
+8AâbÖ©-ÁÜ‰Ø„Z…Â	ÄY^KFýó)QXJ†8UÈ@PùDXUÙIÄM§7‘dêÍ§«½H2].Fz¢â3²à< $³øó½õ8„ÛÚüëuXJ×)ýØåùÃ¨@ Q¸¨¸­…æIXr?+±e\hŒóX¿7+…+÷²Û”@ÚÕêŽšcW¶]­„!®ÊMk^GŽNÒÉC3kñò"xº×¹“E.“·^Ð²PˆƒPR¹õNkM~÷
+$¦—Ê=5j¾s7blÄ±xÎÜ*}•{Z×=[EÄ:c.8Y3JÉË#0ú˜ÊÕ©BÍ¨êäVÄ-Ê<Ð!",&o@]„$Yƒ„ôQ¨¥¶àŒ$£þ1oRÇ!Í£¾»Lp@Ü<þZô…1«o2‹üa ºúŒY¡fOšRÀRUŸWa J©¶^p©|>Þ?Ï6P@¡&g`Ä¸`½ßâsœ¨œà}?§· ÕD…lÚ¨&2 pP®óÃˆ·6”<ó JP`_Æ©­9H2½·é‰v
+!«!nÀSZ2‹?Íýü<rMn6Øw+ ’Þ†#Äf°¿ %upÜ­0³r‡æ6/#‘{´dµïV ¤c{  ì/ úÀÝ
+À:€°ô!ñÏ{g×ó«@µEáILò4ãÌIêƒæ¯…'ÚˆÛš?ka‚Rá9çžß÷¨Mˆú•¡‹Y 
+…'àw2¶çÆæ­}¿#†¤VÎ/¢<übdn~t´ö¨£Šaú“ú =ÓÝ¼ª¼å HÙ³EÒ'Ž ·„´¾(F²m¤µ%@kô|Î·Ê·qû½sü);õüeeôþn”DÒ»ÅqJJï=‡ÜæÖõãýÛ¿?OÇß*£ƒXëìåšÚ€ÛÓxZœ«]í{mª:‚p#Wªäwª3<äÎïä¡D3ôÒ¶=P’V\öŸêNÞf†$@(¥ÏjO —åjpÆ¹˜|ª HKmÀY^K`ñÏ7l¼)DˆS‰:°Ÿ$ýÀî˜B{] 7µUI†P …ˆp:Q‡$ÓI?¤'J!"«nÀ@2‹?ß;É©j¯ããLT¡u=ªWuP4š#hžä nkÂ¢…yô¶Îƒ¤Ž„¯T{¡h''2‡Â½ì©O:ä~0{2ÉK}3—õÌáÔ1&k./?Vl*kŸ£LöiÔZ44‘…ÜŠÜX%C(©ç|'ÀÍ3;åJGK–õ*è©PÇL†Xi É,þ4øóú)ñ5^	IÄÉÃÞsónª“§½>Í­¯ìi^žYy,” ¡¤>ó —åÍDP²1µ’_ÉÊ)ÒRn™<,
+$°øçëk†ÙUyˆ=¬ÎótäÉòºú5P¥£òÙF€•ÁãU¾ƒ¯(¥ ,\’oFÂTï·ï+´
+	–ý^Ï!ë[ü`ÞÖ‚óH+ÑhwRœ7
+¬]VQôAó‘eG×ŽiÔÜ•”UIq+Q®Šžâh’Vb¾àæDGì…Òâ„¹÷ñ:@wª)ÔÚr¥L…¸m–Â—¼Ï¥ž»4p—“K5
+»qþà.ÕJ`—z“K½É¥…]Š¸m–g.EÚ¼Ç¥Ž»Ôs—êCÁ ÖF—"nÀÜ¥Z	ìRgr©3¹T£°K·ÍòÌ¥H›w¸4uîRÇ]êL.Õ(ìRÄøƒº(]šºÅ¥óR”·]
+PÐ¥ÛfyâR¨Í{\Ú¨KS§.Ï¼íR€‚.…Ü€?¸KµØ¥ÍäÒfr©Fa—"n›å™K‘6ïqiå.mÜ¥ÍäRÂ.EÜ€?¸KµØ¥ÕäÒjr©Fa—"n›å™K‘6ïqiá.­Ü¥ÕäRÂ.EÜ€?¸KµØ¥ÅäÒbr©Fa—"n›å™K‘6ïqiæ.-Ü¥ÅäRÂ.EÜ€?¸KµØ¥ÙäÒlr©Fa—"n›å™K‘6ïqiâ.ÍÜ¥ÙäRÂ.EÜ€?¸KµØ¥ÉäÒdr©Fa—"n›å™K‘6ïqiä.MÜ¥ÉäRÂ.EÜ€?¸KµØ¥ÑäÒhr©Fa—"n›å™K‘6ÖÃËd4‡ÔGº·¾H›ïš¼'3G/oª/N½  æçÌêˆ›W?!É JëùÓ'ˆSJ!ÉômÏHOZçµ)«!nÀSZ2“?¿!8¼18‚)8‚)84
+à†Üi
+­'o
+o
+ÂÁ¸O™‚éùÕÁ¡uÂÁ¡-Õ4‡Fáà Ü;MÁ¡ÅÀÁ¡•B’i!=5
+â<e
+¤ç×Ç¼7ÔÎÎ…ƒpCî´ÐGê–à˜;[ß€‚Á¹OY‚êùÕÁÑlÁ‘º%8æöª·ƒ `p nÈ¦àÐzâàh¦àh¦àÐ(ˆð”)8ž_ÕÍÍ…ƒpCî4‡ÖG5G5‡Fáà@Ü€§LÁôüêà(Æà¨¦à¨¦àÐ(€r§)8´ž88Š)8Š)84
+â<e
+¤çWG6G1G1‡Fáà Ü;MÁ¡õÄÁ‘MÁ‘MÁ¡Q887à)Sp =¿:8’18²)8²)84
+à†Üi
+­'Žd
+Žd
+ÂÁ¸O™‚éùÕÁÁ‘LÁ‘LÁ¡Q88 7äNSph=qpDSpDSphÄxÊHOã‘WÎÉ/Ñ½Ú^ø€¸à¢ü+º.>ÉaîDG·L/Â<P*:¹Íufû¸¾g'iQÃØü~‹ z×*¡{°jr×*"nÀ¬‡8‹ƒûôÐØ}Þä>ÏÜç¹ûüÅ}è=;I‹zrŸãîs&÷ivâÌÊÝ‡ÔøZ÷%½¹»Ï™Üç˜ûwŸ»¸½g#Q_î›iâ¾™§yÛ} Ý¹³R÷A5¾Ú}Íæ¾™PyÛ}©÷mè¾ã™ÃÜ}ZÔ“ûw_3¹O£°û7`Vî>¤ÆW»¯Ý×LîkÌ}»¯]Ü‡Þ³“´¨'÷Uî¾jrŸFa÷!nÀ¬Ü}H¯v_1º¯šÜW™û*w_½¸½g'iQOî+Ü}Åä>ÂîCÜ€Y¹û_í¾lt_1¹¯0÷î¾rqzÏNÒ¢žÜ—¹û²É}…Ý‡¸³r÷!5¾Ú}Éè¾lr_fîËÜ}ùâ>ôž¤E=¹/q÷€„…Ý‡¸³r÷!5¨ûzò¾–Ñ'åÖBÌñ³í§?þ×¯ö¯ÿüÓüôO3t>ÏÿÎÛ}[?}Væ7¦_B?Éš?ÿñ÷ŸþæÓ?¬x«á³û¼ž=þõ§Ç'ÿùßÿþý ÔÒJ¨ÃÏ}Œ“ÃŸm?-¾òÙ¡1ïæ?þ’^?L×¿PÕLÿ’û—ÇRð¼èÁï=tñë|:uaCœŸZ>>ýéo>ýŸÿþ?ýîïþÍÿ‡þ?ÖÉó_â©)É~ó_>ÅÏ¿ùã§ñÖÏ¿ùŸŸþ·ÿüWõ¿þÍßú×¿Y6»¼iÞ'ÚÖ7¼é?üî¿ýþô]u8Häo¾E+O_Ô]ußÄû¯ÿõ®/îÀ«)Éc5Shòìçyê>h2ÌC›.?ýüé?‘ë*·)ê7o›SA9œ#ÔºËË(GrqÔ¬ŒpBv´ çé'ó`TøµŠÃ=GrqòÐ€PcZ›„ciâø:ÊQ!‰Ö%!;šÄ3% ;š$zŠ«@k’D8æ˜}—÷Ã6ƒp8ÂMÈÉ1&+GrqlrÚDÚŒ	¹.pëÐÖP(y=+Ïª£­Ã‚$Ië° Ïú‘&AÉÄÚ¸˜$"HÔZ$j	ÇÖØp±“Hlâx®8É,…‘»LÈÉÑçÍXN>?‹Gã’¥Y°1{Ý„œS“wõ†R ~äâ˜å½º¤˜“c”œr´ GÙÀ©ÖÈ3±oŠª{Š™{-H¢(áhAE§ø;L\Ïé6‘`/lBŽêúÊQ!‰nYFUT!‰ý³tµ¿B’!-HÒdÙ27Ž¥ËƒèpŒ éâjrbeléí7o6X #îÍ«/êÖÃ=¨«åÍÙÖÎÄ€œçµ«6Žäâè¡ø;LœêÀÙ¸ÁZ„#k,H¢îuMHb<2˜$FGò’hmA.ŽM5Cì’pÄŠ	I¢wÎ5[ÀÏ $˜ŸÖy‚·Œ[87!Ça
+›¯-ÈÉ1™ãÑ‚\A”aŽM}È
+'·µ¯üéøñ±µ“× ’§%-	ä¼<u“ˆÕbÇ¿cŽ Gd´ —ŒMéR3Z™‹cVv¬Xk’ØqôÉ õ®f­wXAVeÈZ°u'·ðaÏ ñŒ¹d”å1Ž&äâØUºçDLÈuÁ—w
+’ôˆ	ùÀÄ™’pÄ=Œ	I´Æ=µ	I<ƒÇP’DŽp’D8áAëB2&`o¬õ\íÃ„Å¿w³&$áHšžù8)@ØÞTC—¶1± 'ÇVâ,=WÃÈQÜ¼qæ­ñxr´!'Ç1+fÚ}MÕÐ©—¨“UAìÿýçþÇßº~;ZÊüïŸþÿÿß_ýá¿ûçß?ÊOÿýñF±¬ˆk$†\$þ5.xy\ó–øWYŽ ×»˜/SŽ
+¹8ú$£}î¶@2«D8Æ .‰¹è^"4 Gyçh@.Ï4i¦µI|í¼X%lç©ºÒŽHÆìµnZkgˆóMÞEÁ8jäâ(€8—‘-ÈÅ±ÊÂŸn	;GÛ‘q=ä™ì•.Ä3ÙéBòÀÏ˜‹£Š2âri­ŠŽÄŽ&$¶#ã8ÒŽÐ3ç‹¼Žsí:G]6&¾¶ Iaq4 Iá÷f&äâ;íÀq=—¥ü˜Ã Ý,HÂ±´P4!Ÿºù`½±•Y‹² q$°ø· q´RŽ$iQDë9ÏÏÌxt[„ù8½ŽèGÉëY­<“Æ€|Ü)o±IÜPµµX«µ ÏÒày%'c»RiÈÇòÛÜjRœÌ~Œ±¹ƒÞµê~¥`Ž r†8¯*qŒcUiahøÒä›õ»&$®°ùGRrq”ÙçóimAŽxl0!‰Ö¸E›Ä3¸«1!'Çª¶IžÃ„\µOU½f-HÌ‘¬|MÈl	Œ£¹<ãä5dÁË[ÝwÏØ×ÁÃY¼	IêÜžDI8º‚[¡I´Æ½µ	I<ƒ‡G¬=.h	˜cYÖ. GZauz—ä¨qdUiBâr8éÍLÈÅQ•)©Öä*5ëž™p´ qñšimA_ãq†1Ç¹ŸO"9y=;¥¾y–‘ç³98nB\ÏEåM›$ãg&äI·÷)âÙžxzÃÉ¸OÙxË€ï:Ú‚ÄÛÈlÓ„dqojA’xT2!ÉF	œ·1!OqBÙ0ò36™Jõ®µïD2}âäùlË·ÏRòz¶g:ÅbÄµùCoÀ³*rqŒ›añTŠ“ÏÏŸQ2ÑÏkLÈ§MYS!Ä“Y³¥äSügÁž†ho¶)B¢ kno/8Ä8™HƒƒÌ„\W%²"“¶6³]ìºéý@Øw`ßñàˆ‚ªE½7’ì«Â½¥	¹8Ý(±Öää˜Ìm ªM	Ø3 ‡{rrœÛeLË;rqLI•T±Öää˜K7r´ ÇhÕØMxÛÜ|i*Ÿ™XkÆÑ‚ÄZ“™½	¹8ªŒLóMHÆ÷$ÑO¹MHâ<å6!IôŽ$ë)`‚·5ÐP›é ýãVØæÖ©Ë»ñÈ¥q,z,H¼ãE¸¹8ª>ŠµBÛ‘pìAûÉØƒ:Ü’r4 'Çù¹¡£ù€û*‰gLÈÜWI¢Ç„$ñèjBb­É8cBbÏVhBâèa-ÈŒ[¦µ¹86¹Q’yÆ‚daÿhB²èãLOÙ“zROcÀ0•®MÈÇóe¤õânõ¥’®öÛ6¹Ó`–Äz¾¼jsŽääX´¿	GrqTûº™É-ÈÅ1¶›}œ¼žõ:À`ÂÕ„$q–Á„<éG“œŒ­Íz)GëI-HµŒ£ù€ík]Ü,2=ƒ$àfQkA.Žµð˜%ÄÜÏ"Ö‚$IÄZOÝX¼"¶2‹Vòý‹cË†\÷O&FžÏúPx(âz.im‘qmÈÅqûØ;ú†|~†Ýk‚›€ù´)nŒ”xò#ÎnÈ8ª›hê_ŽB"ÇìLŸØ‹ã0‰emlCNŽ	D+æhA.ŽM[kmANŽÙIëàY¹I8’è1sÔ_2­-ÈÅQmE<cANŽe¬ýlÑcA.Žæ· Ç1¿y'ìk’p„¾ÖŸhÕö¥&^À`9¥²ö×=¡ˆ¯_ÀGf-„/©g}Œã_þ?¿¹ýz¬M\¬7¯¾­º€dº(‡,²«Ü ïzoÞ“Ú25@dlryN9Z+ù%'ö9´.N’ÜÓiäâXÕM½-bâZ®;ñEWu~>2<ŒLžÍ1ÂD‘I´HÁƒé	I,K3j’D‰Xòãp´ W"].¬¨Öäâ›Ô…xÆ‚\½[ýN>?{
+Uñ‘ùÕ&‘X´N’x÷ £s?ãáRêFŽ
+¹¥óu<‘ÐŸL0q>·ó¾I€qòzV.×Yä›+K&'m”£99æ•=¡úQòz¶Õ<mJˆë9¹x¥Þµ 	Gµ{Ã6WN7aÜ‹“Apã›Óš¼˜®e˜Ê¾g†óWõ[ëÿõ—s;Ï)Qî)ógùÉîÜI=ôZ×KÅV6]~Y»·å~:Ài{²Uî5rŸL ÉÎ	^ý˜È™8šÛ¶à$ú?ãÑsòzví<›W9vœ¼ž±&\ÕäWÁ;’p¬UÄå¨gýÆ¿¼rùXpžì6»ZÄË¥T0ä™$	GµƒáÎˆD‚Ï‚\ûúäX”£¹8ö,"øüËÚ‡8L!º&¿ä¶³ÑKã’P¶ 	GÊ$ÑúÕ”ü²)‰iB$Þ%AgA’$»Ü7¬Oe‰àŽ-)ù<B´œå*ê5œ0"yÇ|Ÿ)Õë,Æ<˜S2ŽäiynGâ7<_ô­àrqìâJ÷&$á˜åñ*”£B­“¼O‚j­gk'yjÈÕðŠL|ÿŒBF|àØz=Gˆ+Ë°òìTVJ^ÏÊš<µœ‰sÌ»$áH"Ð‚$Z“VbAž}pn×ßˆ‡I¯ W#¸W˜aÑX#ÄUÞMUµ~ù-þ¾qÂ€Ä•“$„¸VI2AOlòæ'·*W.fñ]Öû8ÿö/þüßÞ®pfMWF|ïßÃ)I§l«BœÏEùý6à¿¯˜Z–÷ÂBŽgçˆuk^^ÍÆ8Z‹ãXü_µ:”Ð„\åQÁ'k;GOáÝüd¸×‚$[à+ÒE$ºÕ
+¯.° ‰ýëè¾µH#®úrt—œŒ#öülõU¦`à	Sò±¾¨õFŽäâ¸¾ºbÑÎÉëÙa&Ñâ7!ñôž„¸	I8>Cœ‰n8ÄMÈ³¥q\s2öû% )GáåÙ"?DãXÝ¿m«´×ÿ¼ÈâF p$dGd°~"6EH(#X‘÷5 fs,ñ³=…BZZ(&$.0Žäâx3*2"ž†ºžüsÞJÉëY_Tmä„ä·‘§©3iÌœ|~¶ÈÝ2×g™h2úxµIì:7‹˜Òùòð<I}¤‰8ÖÈ¼Ó„\í!É¢ãhA>žèFˆë¹œä&õWôR2y–„ŽIìB8V¹£–ØEãX?8‚î¹ŒU±\Lâî"Œ‡e|»*å’¼›«''vÆ¼ÑöWóî«R^ž6/†ç$Å±p½n—«ùôœ³Ròš³æ*CC½ccSó|æüìöË™{í²I6äc¤fß£mÂuÈÅQ^2p¥`A.Ž£‘_7¨õ^ð)G$áØjC™mj=p!0E7"´žÃ0F®d´^´ §ÆljL— _³¸dÄµz¨Ž?Gˆ<©&!lA.ŽYVY[‹ãv4‹[J>?K"”’¡&ç°$DhS–äá]B„øxFyn–ÃFè…fØ\	pÛ2#Î5å9‚÷_X,ròi{{–’×³EÍFq$›x;‰drmç
+‘Æ1#¾žÃ1ÌˆPƒS3"´%‹`òåY‹œü8ÅyVï¿„ÒÜ·|™³pòZÂTyÏA i¾	—"Wi(ùµDÀ¤—|Ï¿oÁÄ\ªÀ‘:¢­IæÛP,r<Ñ°õ«¯±¹ÍŒÖWïhßfÖògÿê~fü”Î‡¤“ÛE^“ÚÜ¼
+Š$L)ƒ7ï#uD(äpvŽPë}weCÉëYu(]w½ Þ‚\#¥/²ÙŽ+œ„¯±w~@¦>„ø|®ÍÍŒùÞÁ²¶V=ÒÞ‚Äöl-E¤½yònkþºmûGÔ	<:qTKcñdAÂÝG”£¹8V±­–«99êÃWX°Z‹cÌ²Ñ’Èµ 1ÇKLS2Ö¸‰}ÀÜ‚Äqr
+_BÄûzNü4Æ¦º[¥éÙóïË¬©UvÌ˜‰Ž'’2nVú³ÖLÈÇ:Ý§ÚÆ8Æ2‘Ñ„$S2ÂÑ‚„ÕÖôMÈcê7H±£„<!Âïho-¢Â‚ù@ŸA°FjBŽó‹F¤¨I´.5™òÚ ù´ÿhx¨·eD	-t³ q´²eAâ…9Žyw•î´±€"Sr¬¨	wPQE-ÈÅÑ)g3ŽäZ,©Ÿ™{-ÈUîØÎ:`¡FÉp÷{_hÓ´ 	GÒ}XDkÒÅY'°î–’qD°®ß‚ÄQË†'·,ÊÑ€$r¨µù€]žë¾¹Úo%ËTUÍNì¨|ÇÂÿ/þ2ÝÉ®¾âïkäÃðÔ|…@«}Ñ IÆÂÑ‚|tóR‡D2Š»†>‚5!'Çìef®vy7êÆÑ‚$ç†hô•¦‰µ®ósd:òiÿZ<úVšq$¬°cÎ?bDÚé9B<öbP9	Ï6˜Å,H¸s…zÕ‚$IäYdŽEZ‡ù´?k§„ˆý{ŒÑ{y•,Òâ^ÔäÎ y‹®c®›™-H¸“žpüš¤ä,Ôz×’ß;‚”"?¼ÀÃI!À¥€nÇ
+I:ÂÑ‚|ug^~¿qîÎ‘t¬>â­I$éü](¼¿ŸDü\i¡£^Ï‚Äº•*ÛÓM#ŸV.E–²NVÖDìoiÌß0&A¤1Žä³£cº"îr™•-H<,°H° É@óŠIB$ƒ(iäk8'í”Éôöhæ{Œ}yÅ:JÆ£HérG"E4ò$M™_ %%#ãµ`™ÑWe$^¹1Ž$¼±ª6$^bØx-XæÖipX¥I8V)å¨DëÒŽoÈÄ°»³!Iœ^Ø‚$±L8Zç–EzvJ&íüeí¯™Ðå"Oô|×„®¼wB7kõGíFÏöB|œD2v¿ž#Ä×\!$|ž8&’Y‹oð[’Ì¬æv°(² 1Ç<7H¡sH¬õÜh+NhäÓþs“,œða"ö÷DÌã¯aty–’Ÿ3&/!â9
+³œ‰gKÌ»$™Ñ‘´ É¬“´ò5ÿ%í•ÉLüèà@rô:‹|êWocB[dÌ	~úaAžÇáùæ”LÆço¦““ˆŸËµ'úÜ"žd—{ÞÌ<5y=+Ïd£Ø‚ÄÞ½ô ”Œg#—g)Ï°&6$ž©aÛx6ùô0%’çzÄ"D·Ñdm«1$sÓ#ê)‘Ì@Ýˆtð¾IúÂÑ‚Ä­äÜ¢1ñÜ2¡ioÈ¤7€>ÿšIlR'¼k[ß;‰MóèTµmLvc€÷6€i‡B’™áhA¾æ`¡Ã}Í„Hfƒ!·ªh$™±Î
++œ,HÌ1­-vºXXëÔ<¾ÓÈ€|Ú–	èDq$èd‘ £Ä ãhA>çkL7BÄ3GfeÏnY$XdN¢Õ‚$«Ò¢,È×z…´mB$k$ÒËè)¨—A(ÌÑ†Äc ŽÖ·GèEM1ÅêDÇýŽÑãÏÿï?{côXGO¤SPAÐf]NtóFûcû*%?àçL—g)ùñÚH«…ÚŸeäÜS›BC}LÈÅQÝ˜B@%Pò¹u8yÊëŒøzÎE´Sš±qGŠ>1 ±•ã<Ž¨cAž|›ü¬þâsMÆ±ks4ÒñwKŸž#ÄÇ«Ñ0Y)OÃb‹0>-HÌ‘…ˆ‰íB8‚áä0»N 'ãÂ/Ç0"~îòN=É>©Io<y’Vï¥¸<KÉx=Fz=¯qhCâÕ+î mH¼ÂÆ½¡I8Âµ!±Ö¸Ó´!±gp§iCâè!}’	‰cùÔò·ŸçsÿqüóOŸŽIN›×úô“råóXñ|	CÀçòç?þþÓß|ú‡ùÐp×š­œþuÌüç7þû÷`JÓ¾ÄTÒ‰Y‚·)AXî_\«¯“ÿò©ôÒòùùŸôÙ×8æ[õj;ïCpÑ~>h©®©ö•ø[qð]h–i×6öX¿¸Óásmu]¨2”è=îþ|ü	øq±âöß¦°à<`!9=\^N´{§­8ø®oÓv¬·BÀ
+î¤ïcÔH×Áw"Üw „yõÚÛ Üw …RÅ
+€pßE ï¦CI,ï´÷¾,Ñ«¯+Uçê/·ÍÓ¬/ã©Zž™üsÃ©ïÒ+U·Nõ)ŒÁ*\ê½6AìãGHœñÉ•ðÅ“gŸÄ2o®y½*‰gy=;¯2Ä¹ÜQ‰„ò’yíe]Þ'ò·³f©Ïr~IWÇÉè:ùn^w^±ÈüË0Hm2·7pAÌ>†—vÛSâz®&æoJœÏæ'å"L,ÈÉ±É“îÎâz®td”ý9L\ÏuqfáÀÍÛ+´$áCÕ†|é6ÏÙ;Åg¹è¦ˆó¹<fg}À™hÙü’.GŸú/Ôàâm:0†âU¤épÍqÆ”0l 6ää˜äiýÃ¹s{šæhA.ŽMuŒ£¹´b;‰NrqÌ³‰ð»HF$öÝ´n¾6$áÆ …t3 _ºù‚¾`dDbå1€rÃN"ñ7lº6ää8%_†9Z“ãüö[¾ù©!>p»„†ý%»¥ÚÔò¬Òwë–n¿Ý«\¯Ì›²º†â Ãjt=ÈN¤dunJ½®øF	4J\’4ÕIA&¿¤ÃzP—€7‡Ý~*ÕCËÞK‡ {ýÊh‰—É8bC.Ž¹°•‰$°o·!'ÇÒpü±!'Ç–é F‰ë¹n·lÈö/1¹¹8®ë‡È0vC>?¬2Ñö¬6$±öÑÇSâË»°¿¢Dg„‰IÚÂKB|µ½_}`Z‰ºï˜Š¸ýj`¼,·LÒ >¤ViR·'ãyÑwùa£ûÄVzœºžŒ%_³×Ÿ6Lò¬WàÔÓ“°éqêI..œº=ÙÝ)&/?œl‰s@”ºžÌ‘¶N}¼¢â$Óë‡E/ŽÎÚ8u{2¦êéIØ¥rêIZØ§sêÉ,’õd{8¼qêÉßìIB=E{L=E/³¡žZôÊ·W@Åá¨ÀÌw/	@ îäý¡4 ÷HŠ P€û¤Ù«P‚ömoý¦2BìcqN6h¿Ra˜BêüJ¶â¹€Ÿ=ˆe¼ª©õÞùUFHùz?Â°Æ¹Œ È¯2BJóx¯r)#¿4Kë\ó—èìÌ_´ŒðÝ¼þÞ2Âü®ô‹{»Œr­%IGØGD%ÂebAÂÕÍ‚<ÒóÀ¯ô<±²J±§ìý—xi–¤P ˜#oò©Û@Iõìå“nšø*=~ã†ŒµÀl~åÒÃwk¤ï-=À@égÒ4lHXzHón÷¦÷à™0Í90)N¢Ó†<ÒóiLSÏS[÷¬`"¶ÿ<Ö<fÀÄ€Äç‘&éLrÔÈ§nó˜­šÏ
+í¿`{ú¹±¿™3{j$ö9n¾6$,?PŽ$,?P­-HX˜8›ýW®F|·žê½Õˆ4šØx1.A§D*q,âO’•g	"5ÂPöÌ÷U‚ DX‚ L~åÄwóÒ{K°÷ùL2žØG”ô¬”ˆ%Á}¼	SÃd²!$5eBˆ0)Nu³ aâžšÜ‚|•ÈpvC>=‹®2ÖäÔ‡Þ±]qnC>=Œû,JÄ±Æ˜X¸=0Ý,ÈgËü•¨½*ñÝº;KUg¶ºKHPê3³JVŠœú¬Wå!§>3«—4Æõ§g•t!œúz·SN}ÉuŠñÓ3ŸLÂ”S_–&	'J}æÍù“„úÌÕsi	õY¶8ÿô¬>pKêëIÜsêK.<pêË4¢õe<&rêËçôIB}ÅL}E1µ¡žÚôÊ·d¦AÚ9w—g(€lõFúÞ9
+òS5  ÀýÒø^Z5Hp¿ôÀ–\³.-áôë³?¹ÌV–¾]b¬´ægü¦”Ã—|26ÒT:ù1ž\ã¶¬1Å®®YŒú2ÖM¥ûY/·áæ†<žÍnô‡þwüò.ˆ—o ÝvÓ–H+|kþôÖ5q,!Ã©S=ñ˜Ÿveâ”œ6.€CÑmÈÉ±¤9²¤yV„þÂñ†<Ÿ'µÇë;|ÇdÚ„£“ç!PŽ
+yÖÏÅãÛaù±ëˆLdr6†yGÙÉØÛõ+^WµmÈÁqôI_Š¼Mr4!1Çžz<ÌÄÉ±§g9yZ{v×~yô²Iü—ä	*Ô
+yŽ›ØaPòåÙTQc dÖÂ{ÓHÛÄÚ¡&£µ’ø^õV4P¿†Brü•»ÿÐ½ÌØ~]÷{o.èÌÂÚYb¸é¬vHa„KùRÏï @NŽi¨ÝM-ÈÁ1Œ¦]O^Wªª	99Îß‚ÀÍg5G†jèÉ£jBNŽcâ&1û}ªtùå‚”y9™È;æVFy’ØtT '!&$ñ{mÉèw…$±9OfÈ< 72i)çg)ùÜB±øœ'?—A¬þÊ`k†/íÔV¿6×v{h¿>¯T*§XÁíÝXEóYËAž®ÍïÔBÒõYN†a1ôêÃe,,2Õ1»/jw†ù
+´éËñÞKt¿ÁZgû“ŽÍ§slÑS“ö’v4þaL•N»!CÛ^ià/Ó
+b;€„žì%Ž©OPMHW vIˆY£œpü–É~ØÈ‘Úæø>¹ ÓA&*ÿ³¿èÈùìo…yžã(™_?·³²|ñ—KíÌ¬f­ÏtÎø³JáLú˜ À´ÍÌ¥Žè"YNÝ^SÝHÔL{Î×¯’œY©ñ‚.Ó®³$§nOÆÈò.œº=9Ú'IµpêéI˜RáÔ“´¯,Šøéd˜8áÔ­ÀPKgpê–ìŸ©uú$¡¾ž<%-ÄO—ç/˜óO¦e–ÀàÔ“½`¢‚SOÞ€¹	N=?‰2œzŽt”ŒàÔ“…`ÒSOö‡©€7ÚåæÊ_=‰°wM¿Nâ`o²0Y°;“, 9õÙÉbžS·'½¿{S÷z_»‘–P7WwÇ–õœú²|çÔíÉäO+öËg:Z¯sêI&¸DçÔ“àRœSO¶‡kVN=ùûµ<?¢éŠ9ýtŠU&¡>^-àW_(ïý×YïŽ‡K…v^ÈŠŸöB|•˜óOOGµâ§ç(@¯œútñy½*~z:“,Q9õõä±=ÿý|7Y}rêS_²àäÔ§5ÉÂ’SŸ¾"Ë=N}ÜDÉ/ÝæéxcÁ1³så²Ó´v¨úŸýîŸÿ[Wo?:ªmû¹ÌO@å÷vObŸ•tµã†<ží®øëö9ÆÆ„œç¦ùºñz#Êy>«n‹¹~^€ídC.ŽAÌ„JóùÑ£¹8æzýÔ¶Ôaàvþ„îàh@bŽ³è&kCb­sH AÚØ3©T‘“fžÑÈSœ¤ÑjsºÇþŽOÝX|Þ¶Æ¦–dap¥‡cÛy=;&ð¥¦ö¥«½l”8Ÿ+U:«Î}õN~rrÌE,y(GrqÓ ®›²ÊÉÕóÆkpSX;ÆÑ‚|jw	Ùó/1oÇ¹ÊÆŠ‰9²ÆlA>µÈmÌVNf8+¤‰Øžs£o¼T”˜=5ûœq´ I»$é˜0à nÎËÃ±I³˜‡Äˆowá¨ˆp8,lÈÅ±FÑÊß–&òƒ3ÒlHlÆ±ÈÏ‚©ï†oÈóÙ¹—•>Iˆó¹Øh{’’×³9™@s< 7d¬	îrmÈ§MY”âÉìIJ~À aZX‹c”Áy±)%“gaÏaCbãN·¹1ya»(~M&ÝW<fnORòã`Ë
+!®çŠ“CÓù”üàª¼©çÛ²b—kàù¸ù”ä7ç_°}Ø;-ÈWðMí¥¬ßRE—Bï‚ZíE@ûÅÜnVi.¹ìçTã’BÇêûßÿá_ýîï^Koñ¶èý<OæÛ^ñ¯ërù³ù?2ÿ‡¾l˜S\X÷mïmómnþÏíY	Õ…,¾ Ë¡ùáŠko†p­z´8w¹Ï“)›˜âõóº\fªYOÐ6ú-XšÇÌOåªkI†LãF›{®è Ö‚_R5SÒ02aÞù²&äâXÅ]Æ\0’ÈHÂÀl1«Ö>q¿{Ž±ÎM€ILN´ŸèFŒ¨‚Œ99Æ,®‘³q´ 'ÇÐßŽÅ£¹8úlÔÚ‚œ}îƒTò—¤j8”¸ž‹â*äœF¬ëY€¹8Žæ’¤›˜#é|LH¬užêYãÉÆµØ=u…ílcMÄÞ&ÍÙ„ÄIš³	‰[ãhAâ–Í´¶ °#a]Nc Ëbîå,8y=›ŠÇ/å²‘pgc@NŽ­;1$ž0NžÏÎü8y=;¿êµi²÷;}´¯«ïXßhAb¥G«Êz[rr,=Ê!t½$æÈúakê%÷l$öLv¨bhCâèa-ÈsãÆCNÈó»Ò‹ñ`È é†LXŸ­ÒXæäùlL²`l,ÈÉ1Œ%û[Ro-ÈÅ1g1ôî³¼#¯gƒ—8·¬&¦dül.A|ÈÅØh$Ö„L7LHlmÒ×š8"Î=?'Ÿ"ñòÀõ7ÜˆÌqLx®ù<vŽ%¤ØzË†à˜ƒ·àÍ¤]˜˜#i÷&äêÂ8Öšè:)6lc˜	ù€¯cÆ³ Ç ×¨c2ZXÆs§ro1³~ÉåLûÞƒHœÆÉóÙùa„)ùbBNŽAsÄ&Õ&ää£¸…›­pLÈÅ±$¶¸"´õTePÖëš˜#™˜X32I3!±õÉDÒ„ÄB¡	‰£˜5$òq×à66c 9·ä4G%S¿bB>Ž7Ü¾^¼¨gsIÈ‡Ð•h'ë<ÒíªpJò«ÓÁ$ûæä¢AávŽI¶hŠìb—™GÜ·™“c˜~Ñ…hS”Ùè—½r*/W÷gùÛEÀf±.‡(&˜‰e<‡Ï¶±êWBj–N¶ø®2nxšhB.Ž%Ý$58y=Wñá9Þœ8Ógâ4)ë­ÈX.’}2!±íÈ`nB> ×H£4!'ÇXdn€q´ 'ÇäÅrqL*#I<cA.Ž5
+ë°± 	ÇgbÖìÒ(Û™µLÇ™¢™8^Ç¯ïÈ"Ó„Äíž$LÈS/DR]œ|zöœ¿a™Ïc'c’Ë„Ä^¶:pTñÅ8Z¸µ0­-HÜv/> dÜ[\NÉøYh$Ö„µ [›µRò}}S—äc©9ÛV&äãxHBœÏ•.£ŸIbA>„®DûY«Î2sŸù~:/`Äù\ˆró™
+˜‹ãƒsl°©€	¹8¶.‹LLÈÉ1zU–Ã³	‰9’&oBb­Ï'cœ#“qD&`B>c“8&>`ìÛ[	æè
+©£nl(y=;†ø›RòzÖÉÒÙÅ—”<»‡Þd!&$æÈ¦¥$ÖµP[›õ"äÉ÷¬{£d‰¬«ÍU"OaûÛ…Êù€¯cMÄ‚\S¸k"”Œ¥¹4‘{Û˜5™—­öÓ4_ŒerÊ8/ò3mØ0!§Œ.5Û
+Ñ„\Z»L'^Œ¸ž‹Qvx>hBbû“ä¿	‰9ž»QNÆúc““Ÿ6%-‚±wIL›3[s¼aâz.DÛÚÊ„|ÀVx²çwÞM?¯™ú’öoÖçúã‡w¼’0†"¯Oj˜ŸŸÌüíò]ì`"7‘ÿéÍ.ò¿þýÿxëëtïÒD—ØŠ¾~Áö4¿þ+—µ×qqƒ‹c¡NŸ\´^ë—ãø€ëO÷V%æüÓÄ$7Í0/ÍéúJÝž¬óucÐ¬/øé§ÇS÷6G]Êœúz²Î©Éåð€ó“šú’kÌ[¿ôž$Ô—-Êˆypy¥¾,MýH¨/?²'S®m~?”Ô¥c“`tObêz2¹~ó$¡®'cŽHžýIBÝžóÛË1þ_¯8žÄÔ×“Ô+„ú’¶æðÅôNL}YˆF¡¾¼BŸ$ÔÇÓ×TZB]O–ízb!B==û—¬I¢Ô—Wòè¡£>Xhtë+D¬gOé&úu>™]KÜ¶s14¦®5ÈwÎa‹Ç-£>ž\™´ŒºžƒôÍ;	õq£‰EÏ·¥Å1´Ù€õšŒúz'‹>F}Yˆ¾“P7šXôäÒþÊç}ÛÑ8ÿéÿS#oíÃ¼øÀö›^ø'÷wuºéw¯cùîåwûä°	rrLÙö¥½99f®+‹ËYœ¼žMNžK ?òµ!ÇùÆÕœý¢ÇóÛ4sÌ£‰øËQÆŒ£Fb­É&$ö9 Â„ÄqRfUN/¾MÈúFór¸'ÏgçM±W©ÉùH&ä}êÉÎ—1!°!7—ÑNE’p«xô¥‰µžß¯×S4R­5{†ÒeBâ8!§‡™+–ÛBÄ-Ÿé¶}€K:ÈHA:ÈX„Ú•ŠDò$ó;%?ÐGµÜ äãNyƒmî5™ópvJøJ¹Ç„|¼^GFSNÆÒ06³£çÀ<GS_S¿’ç³%Òc|(q>7¡ÇßÜ×³9Heð±V&$æxc8kBFòiSW„xò#{’’0@˜äâ£ßÏ6¥dò,ž—˜ØÃäÌ±àföNƒ÷b§Ä%h9ùq°%…×s¹Ý4N~pUÞÔómY¡ËÈtË„|JrŽ›Ë/Ø>ìäƒ+ø¦öZÖÚ™ËGWE]…­æÉ¸ovòóõ}ÌåÄÐ‰GGrÊèC½bÉuæ »€cÕ§tC¤ðÅ‰KDjœ§—ãáÆlBNŽeL{ÅÑ£ã/zœõV$ù¶“vþâïî²~¬ã²ûÆWøßº\ý}&Ö@ö$4\7ó{r£Ý?‰*k“6/_ÆE>NÝª­ß<I¨Û“‘îFàÔíÉUÿ|ÕþÄO[¤^kµâ§ïjäÔ—¸äÍ©/­qÅS_–>í?½üxÅœzE	•`èbÈ4ž½q¡>ž¬hhêö¤÷wïÄÔ‡Ÿjô¶\ÄK[êvB}½ooàÔ—-ø;1õq£‰EÏ;isfEÿ™&O7INSZòä¢±Î‹Q·$zÎìûUNÝ¤ÿòü$ãü÷K—:†X=]ò®„Éw~‰'ôãÉ1£Hr_(%”Z¨J
+ô“åAÍvÄÙQ·'cáöcÔMÚ	/û½þ~é‚í÷wk´6&¯ª›Þ6n Ú·íáÈõ’Ê+5û·ªúcV1æ‡£Ežõj‚ñ›?üóÏoßC0fK^iÎÙº¸5©ºæÞÆí9½:/C©3%–/w¦®¬^-F6½È½6ãg"ªÍûÓivœ±ãä~7¬ŸwA¤æ[ž.µ`&äâ8Z~ËcßOë‘cáNˆë¹^­’£Þi­;ÝÂ|Nûc%0i{n.£/o"/Ÿ‡ð^#£;yá÷‘>|¹86±Ç®!áQCää8ÆÆ«!AôîZËt¡9v'"Û˜ERE	qËrYíoA.Ž­Ë@Æ²<4Ë8Æd±››YË„œCmoZuãhA.Ž®Qû3âJÉ« ˜ýMÈ%‰‡û·0Û¶®u™‹c·àµy¢D?ð‡G-ÈÇ:¶Hä(Y?bB®éVŽää˜ÍZ[‹cFÏX‹£¼R¢ÍC-Q–Î‚\ñØÅ•ªÍåCªÖÄ7EµyqðÊ»qÞmääØªµ° ÇyƒIFòa´Îûìh×ºGQc&Ø«œø…9É 1mAn¾g~Ð˜¶ —Ö]Î*™ŒäÃhwÚÑ¨õ¯¼¡«‘þ‹»öŽ,æ¿ùƒ\cÈ]©Š’Ñ·½ðüã?þvhùøÝûýç¿üñ÷ÿ£ÌÿÿÃïþaŒþß&‹ßúXÿñ§¿½_÷¨3½Œ¡Ñ_Z-Ü´pdÓÆv?èØ#á8wT;ŒmH¸¥‰r¬ElT#2j\éÇ…ÉˆŠåª±Jù‡FAíµ!±\³cõ—G©Œ
+	÷xpH"£ÙÄŽV­õùÔØ¿ÞUqÈC!}éàŒZòµ£Çùm
+8˜–’OÏ3éŠ?a^•‘Æ;F^ë5ø“„7PCZ‹c;`©M-HÌ‘ta&$Öº”1û<™‡£OûŸú˜ó'ßž—Ÿà*•¹ö¸öæ ±o(1 1Ç<oönŽ‰½;W+úÚÔ±Ê.Ã¤1Ñ÷”´ÙBD$NÃØ‚|/cŠá¦.‰ùàj¿m“75ÀA£-TbBuuò)	‹<BÄ¶¤’®öÛ6¹Ñ äXäË6J­7}:'¯UÁüŒòjÞW÷]Šú€´yqt?M•sAˆóy:¡¢ÔµMÃ{ÙWždÔõdQúcÏ™pË(rrœMöªy+XË2!1ÇäÆ4íT¡ì”£Fb­IobBbÏNÎ„ÄQBšŒ	‰#–q´ q«bZ«ÍN§¨Ö4Ö6Õet~×)î¹…1êU}y’Qè nÚ6-ÈÅ1º5"’’×³Ydðh+´ 1GÖ
+-È“~¬éQ2¶6‹<{žµG!ãhAâ–B´NÞ‹¾û<™¾Ê£ÙR.oã6Žê¤`,#ÀZ¢¢øM­zÚ€q>×C•£ÔéíŒú˜ç{ÏûJ]O–j[¥˜‹cçY)F|>G‚ìî9’m^aB>Ð	Ôk2ê|rVÄŠõô$£Î'cp2¶ˆäâ˜Œ©BsdîjM&§`{8&£¹8æ,[	±£99Ž®n<ý0é¥‘¸þ´0QÅ“Jé	{üÜ‚LQR_'=JÆú‘¾Ý„\ÇÈ'fg8ïdBbŽ)V´eÝ„ÄZ“\‡	yòÆ8GccAâÖI²Cú”^' G²¬%™ƒ2–ØúMÔägK¤’¿ä“sŽ¸[©–TsiÞ¿Ù×íÈ:2•r´ Ç1s1%ØMÈÅÑ§›;'Ÿž%]='cMHOjBbkŸºrJÅž??É¨[Lòµw-9vÛ@pïSø†Ä?¯]V9@`  ,‚Üé¦Þ‡jV½é±ŒY0P[l²?$ÅG‰=ûVÕ]L,‘y¿‡9õ;	’uOÍ³ xS³N	ÇyªlzÊ@-§ŸÉ]ÃMó@§Ì^ôaèŽÈ½”Ì{²á…ÐõF–8ZHÙæoª@aI–ŠÖPqw¹˜*1nËò$î;sHÌ/u)ª%õÜ"Úë’yí4†áVk÷¥
+S%ê9j®tæb‰ûî[hs1Ubn‘¦>Ê‘¸È@¬³·òÜûÅ=>—dèmŠiáa‰vÛ m\K$IÇÅ|ô9I9}+KwÝ›K¬Î®.Gp1UbL»|ov'!Þ~Ñ«ÝsÌÆÐ.¦J,Ù®‘M'.æâØB÷…pXËæböôv]³¬ëÙ9.æ»ï;‘‹‰%’õdkM––]Ì!±gßz«‹‰í„y„‡9l¹Ø9&ÑÃ< 1­=Ì!1µ+ýekñ}wp1±D ]ÌI?¹9Œ[›y–‡‰-‚$)[-“èabÏ¢ñÄÁÄÞÏºÃÃÄ
+ÛIÛv»NÚ–—½ºxšÐ¶Vì
+5òUÄ{æC„¢ì%¼h·ôâìåcâzáDæc‰­¿¨IM`®Gkyu“²ëã°Û®9$»>‰=ÖÇ÷e‡ÝÓÒ(ª%õ×$lÌÆÑQ2ÙUdªÅÒ.(éÑû¾uAkÇ$z˜Xkœ}Ì!qOl²GÁG9¼ÄOA¬ž=ø˜¸•Iät1±%0‰&öb’/ö"ã
+<9E³' dÆ¶×í\&®CáQ¶¼òz†jIýÅ[Öá¨–ìÛ²êKªîa‰¡óñÙx*K:!„}³[¶Á0VxÑ®©§v1øfaà	{ó}âð1qñàíèÖ:õÝÀBNÍ:8
+¡îvû+«ãÊ|¸¨þÌÖB¯Sn@“ãà¸&ô´4n¹˜·“ÁG¹n}iMÌƒ«ýv›¼Ð@ØvýzAL©Q` –‹ñío§S%†j7vw1‡Ä¼»¶Òú˜Cb°›Jñ„ßÇÄñfHk§¯>&î’ô\Ll=S èÃ^gòôà€vOêš¤åØŽ—H²2‡µ
+½ùvÛú˜Cbà;9ª%eä÷¢¡ª%k~{?ó¥1°Ê8óÍiæM«Ä$z˜XUy<Ì!1,
+Ïp\L,‘Ì}\L¬5™¹˜¸gÈ´ÅÅÄÖÃ$z˜“c“ÙOÊ)96) Ià€	MFÂX{1–ç°–Õ·?ÜÇ÷î›¸˜*1tû$csH,ÖˆH2v1±D’Œ]L¬5IÆ.&î—=Ll=SŽ èd³3ýò{
+«¯ž gV’H™Bá˜÷¸+°ð†ÄêrìÂ½^ Ã¿ìRP;æÝßÏQ-™ßWÎQ-)Õuí+÷1‡ÄÐ©‘2p”Ëö÷Äw\L,‘ø·‹ùÐ„âV&ÑÐÅÄ=N"¶‹‰­Iô0±‡­e=2±ß®vSëØúÛ;“O­=Ì!16ß`ÐÅeÈáš†º˜*±¶eešx†‡‰%2ïõ0±Ö,¨x˜¸gX¬ó0±õÌq—¡Ø’§’= ¯-JÜß^m? ŒE¶K‰Ë1J³vÕ’©-ß §’Õ’99WÖ]Ì!±tþÕð(ÛíÖ[â.&–H|ÖÅœô#Á„Ã¸µYl÷0qÏ³Øîab+d=Lì)Xë|ô8ôy˜ùíøçûƒw¼ëGÀ¶oA"ü®{4ÿøúõŸ·Ïv^.¦Û·(qè¼m¹³RoÎè—.:wÀ¸˜:RJô0t_â]S…t(šÞÀý¸~ƒºwN 1æéÁãõ&‘¨‡ùf.æ„‰¹%Ô¦&iÓ"^´é	“.‰^Ey‚º+P ‰…÷’>ÐÍ…J8^÷º˜:VoOÊ_è©{wøÀ.UÛþ…^y‡IÙŸÖLaRgí¼Î'LZ°K`ñµàÂ$ý)Ótä#æq»’
+! ñ-¢Ûya!	4wW`=‹A¼ÉÎ9|<Á»˜¢y¦í}³=Ts|Ä
+²Ûâ —²>Ð•’WŸ¡ðÜ¸Øm×ÃØ¦(~;ä%·#ähIèÌºKÖáðNc“>L	©ía‰³MQ˜h2›…Ÿ­7ÈåÉÜ73çúìÀÝ;×Â:ïª;…YÙgžã0ióœË=Ê;ê¦N[Ü,[‹©è{[F6ØŽ=ÌãvÛÕŽç':Žš®‡I$ÎÝGág}gK™Ÿ6š-‘Â¤Ç¦²>½?Õìòä@÷2^ôæ0+û4[“öžÍ6´¸¸ÚC«¼5žecYZåcÄÃFäb‰2o´³§sXË¦^d“!bê–mò»M&Ök'¯•§ðÅú+ U:OK¼VáúŒ¼÷1qz©ë÷Ô÷é< MðÀÁÅ$›Ý‘Âs“‘*P˜¼wŽ¯[áU¿ýR*‰;„~ì¢Çÿòÿ#ùPZ­9›_!Wöi8æ
+–]O¹›¾ÎÖï^c‰5×éµ·I¢,Ø³¾ê×qwÀ}¡¬-£SËgýeWèS]òç¿¿~úíÓ_ZH<gšþý]êðùùûS1í{-I¼ªµsüì{¤üÖ²ÔB>¨2õ^½Ô«Î‹ïJÈöÐÐœõø³Ë*‡®ƒù!à‹ú õ€&iâ—4k5¼Ô$—k¢Ó^cþbö©žtIØ®>¶Oôó¨Ôqƒ€^ÛòÛ6´[¶åsh-¯¼jmMxÙlqJçysÑÁÛG•ŠùL¤Pµk†Â³ ^6×’¯' /TËK2Ã1ŸõªNÛd)ž–,ã²l+•t&d_VrP¨kéMWùyë«^:ý2M˜#Ð?÷E]¼\ª”[´òÊ¶ÝôÊ5Ú~ÕÓ`—FÌÒSÆ“K)k¿ê®éÊÓv]yŽÈð“Å.èþ@cáåºË¶ ðèþ¥Gr!€´ÝšµÎ«Y/f"¼Vf—³Nµ¼w1cá%`	ê	Õ„ýG ›æ æœB¸ëâÉêe[s«ÂÈ <é¥%¨-‘Fx¨¬ÁJ ¾d$ïd4±í«ÿ,ñSyÀY—x¬£“¸“ŸCÒâ™1uýF[ÅÁE Úm„ÁJx¥Û`}xŠqØ0¼†Má¥Í
+aXxa_ÂðÖ‹îí°¤‰"¾Ym¸™Fx9ØH{OW†l•9¯„Ú—Æ 9Tx%/i}ÍÉe¬ %AŽžõ8L(AÑ²ï]‡Â‹`¸³c|CëŸlð§1@c(@ÂÀz2ÐÃ00‹±X ŒÕÀ¢aìnñL À·`¾zOdÀÝaúá¦SŽ`z1¦{#áðá³prÏpC'Bê4¿~úºß«&endstream
+endobj
+121 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+122 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+123 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+124 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+125 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+126 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+127 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+128 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+129 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+130 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+131 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+132 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+133 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+134 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+135 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+136 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+137 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+138 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+139 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+140 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+xref
+0 141
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000103 00000 n 
+0000000162 00000 n 
+0000001616 00000 n 
+0000002031 00000 n 
+0000002459 00000 n 
+0000002737 00000 n 
+0000003064 00000 n 
+0000003390 00000 n 
+0000003691 00000 n 
+0000003991 00000 n 
+0000004407 00000 n 
+0000004685 00000 n 
+0000004984 00000 n 
+0000005301 00000 n 
+0000005602 00000 n 
+0000005908 00000 n 
+0000006301 00000 n 
+0000006621 00000 n 
+0000006921 00000 n 
+0000007337 00000 n 
+0000007649 00000 n 
+0000007949 00000 n 
+0000008235 00000 n 
+0000008561 00000 n 
+0000008850 00000 n 
+0000009139 00000 n 
+0000009555 00000 n 
+0000009984 00000 n 
+0000010263 00000 n 
+0000010591 00000 n 
+0000010918 00000 n 
+0000011219 00000 n 
+0000011519 00000 n 
+0000011935 00000 n 
+0000012213 00000 n 
+0000012512 00000 n 
+0000012829 00000 n 
+0000013130 00000 n 
+0000013436 00000 n 
+0000013829 00000 n 
+0000014149 00000 n 
+0000014449 00000 n 
+0000014865 00000 n 
+0000015177 00000 n 
+0000015477 00000 n 
+0000015763 00000 n 
+0000016089 00000 n 
+0000016378 00000 n 
+0000016667 00000 n 
+0000017083 00000 n 
+0000017512 00000 n 
+0000017791 00000 n 
+0000018119 00000 n 
+0000018446 00000 n 
+0000018747 00000 n 
+0000019047 00000 n 
+0000019463 00000 n 
+0000019741 00000 n 
+0000020040 00000 n 
+0000020357 00000 n 
+0000020658 00000 n 
+0000020964 00000 n 
+0000021357 00000 n 
+0000021677 00000 n 
+0000021977 00000 n 
+0000022393 00000 n 
+0000022705 00000 n 
+0000023005 00000 n 
+0000023291 00000 n 
+0000023617 00000 n 
+0000023906 00000 n 
+0000024195 00000 n 
+0000024611 00000 n 
+0000025040 00000 n 
+0000025319 00000 n 
+0000025647 00000 n 
+0000025974 00000 n 
+0000026275 00000 n 
+0000026575 00000 n 
+0000026991 00000 n 
+0000027269 00000 n 
+0000027568 00000 n 
+0000027885 00000 n 
+0000028186 00000 n 
+0000028492 00000 n 
+0000028885 00000 n 
+0000029205 00000 n 
+0000029505 00000 n 
+0000029921 00000 n 
+0000030233 00000 n 
+0000030533 00000 n 
+0000030819 00000 n 
+0000031145 00000 n 
+0000031434 00000 n 
+0000031723 00000 n 
+0000032139 00000 n 
+0000032568 00000 n 
+0000032847 00000 n 
+0000033176 00000 n 
+0000033504 00000 n 
+0000033806 00000 n 
+0000034107 00000 n 
+0000034524 00000 n 
+0000034803 00000 n 
+0000035103 00000 n 
+0000035421 00000 n 
+0000035723 00000 n 
+0000036030 00000 n 
+0000036424 00000 n 
+0000036745 00000 n 
+0000037046 00000 n 
+0000037463 00000 n 
+0000037776 00000 n 
+0000038077 00000 n 
+0000038364 00000 n 
+0000038691 00000 n 
+0000038981 00000 n 
+0000039271 00000 n 
+0000070788 00000 n 
+0000070887 00000 n 
+0000070986 00000 n 
+0000071085 00000 n 
+0000071184 00000 n 
+0000071283 00000 n 
+0000071387 00000 n 
+0000071491 00000 n 
+0000071595 00000 n 
+0000071699 00000 n 
+0000071803 00000 n 
+0000071914 00000 n 
+0000072025 00000 n 
+0000072136 00000 n 
+0000072247 00000 n 
+0000072358 00000 n 
+0000072465 00000 n 
+0000072572 00000 n 
+0000072679 00000 n 
+0000072786 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 141 /ID [<747a315f05c366a335281b73d9ba6eef><747a315f05c366a335281b73d9ba6eef>] >>
+startxref
+72893
+%%EOF

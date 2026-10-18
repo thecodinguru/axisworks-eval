@@ -1,0 +1,6 @@
+repository: https://github.com/betrusted-io/betrusted-hardware
+commit: fecea1061a07330163fad5ab834a63d52f23e575
+publisher: bunnie studios / betrusted.io (Precursor)
+license (SPDX): CERN-OHL-1.2
+license text: https://ohwr.org/project/licenses/wikis/cern-ohl-v1.2
+evidence: LICENSE + README.md
