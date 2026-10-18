@@ -1,0 +1,599 @@
+revision_group,sheet_id,publisher,source_path,page,category
+REVGRP-0001,DRW-01259,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_brd.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0001,DRW-01260,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_brd.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0001,DRW-01275,BeagleBoard.org Foundation,BeagleBone-AI_brd.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0002,DRW-01261,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,1,electrical_schematic
+REVGRP-0002,DRW-01262,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,2,electrical_schematic
+REVGRP-0002,DRW-01263,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,3,electrical_schematic
+REVGRP-0002,DRW-01264,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,4,electrical_schematic
+REVGRP-0002,DRW-01265,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,5,electrical_schematic
+REVGRP-0002,DRW-01266,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,6,electrical_schematic
+REVGRP-0002,DRW-01267,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,7,electrical_schematic
+REVGRP-0002,DRW-01268,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,8,electrical_schematic
+REVGRP-0002,DRW-01269,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,9,electrical_schematic
+REVGRP-0002,DRW-01270,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,10,electrical_schematic
+REVGRP-0002,DRW-01271,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,11,electrical_schematic
+REVGRP-0002,DRW-01272,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,12,electrical_schematic
+REVGRP-0002,DRW-01273,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,13,electrical_schematic
+REVGRP-0002,DRW-01274,BeagleBoard.org Foundation,BeagleBone-AI_RevA2_sch.pdf,14,electrical_schematic
+REVGRP-0002,DRW-01276,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,1,electrical_schematic
+REVGRP-0002,DRW-01277,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,2,electrical_schematic
+REVGRP-0002,DRW-01278,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,3,electrical_schematic
+REVGRP-0002,DRW-01279,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,4,electrical_schematic
+REVGRP-0002,DRW-01280,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,5,electrical_schematic
+REVGRP-0002,DRW-01281,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,6,electrical_schematic
+REVGRP-0002,DRW-01282,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,7,electrical_schematic
+REVGRP-0002,DRW-01283,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,8,electrical_schematic
+REVGRP-0002,DRW-01284,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,9,electrical_schematic
+REVGRP-0002,DRW-01285,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,10,electrical_schematic
+REVGRP-0002,DRW-01286,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,11,electrical_schematic
+REVGRP-0002,DRW-01287,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,12,electrical_schematic
+REVGRP-0002,DRW-01288,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,13,electrical_schematic
+REVGRP-0002,DRW-01289,BeagleBoard.org Foundation,BeagleBone-AI_sch.pdf,14,electrical_schematic
+REVGRP-0003,DRW-01333,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,1,electrical_schematic
+REVGRP-0003,DRW-01334,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,2,electrical_schematic
+REVGRP-0003,DRW-01335,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,3,electrical_schematic
+REVGRP-0003,DRW-01336,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,4,electrical_schematic
+REVGRP-0003,DRW-01337,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,5,electrical_schematic
+REVGRP-0003,DRW-01338,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,6,electrical_schematic
+REVGRP-0003,DRW-01339,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,7,electrical_schematic
+REVGRP-0003,DRW-01340,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,8,electrical_schematic
+REVGRP-0003,DRW-01341,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,9,electrical_schematic
+REVGRP-0003,DRW-01342,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,10,electrical_schematic
+REVGRP-0003,DRW-01343,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,11,electrical_schematic
+REVGRP-0003,DRW-01344,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,12,electrical_schematic
+REVGRP-0003,DRW-01345,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,13,electrical_schematic
+REVGRP-0003,DRW-01346,BeagleBoard.org Foundation,design/old/PocketBeagle2 sch v0.3 20221102.pdf,14,electrical_schematic
+REVGRP-0003,DRW-01379,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,1,electrical_schematic
+REVGRP-0003,DRW-01380,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,5,electrical_schematic
+REVGRP-0003,DRW-01381,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,9,electrical_schematic
+REVGRP-0003,DRW-01382,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,10,electrical_schematic
+REVGRP-0003,DRW-01383,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,11,electrical_schematic
+REVGRP-0003,DRW-01384,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,12,electrical_schematic
+REVGRP-0003,DRW-01385,BeagleBoard.org Foundation,design/old/pocketbeagle2 v07_sch.pdf,13,electrical_schematic
+REVGRP-0003,DRW-01389,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,1,electrical_schematic
+REVGRP-0003,DRW-01390,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,2,electrical_schematic
+REVGRP-0003,DRW-01391,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,3,electrical_schematic
+REVGRP-0003,DRW-01392,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,5,electrical_schematic
+REVGRP-0003,DRW-01393,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,6,electrical_schematic
+REVGRP-0003,DRW-01394,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,7,electrical_schematic
+REVGRP-0003,DRW-01395,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,8,electrical_schematic
+REVGRP-0003,DRW-01396,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,9,electrical_schematic
+REVGRP-0003,DRW-01397,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,10,electrical_schematic
+REVGRP-0003,DRW-01398,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,11,electrical_schematic
+REVGRP-0003,DRW-01399,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,12,electrical_schematic
+REVGRP-0003,DRW-01400,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,13,electrical_schematic
+REVGRP-0003,DRW-01401,BeagleBoard.org Foundation,pocketbeagle2_sch.pdf,14,electrical_schematic
+REVGRP-0004,DRW-00377,Framework Computer Inc,Hinges/13_5_hinge_l_assy_00.pdf,1,mechanical_drawing
+REVGRP-0004,DRW-00378,Framework Computer Inc,Hinges/13_5_hinge_l_assy_00.pdf,2,mechanical_drawing
+REVGRP-0004,DRW-01960,Framework Computer Inc,Hinges/13_5_hinge_l_assy_1.dxf,1,cad_dxf
+REVGRP-0004,DRW-01961,Framework Computer Inc,Hinges/13_5_hinge_l_assy_2.dxf,1,cad_dxf
+REVGRP-0005,DRW-00375,Framework Computer Inc,Hinges/13_5_hinge_R_assy_00.pdf,1,mechanical_drawing
+REVGRP-0005,DRW-00376,Framework Computer Inc,Hinges/13_5_hinge_R_assy_00.pdf,2,mechanical_drawing
+REVGRP-0005,DRW-01962,Framework Computer Inc,Hinges/13_5_hinge_r_assy_1.dxf,1,cad_dxf
+REVGRP-0005,DRW-01963,Framework Computer Inc,Hinges/13_5_hinge_r_assy_2.dxf,1,cad_dxf
+REVGRP-0006,DRW-00521,Framework Computer Inc,Tiles/FRAMEWORK_DESKTOP_BLANK_TILE_V0.pdf,1,mechanical_drawing
+REVGRP-0006,DRW-00522,Framework Computer Inc,Tiles/FRAMEWORK_DESKTOP_BLANK_TILE_V0.pdf,2,mechanical_drawing
+REVGRP-0006,DRW-00523,Framework Computer Inc,Tiles/FRAMEWORK_DESKTOP_BLANK_TILE_V0.pdf,3,mechanical_drawing
+REVGRP-0006,DRW-01978,Framework Computer Inc,Tiles/framework_desktop_blank_tile_v0_1.dxf,1,cad_dxf
+REVGRP-0006,DRW-01979,Framework Computer Inc,Tiles/framework_desktop_blank_tile_v0_2.dxf,1,cad_dxf
+REVGRP-0006,DRW-01980,Framework Computer Inc,Tiles/framework_desktop_blank_tile_v0_3.dxf,1,cad_dxf
+REVGRP-0007,DRW-00501,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,1,mechanical_drawing
+REVGRP-0007,DRW-00502,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,2,mechanical_drawing
+REVGRP-0007,DRW-00503,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,3,mechanical_drawing
+REVGRP-0007,DRW-00504,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,4,mechanical_drawing
+REVGRP-0007,DRW-00505,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,5,mechanical_drawing
+REVGRP-0007,DRW-00506,Framework Computer Inc,Mainboard/FRAMEWORK_DESKTOP_MAIN_PCB_V0.pdf,6,mechanical_drawing
+REVGRP-0007,DRW-01972,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_1.dxf,1,cad_dxf
+REVGRP-0007,DRW-01973,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_2.dxf,1,cad_dxf
+REVGRP-0007,DRW-01974,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_3.dxf,1,cad_dxf
+REVGRP-0007,DRW-01975,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_4.dxf,1,cad_dxf
+REVGRP-0007,DRW-01976,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_5.dxf,1,cad_dxf
+REVGRP-0007,DRW-01977,Framework Computer Inc,Mainboard/framework_desktop_main_pcb_v0_6.dxf,1,cad_dxf
+REVGRP-0008,DRW-00499,Framework Computer Inc,Case/FRAMEWORK_DESKTOP_TOPCOVER_V0.pdf,1,mechanical_drawing
+REVGRP-0008,DRW-00500,Framework Computer Inc,Case/FRAMEWORK_DESKTOP_TOPCOVER_V0.pdf,2,mechanical_drawing
+REVGRP-0008,DRW-01970,Framework Computer Inc,Case/framework_desktop_topcover_v0_1.dxf,1,cad_dxf
+REVGRP-0008,DRW-01971,Framework Computer Inc,Case/framework_desktop_topcover_v0_2.dxf,1,cad_dxf
+REVGRP-0009,DRW-01983,Framework Computer Inc,Dual SSD Reference Design/fw_ssd_pcb_ref_design_0_1.dxf,1,cad_dxf
+REVGRP-0009,DRW-01984,Framework Computer Inc,Dual SSD Reference Design/fw_ssd_pcb_ref_design_0_2.dxf,1,cad_dxf
+REVGRP-0010,DRW-00431,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,1,electrical_schematic
+REVGRP-0010,DRW-00432,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,2,electrical_schematic
+REVGRP-0010,DRW-00433,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,3,electrical_schematic
+REVGRP-0010,DRW-00434,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,4,electrical_schematic
+REVGRP-0010,DRW-00435,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,5,electrical_schematic
+REVGRP-0010,DRW-00436,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,6,electrical_schematic
+REVGRP-0010,DRW-00437,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,7,electrical_schematic
+REVGRP-0010,DRW-00438,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,8,electrical_schematic
+REVGRP-0010,DRW-00439,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_1.pdf,9,electrical_schematic
+REVGRP-0010,DRW-00440,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,1,electrical_schematic
+REVGRP-0010,DRW-00441,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,2,electrical_schematic
+REVGRP-0010,DRW-00442,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,3,electrical_schematic
+REVGRP-0010,DRW-00443,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,4,electrical_schematic
+REVGRP-0010,DRW-00444,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,5,electrical_schematic
+REVGRP-0010,DRW-00445,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,6,electrical_schematic
+REVGRP-0010,DRW-00446,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,7,electrical_schematic
+REVGRP-0010,DRW-00447,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,8,electrical_schematic
+REVGRP-0010,DRW-00448,Framework Computer Inc,Mainboard/Mainboard_Interfaces_Schematic_Intel_Core_Ultra_Series_3.pdf,9,electrical_schematic
+REVGRP-0011,DRW-01500,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revA/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01501,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revA/output/fabrication.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01505,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revB/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01508,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01509,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/fabrication.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01514,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01515,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/fabrication.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01520,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01521,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/fabrication.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01526,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/fabrication.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0011,DRW-01527,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/fabrication.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0012,DRW-01502,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revA/output/glasgow-drl_map.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0012,DRW-01510,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/glasgow-drl_map.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0012,DRW-01516,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/glasgow-drl_map.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0012,DRW-01522,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/glasgow-drl_map.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0012,DRW-01528,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/glasgow-drl_map.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0013,DRW-01503,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revA/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01504,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revA/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01506,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revB/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01507,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revB/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01511,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01512,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01513,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC0/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01517,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01518,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01519,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC1/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01523,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01524,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01525,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC2/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01529,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01530,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01531,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01532,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revC3/output/schematics.pdf,4,electrical_schematic
+REVGRP-0013,DRW-01533,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01534,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01535,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01536,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,4,electrical_schematic
+REVGRP-0013,DRW-01537,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,5,electrical_schematic
+REVGRP-0013,DRW-01538,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,6,electrical_schematic
+REVGRP-0013,DRW-01539,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,7,electrical_schematic
+REVGRP-0013,DRW-01540,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,8,electrical_schematic
+REVGRP-0013,DRW-01541,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD0/output/schematics.pdf,9,electrical_schematic
+REVGRP-0013,DRW-01542,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01543,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01544,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,3,electrical_schematic
+REVGRP-0013,DRW-01545,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,4,electrical_schematic
+REVGRP-0013,DRW-01546,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,5,electrical_schematic
+REVGRP-0013,DRW-01547,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,6,electrical_schematic
+REVGRP-0013,DRW-01548,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,7,electrical_schematic
+REVGRP-0013,DRW-01549,Glasgow Interface Explorer contributors,hardware/boards/glasgow/revD1/output/schematics.pdf,8,electrical_schematic
+REVGRP-0013,DRW-01550,Glasgow Interface Explorer contributors,hardware/boards/test-jig/schematics.pdf,1,electrical_schematic
+REVGRP-0013,DRW-01551,Glasgow Interface Explorer contributors,hardware/boards/test-jig/schematics.pdf,2,electrical_schematic
+REVGRP-0013,DRW-01552,Glasgow Interface Explorer contributors,hardware/boards/test-jig/schematics.pdf,3,electrical_schematic
+REVGRP-0014,DRW-01809,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Block_Diagram.pdf,1,block_diagram
+REVGRP-0014,DRW-01816,Lime Microsystems / MyriadRF,archived/1v0/hardware/PDF/LimeRFE_1v0_Block_Diagram.pdf,1,block_diagram
+REVGRP-0014,DRW-01817,Lime Microsystems / MyriadRF,archived/1v2/docs/LimeRFE_1v2_Block_Diagram.pdf,1,block_diagram
+REVGRP-0015,DRW-01810,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,1,electrical_schematic
+REVGRP-0015,DRW-01811,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,3,electrical_schematic
+REVGRP-0015,DRW-01812,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,5,electrical_schematic
+REVGRP-0015,DRW-01813,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,7,electrical_schematic
+REVGRP-0015,DRW-01814,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,8,electrical_schematic
+REVGRP-0015,DRW-01815,Lime Microsystems / MyriadRF,archived/1v0/docs/LimeRFE_1v0_Schematic.pdf,12,electrical_schematic
+REVGRP-0015,DRW-01818,Lime Microsystems / MyriadRF,archived/1v2/docs/LimeRFE_1v2_Schematic.pdf,7,electrical_schematic
+REVGRP-0015,DRW-01819,Lime Microsystems / MyriadRF,archived/1v2/docs/LimeRFE_1v2_Schematic.pdf,9,electrical_schematic
+REVGRP-0015,DRW-01820,Lime Microsystems / MyriadRF,archived/1v2/docs/LimeRFE_1v2_Schematic.pdf,12,electrical_schematic
+REVGRP-0016,DRW-01553,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,1,electrical_schematic
+REVGRP-0016,DRW-01554,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,2,electrical_schematic
+REVGRP-0016,DRW-01555,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,3,electrical_schematic
+REVGRP-0016,DRW-01556,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,4,electrical_schematic
+REVGRP-0016,DRW-01557,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,5,electrical_schematic
+REVGRP-0016,DRW-01558,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,6,electrical_schematic
+REVGRP-0016,DRW-01559,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,7,electrical_schematic
+REVGRP-0016,DRW-01560,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,8,electrical_schematic
+REVGRP-0016,DRW-01561,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,9,electrical_schematic
+REVGRP-0016,DRW-01562,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,10,electrical_schematic
+REVGRP-0016,DRW-01563,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,11,electrical_schematic
+REVGRP-0016,DRW-01564,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,12,electrical_schematic
+REVGRP-0016,DRW-01565,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,13,electrical_schematic
+REVGRP-0016,DRW-01566,Lime Microsystems / MyriadRF,hardware/plug/1v2/Project Outputs for LimeSDR_1v2/LimeSDR_1v2_schematic.PDF,14,electrical_schematic
+REVGRP-0016,DRW-01581,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,1,electrical_schematic
+REVGRP-0016,DRW-01582,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,2,electrical_schematic
+REVGRP-0016,DRW-01583,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,3,electrical_schematic
+REVGRP-0016,DRW-01584,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,4,electrical_schematic
+REVGRP-0016,DRW-01585,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,5,electrical_schematic
+REVGRP-0016,DRW-01586,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,6,electrical_schematic
+REVGRP-0016,DRW-01587,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,7,electrical_schematic
+REVGRP-0016,DRW-01588,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,8,electrical_schematic
+REVGRP-0016,DRW-01589,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,9,electrical_schematic
+REVGRP-0016,DRW-01590,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,10,electrical_schematic
+REVGRP-0016,DRW-01591,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,11,electrical_schematic
+REVGRP-0016,DRW-01592,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,12,electrical_schematic
+REVGRP-0016,DRW-01593,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,13,electrical_schematic
+REVGRP-0016,DRW-01594,Lime Microsystems / MyriadRF,hardware/socket/1v2/Project Outputs for LimeSDR_1v2s/LimeSDR_1v2s_schematic.PDF,14,electrical_schematic
+REVGRP-0017,DRW-01864,Lime Microsystems / MyriadRF,hardware/mPCIe/1v0/LimeSDR-Micro_1v0_DB_DFMr1/LimeSDR-Micro_1v0_Assembly_Drawings_r1.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0017,DRW-01865,Lime Microsystems / MyriadRF,hardware/mPCIe/1v0/LimeSDR-Micro_1v0_DB_DFMr1/LimeSDR-Micro_1v0_Assembly_Drawings_r1.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0017,DRW-01866,Lime Microsystems / MyriadRF,hardware/mPCIe/1v1/Project Outputs for LimeSDR-Micro_1v1/LimeSDR-Micro_1v1_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0017,DRW-01867,Lime Microsystems / MyriadRF,hardware/mPCIe/1v1/Project Outputs for LimeSDR-Micro_1v1/LimeSDR-Micro_1v1_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0017,DRW-01868,Lime Microsystems / MyriadRF,hardware/mPCIe/1v2/Project Outputs for LimeSDR-Micro_1v2/LimeSDR-Micro_1v2_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0017,DRW-01869,Lime Microsystems / MyriadRF,hardware/mPCIe/1v2/Project Outputs for LimeSDR-Micro_1v2/LimeSDR-Micro_1v2_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0018,DRW-01848,Lime Microsystems / MyriadRF,hardware/M.2/1v0/LimeSDR-Micro_M.2_2280_1v0_DB_DFMr3/LimeSDR-Micro_M.2_2280_1v0_Assembly_Drawings_r3.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0018,DRW-01849,Lime Microsystems / MyriadRF,hardware/M.2/1v0/LimeSDR-Micro_M.2_2280_1v0_DB_DFMr3/LimeSDR-Micro_M.2_2280_1v0_Assembly_Drawings_r3.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0018,DRW-01862,Lime Microsystems / MyriadRF,hardware/M.2/1v2/Project Outputs for LimeSDR-Micro_M.2_2280_1v2/LimeSDR-Micro_M.2_2280_1v2_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0018,DRW-01863,Lime Microsystems / MyriadRF,hardware/M.2/1v2/Project Outputs for LimeSDR-Micro_M.2_2280_1v2/LimeSDR-Micro_M.2_2280_1v2_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0019,DRW-01598,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,1,electrical_schematic
+REVGRP-0019,DRW-01599,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,2,electrical_schematic
+REVGRP-0019,DRW-01600,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,3,electrical_schematic
+REVGRP-0019,DRW-01601,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,4,electrical_schematic
+REVGRP-0019,DRW-01602,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,5,electrical_schematic
+REVGRP-0019,DRW-01603,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,6,electrical_schematic
+REVGRP-0019,DRW-01604,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,7,electrical_schematic
+REVGRP-0019,DRW-01605,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,8,electrical_schematic
+REVGRP-0019,DRW-01606,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_schematic_r0.PDF,9,electrical_schematic
+REVGRP-0019,DRW-01609,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,1,electrical_schematic
+REVGRP-0019,DRW-01610,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,2,electrical_schematic
+REVGRP-0019,DRW-01611,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,4,electrical_schematic
+REVGRP-0019,DRW-01612,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,5,electrical_schematic
+REVGRP-0019,DRW-01613,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,6,electrical_schematic
+REVGRP-0019,DRW-01614,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,8,electrical_schematic
+REVGRP-0019,DRW-01615,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_schematic_r1.PDF,9,electrical_schematic
+REVGRP-0019,DRW-01618,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_schematic_r1.PDF,2,electrical_schematic
+REVGRP-0019,DRW-01619,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_schematic_r1.PDF,5,electrical_schematic
+REVGRP-0019,DRW-01620,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_schematic_r1.PDF,6,electrical_schematic
+REVGRP-0019,DRW-01621,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_schematic_r1.PDF,7,electrical_schematic
+REVGRP-0019,DRW-01622,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_schematic_r1.PDF,9,electrical_schematic
+REVGRP-0019,DRW-01625,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_schematic_r0.PDF,2,electrical_schematic
+REVGRP-0019,DRW-01626,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_schematic_r0.PDF,6,electrical_schematic
+REVGRP-0019,DRW-01627,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_schematic_r0.PDF,7,electrical_schematic
+REVGRP-0019,DRW-01628,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_schematic_r0.PDF,8,electrical_schematic
+REVGRP-0019,DRW-01629,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_schematic_r0.PDF,9,electrical_schematic
+REVGRP-0020,DRW-01596,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01597,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs for LimeSDR_Mini_1v0/LimeSDR_Mini_1v0_Single_Brd_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01607,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01608,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR_Mini_1v1/LimeSDR_Mini_1v1_Single_Brd_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01616,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_Single_Brd_Assembly_Drawings_r1.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01617,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR_Mini_1v2/LimeSDR_Mini_1v2_Single_Brd_Assembly_Drawings_r1.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01623,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0020,DRW-01624,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR_Mini_1v3/LimeSDR_Mini_1v3_Single_Brd_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0021,DRW-01674,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,1,electrical_schematic
+REVGRP-0021,DRW-01675,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,2,electrical_schematic
+REVGRP-0021,DRW-01676,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,3,electrical_schematic
+REVGRP-0021,DRW-01677,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,4,electrical_schematic
+REVGRP-0021,DRW-01678,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,5,electrical_schematic
+REVGRP-0021,DRW-01679,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,6,electrical_schematic
+REVGRP-0021,DRW-01680,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,7,electrical_schematic
+REVGRP-0021,DRW-01681,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,8,electrical_schematic
+REVGRP-0021,DRW-01682,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,9,electrical_schematic
+REVGRP-0021,DRW-01683,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_schematic_r0.PDF,10,electrical_schematic
+REVGRP-0021,DRW-01684,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,2,electrical_schematic
+REVGRP-0021,DRW-01685,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,3,electrical_schematic
+REVGRP-0021,DRW-01686,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,4,electrical_schematic
+REVGRP-0021,DRW-01687,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,5,electrical_schematic
+REVGRP-0021,DRW-01688,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,6,electrical_schematic
+REVGRP-0021,DRW-01689,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,8,electrical_schematic
+REVGRP-0021,DRW-01690,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,9,electrical_schematic
+REVGRP-0021,DRW-01691,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Schematic_r1.PDF,10,electrical_schematic
+REVGRP-0021,DRW-01694,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,3,electrical_schematic
+REVGRP-0021,DRW-01695,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,4,electrical_schematic
+REVGRP-0021,DRW-01696,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,6,electrical_schematic
+REVGRP-0021,DRW-01697,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,7,electrical_schematic
+REVGRP-0021,DRW-01698,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0021,DRW-01699,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0021,DRW-01701,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Schematic_r0.PDF,1,electrical_schematic
+REVGRP-0021,DRW-01702,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Schematic_r0.PDF,3,electrical_schematic
+REVGRP-0021,DRW-01703,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0021,DRW-01704,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0021,DRW-01707,Lime Microsystems / MyriadRF,hardware/2v4/Project Outputs for LimeSDR-Mini_2v4/LimeSDR-Mini_2v4_Schematic_r0.PDF,5,electrical_schematic
+REVGRP-0021,DRW-01708,Lime Microsystems / MyriadRF,hardware/2v4/Project Outputs for LimeSDR-Mini_2v4/LimeSDR-Mini_2v4_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0021,DRW-01709,Lime Microsystems / MyriadRF,hardware/2v4/Project Outputs for LimeSDR-Mini_2v4/LimeSDR-Mini_2v4_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0022,DRW-01672,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01673,Lime Microsystems / MyriadRF,hardware/2v0/Project Outputs for LimeSDR_Mini_2v0/LimeSDR_Mini_2v0_Single_Brd_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01692,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Single_Brd_Assembly_Drawings_r1.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01693,Lime Microsystems / MyriadRF,hardware/2v1/Project Outputs/LimeSDR-Mini_2v1_Single_Brd_Assembly_Drawings_r1.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01700,Lime Microsystems / MyriadRF,hardware/2v2/Project Outputs/LimeSDR-Mini_2v2_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01705,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01706,Lime Microsystems / MyriadRF,hardware/2v3/Project Outputs for LimeSDR-Mini_2v3/LimeSDR-Mini_2v3_Single_Brd_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0022,DRW-01710,Lime Microsystems / MyriadRF,hardware/2v4/Project Outputs for LimeSDR-Mini_2v4/LimeSDR-Mini_2v4_Single_Brd_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0023,DRW-01567,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,1,electrical_schematic
+REVGRP-0023,DRW-01568,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,2,electrical_schematic
+REVGRP-0023,DRW-01569,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,3,electrical_schematic
+REVGRP-0023,DRW-01570,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,4,electrical_schematic
+REVGRP-0023,DRW-01571,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,5,electrical_schematic
+REVGRP-0023,DRW-01572,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,6,electrical_schematic
+REVGRP-0023,DRW-01573,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,7,electrical_schematic
+REVGRP-0023,DRW-01574,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,8,electrical_schematic
+REVGRP-0023,DRW-01575,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,9,electrical_schematic
+REVGRP-0023,DRW-01576,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,10,electrical_schematic
+REVGRP-0023,DRW-01577,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,11,electrical_schematic
+REVGRP-0023,DRW-01578,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,12,electrical_schematic
+REVGRP-0023,DRW-01579,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,13,electrical_schematic
+REVGRP-0023,DRW-01580,Lime Microsystems / MyriadRF,hardware/plug/1v4/Project Outputs for LimeSDR-USB_1v4_LMS031pad/LimeSDR-USB_1v4_schematic_r7.PDF,14,electrical_schematic
+REVGRP-0023,DRW-01595,Lime Microsystems / MyriadRF,hardware/socket/1v4/Project Outputs for LimeSDR-USB_1v4s_LMS031pad/LimeSDR-USB_1v4s_schematic_r7.PDF,12,electrical_schematic
+REVGRP-0024,DRW-01721,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01722,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01742,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01743,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01750,Lime Microsystems / MyriadRF,hardware/1v2/LimeSDR-XTRX_1v2_DB_DFMr0/LimeSDR-XTRX_1v2_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01751,Lime Microsystems / MyriadRF,hardware/1v2/LimeSDR-XTRX_1v2_DB_DFMr0/LimeSDR-XTRX_1v2_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01761,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01762,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01774,Lime Microsystems / MyriadRF,hardware/1v4/Project Outputs for LimeSDR-XTRX_1v4/LimeSDR-XTRX_1v4_Assembly_Drawings_r0.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0024,DRW-01775,Lime Microsystems / MyriadRF,hardware/1v4/Project Outputs for LimeSDR-XTRX_1v4/LimeSDR-XTRX_1v4_Assembly_Drawings_r0.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0025,DRW-01723,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,1,electrical_schematic
+REVGRP-0025,DRW-01724,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,2,electrical_schematic
+REVGRP-0025,DRW-01725,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,3,electrical_schematic
+REVGRP-0025,DRW-01726,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,4,electrical_schematic
+REVGRP-0025,DRW-01727,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,5,electrical_schematic
+REVGRP-0025,DRW-01728,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,6,electrical_schematic
+REVGRP-0025,DRW-01729,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,7,electrical_schematic
+REVGRP-0025,DRW-01730,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0025,DRW-01731,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,9,electrical_schematic
+REVGRP-0025,DRW-01732,Lime Microsystems / MyriadRF,hardware/1v0/Project Outputs/LimeSDR-XTRX_1v0_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0025,DRW-01733,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,1,electrical_schematic
+REVGRP-0025,DRW-01734,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,2,electrical_schematic
+REVGRP-0025,DRW-01735,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,4,electrical_schematic
+REVGRP-0025,DRW-01736,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,5,electrical_schematic
+REVGRP-0025,DRW-01737,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,6,electrical_schematic
+REVGRP-0025,DRW-01738,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,7,electrical_schematic
+REVGRP-0025,DRW-01739,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0025,DRW-01740,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,9,electrical_schematic
+REVGRP-0025,DRW-01741,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs for LimeSDR-XTRX_1v1/LimeSDR-XTRX_1v1_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0025,DRW-01744,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,2,electrical_schematic
+REVGRP-0025,DRW-01745,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,5,electrical_schematic
+REVGRP-0025,DRW-01746,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,7,electrical_schematic
+REVGRP-0025,DRW-01747,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0025,DRW-01748,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,9,electrical_schematic
+REVGRP-0025,DRW-01749,Lime Microsystems / MyriadRF,hardware/1v1/Project Outputs/LimeSDR-XTRX_1v1_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0025,DRW-01752,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,1,electrical_schematic
+REVGRP-0025,DRW-01753,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,2,electrical_schematic
+REVGRP-0025,DRW-01754,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,3,electrical_schematic
+REVGRP-0025,DRW-01755,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,5,electrical_schematic
+REVGRP-0025,DRW-01756,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,6,electrical_schematic
+REVGRP-0025,DRW-01757,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,7,electrical_schematic
+REVGRP-0025,DRW-01758,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,8,electrical_schematic
+REVGRP-0025,DRW-01759,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,9,electrical_schematic
+REVGRP-0025,DRW-01760,Lime Microsystems / MyriadRF,hardware/1v2/Project Outputs for LimeSDR-XTRX_1v2/LimeSDR-XTRX_1v2_Schematic_r0.PDF,10,electrical_schematic
+REVGRP-0025,DRW-01763,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,1,electrical_schematic
+REVGRP-0025,DRW-01764,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,2,electrical_schematic
+REVGRP-0025,DRW-01765,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,3,electrical_schematic
+REVGRP-0025,DRW-01766,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,4,electrical_schematic
+REVGRP-0025,DRW-01767,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,5,electrical_schematic
+REVGRP-0025,DRW-01768,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,6,electrical_schematic
+REVGRP-0025,DRW-01769,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,7,electrical_schematic
+REVGRP-0025,DRW-01770,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,8,electrical_schematic
+REVGRP-0025,DRW-01771,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,9,electrical_schematic
+REVGRP-0025,DRW-01772,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,10,electrical_schematic
+REVGRP-0025,DRW-01773,Lime Microsystems / MyriadRF,hardware/1v3/Project Outputs for LimeSDR-XTRX_1v3/LimeSDR-XTRX_1v3_Schematic_r1.PDF,11,electrical_schematic
+REVGRP-0026,DRW-01930,Nitrokey GmbH,Nitrokey_Pro_v2_schematics.pdf,1,electrical_schematic
+REVGRP-0026,DRW-01931,Nitrokey GmbH,Nitrokey_Pro_v6_schematics.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01088,ODrive Robotics,v3/v3.1docs/schematic_v3.1.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01089,ODrive Robotics,v3/v3.1docs/schematic_v3.1.pdf,2,electrical_schematic
+REVGRP-0027,DRW-01090,ODrive Robotics,v3/v3.1docs/schematic_v3.1.pdf,3,electrical_schematic
+REVGRP-0027,DRW-01091,ODrive Robotics,v3/v3.1docs/schematic_v3.1.pdf,4,electrical_schematic
+REVGRP-0027,DRW-01092,ODrive Robotics,v3/v3.2docs/schematic_v3.2.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01093,ODrive Robotics,v3/v3.2docs/schematic_v3.2.pdf,2,electrical_schematic
+REVGRP-0027,DRW-01094,ODrive Robotics,v3/v3.2docs/schematic_v3.2.pdf,3,electrical_schematic
+REVGRP-0027,DRW-01095,ODrive Robotics,v3/v3.2docs/schematic_v3.2.pdf,4,electrical_schematic
+REVGRP-0027,DRW-01096,ODrive Robotics,v3/v3.3docs/schematic_v3.3.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01097,ODrive Robotics,v3/v3.3docs/schematic_v3.3.pdf,2,electrical_schematic
+REVGRP-0027,DRW-01098,ODrive Robotics,v3/v3.3docs/schematic_v3.3.pdf,3,electrical_schematic
+REVGRP-0027,DRW-01099,ODrive Robotics,v3/v3.3docs/schematic_v3.3.pdf,4,electrical_schematic
+REVGRP-0027,DRW-01100,ODrive Robotics,v3/v3.4docs/schematic_v3.4.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01101,ODrive Robotics,v3/v3.4docs/schematic_v3.4.pdf,2,electrical_schematic
+REVGRP-0027,DRW-01102,ODrive Robotics,v3/v3.4docs/schematic_v3.4.pdf,3,electrical_schematic
+REVGRP-0027,DRW-01103,ODrive Robotics,v3/v3.4docs/schematic_v3.4.pdf,4,electrical_schematic
+REVGRP-0027,DRW-01104,ODrive Robotics,v3/v3.5docs/schematic_v3.5.pdf,1,electrical_schematic
+REVGRP-0027,DRW-01105,ODrive Robotics,v3/v3.5docs/schematic_v3.5.pdf,2,electrical_schematic
+REVGRP-0027,DRW-01106,ODrive Robotics,v3/v3.5docs/schematic_v3.5.pdf,3,electrical_schematic
+REVGRP-0027,DRW-01107,ODrive Robotics,v3/v3.5docs/schematic_v3.5.pdf,4,electrical_schematic
+REVGRP-0028,DRW-00881,OLIMEX Ltd,HARDWARE/A10S-OLinuXino-MICRO/A10S-OLinuXino-MICRO_Rev_A.sch.pdf,1,electrical_schematic
+REVGRP-0028,DRW-00882,OLIMEX Ltd,HARDWARE/A10S-OLinuXino-MICRO/A10S-OLinuXino-MICRO_Rev_C.sch.pdf,1,electrical_schematic
+REVGRP-0028,DRW-00883,OLIMEX Ltd,HARDWARE/A10S-OLinuXino-MICRO/A10S-OLinuXino-MICRO_Rev_D.sch.pdf,1,electrical_schematic
+REVGRP-0029,DRW-00884,OLIMEX Ltd,HARDWARE/A13-OLinuXino-MICRO/1. Latest hardware revision/A13-OLinuXino-MICRO hardware revision C1/A13-OLinuXino-MICRO_Rev_C1.pdf,1,electrical_schematic
+REVGRP-0029,DRW-00886,OLIMEX Ltd,HARDWARE/A13-OLinuXino-MICRO/2. Older hardware revisions/A13-OLinuXino-MICRO hardware revision B/A13-OLinuXino-MICRO_Rev_B.pdf,1,electrical_schematic
+REVGRP-0030,DRW-00888,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision A/A13-OLinuXino_Rev_A.sch.pdf,1,electrical_schematic
+REVGRP-0030,DRW-00889,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision B/A13-OLinuXino_Rev_B.sch.pdf,1,electrical_schematic
+REVGRP-0030,DRW-00890,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision C/A13-OLinuXino_Rev_C.sch.pdf,1,electrical_schematic
+REVGRP-0031,DRW-00887,OLIMEX Ltd,HARDWARE/A13-OLinuXino/1. Latest hardware revision/A13-OLinuXino-WIFI hardware revision G2/A13-OLinuXino_WIFI_Rev_G2.pdf,1,electrical_schematic
+REVGRP-0031,DRW-00892,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision F/A13-OLinuXino_WIFI_Rev_F.pdf,1,electrical_schematic
+REVGRP-0031,DRW-00893,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision G/A13-OLinuXino_WIFI_Rev_G.pdf,1,electrical_schematic
+REVGRP-0031,DRW-00894,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision G1/A13-OLinuXino_WIFI_Rev_G1.pdf,1,electrical_schematic
+REVGRP-0031,DRW-00895,OLIMEX Ltd,HARDWARE/A13-OLinuXino/2. Older hardware revisions/A13-OLinuXino-WIFI hardware revision H/A13-OLinuXino_WIFI_Rev_H.pdf,1,electrical_schematic
+REVGRP-0032,DRW-00903,OLIMEX Ltd,HARDWARE/A33-OLinuXino/1. Latest hardware revision/A33-OLinuXino_Rev_C.pdf,1,electrical_schematic
+REVGRP-0032,DRW-00904,OLIMEX Ltd,HARDWARE/A33-OLinuXino/2. Older hardware revisions/A33-OLinuXino hardware revision A/A33-OLinuXino_Rev_A.pdf,1,electrical_schematic
+REVGRP-0032,DRW-00905,OLIMEX Ltd,HARDWARE/A33-OLinuXino/2. Older hardware revisions/A33-OLinuXino hardware revision B1/A33-OLinuXino_Rev_B1.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00906,OLIMEX Ltd,HARDWARE/A64-OLinuXino/1. Latest hardware revision/A64-OLinuXino hardware revision H/A64-OlinuXino_Rev_H.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00907,OLIMEX Ltd,HARDWARE/A64-OLinuXino/1. Latest hardware revision/A64-OLinuXino hardware revision H/A64-OlinuXino_Rev_H.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00908,OLIMEX Ltd,HARDWARE/A64-OLinuXino/1. Latest hardware revision/A64-OLinuXino hardware revision H/A64-OlinuXino_Rev_H.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00909,OLIMEX Ltd,HARDWARE/A64-OLinuXino/1. Latest hardware revision/A64-OLinuXino hardware revision H/A64-OlinuXino_Rev_H.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00910,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision A/A64-OlinuXino_Rev_A.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00911,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision A/A64-OlinuXino_Rev_A.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00912,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision A/A64-OlinuXino_Rev_A.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00913,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision A/A64-OlinuXino_Rev_A.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00914,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision B/A64-OLinuXino_Rev_B.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00915,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision B/A64-OLinuXino_Rev_B.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00916,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision B/A64-OLinuXino_Rev_B.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00917,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision B/A64-OLinuXino_Rev_B.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00918,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision C/A64-OLinuXino_Rev_C.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00919,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision C/A64-OLinuXino_Rev_C.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00920,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision C/A64-OLinuXino_Rev_C.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00921,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision C/A64-OLinuXino_Rev_C.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00934,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision E/A64-OlinuXino_Rev_E.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00935,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision E/A64-OlinuXino_Rev_E.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00936,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision E/A64-OlinuXino_Rev_E.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00937,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision E/A64-OlinuXino_Rev_E.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00938,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G/A64-OlinuXino_Rev_G.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00939,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G/A64-OlinuXino_Rev_G.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00940,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G/A64-OlinuXino_Rev_G.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00941,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G/A64-OlinuXino_Rev_G.pdf,4,electrical_schematic
+REVGRP-0033,DRW-00942,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G1/A64-OlinuXino_Rev_G1.pdf,1,electrical_schematic
+REVGRP-0033,DRW-00943,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G1/A64-OlinuXino_Rev_G1.pdf,2,electrical_schematic
+REVGRP-0033,DRW-00944,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G1/A64-OlinuXino_Rev_G1.pdf,3,electrical_schematic
+REVGRP-0033,DRW-00945,OLIMEX Ltd,HARDWARE/A64-OLinuXino/2. Older hardware revisions/A64-OLinuXino hardware revision G1/A64-OlinuXino_Rev_G1.pdf,4,electrical_schematic
+REVGRP-0034,DRW-01246,OLIMEX Ltd,HARDWARE/ESP32-C3-DevKit-Lipo_Rev_A/ESP32-C3-DevKit-Lipo_Rev_A.pdf,1,electrical_schematic
+REVGRP-0034,DRW-01247,OLIMEX Ltd,HARDWARE/ESP32-C3-DevKit-Lipo_Rev_B/ESP32-C3-DevKit-Lipo_Rev_B.pdf,1,electrical_schematic
+REVGRP-0034,DRW-01248,OLIMEX Ltd,HARDWARE/ESP32-C3-DevKit-Lipo_Rev_C/ESP32-C3-DevKit-Lipo_Rev_C.pdf,1,electrical_schematic
+REVGRP-0034,DRW-01249,OLIMEX Ltd,HARDWARE/ESP32-C3-DevKit-Lipo_Rev_D/ESP32-C3-DevKit-Lipo_Rev_D.pdf,1,electrical_schematic
+REVGRP-0035,DRW-01228,OLIMEX Ltd,HARDWARE/ESP32-DevKit-LiPo-Rev.A1/ESP32-DevKit-Lipo_Rev_A1.pdf,1,electrical_schematic
+REVGRP-0035,DRW-01229,OLIMEX Ltd,HARDWARE/ESP32-DevKit-LiPo-Rev.B/ESP32-DevKit-Lipo_Rev_B.pdf,1,electrical_schematic
+REVGRP-0035,DRW-01230,OLIMEX Ltd,HARDWARE/ESP32-DevKit-LiPo-Rev.C/ESP32-DevKit-Lipo_Rev_C.pdf,1,electrical_schematic
+REVGRP-0035,DRW-01231,OLIMEX Ltd,HARDWARE/ESP32-DevKit-LiPo-Rev.D/ESP32-DevKit-Lipo_Rev_D.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01233,OLIMEX Ltd,HARDWARE/REV-A/ESP32-EVB_Rev_A.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01234,OLIMEX Ltd,HARDWARE/REV-B/ESP32-EVB_Rev_B.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01235,OLIMEX Ltd,HARDWARE/REV-C/ESP32-EVB_Rev_C.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01236,OLIMEX Ltd,HARDWARE/REV-D/ESP32-EVB_Rev_D.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01237,OLIMEX Ltd,HARDWARE/REV-F/ESP32-EVB_Rev_F.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01238,OLIMEX Ltd,HARDWARE/REV-H/ESP32-EVB_Rev_H.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01239,OLIMEX Ltd,HARDWARE/REV-I/ESP32-EVB_Rev_I.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01240,OLIMEX Ltd,HARDWARE/REV-J/ESP32-EVB_Rev_J.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01241,OLIMEX Ltd,HARDWARE/REV-K/ESP32-EVB_Rev_K.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01242,OLIMEX Ltd,HARDWARE/REV-K1/ESP32-EVB_Rev_K1.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01243,OLIMEX Ltd,HARDWARE/REV-K2/ESP32-EVB_Rev_K2.pdf,1,electrical_schematic
+REVGRP-0036,DRW-01244,OLIMEX Ltd,HARDWARE/REV-L/ESP32-EVB_Rev_L.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01219,OLIMEX Ltd,HARDWARE/Hardware revision A/ESP32-GATEWAY_Rev_A.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01221,OLIMEX Ltd,HARDWARE/Hardware revision C/ESP32-GATEWAY_Rev_C.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01224,OLIMEX Ltd,HARDWARE/Hardware revision F/ESP32-GATEWAY_Rev_F.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01225,OLIMEX Ltd,HARDWARE/Hardware revision G/ESP32-GATEWAY_Rev_G.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01226,OLIMEX Ltd,HARDWARE/Hardware revision H/ESP32-GATEWAY_Rev_H.pdf,1,electrical_schematic
+REVGRP-0037,DRW-01227,OLIMEX Ltd,HARDWARE/Hardware revision I/ESP32-GATEWAY_Rev_I.pdf,1,electrical_schematic
+REVGRP-0038,DRW-01222,OLIMEX Ltd,HARDWARE/Hardware revision D/ESP32-GATEWAY_Rev_D_blackwhite.pdf,1,electrical_schematic
+REVGRP-0038,DRW-01223,OLIMEX Ltd,HARDWARE/Hardware revision E/ESP32-GATEWAY_Rev_E_blackwhite.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01206,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-B2/ESP32-PoE_Rev_B2.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01207,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-C/ESP32-PoE_Rev_C.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01208,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-D/ESP32-PoE_Rev_D.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01209,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-E/ESP32-PoE_Rev_E.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01210,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-G1/ESP32-PoE_Rev_G1.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01211,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-I/ESP32-PoE_Rev_I.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01212,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-J/ESP32-PoE_Rev_J.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01213,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-K/ESP32-PoE_Rev_K.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01214,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-L/ESP32-PoE_Rev_L.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01215,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-L1/ESP32-PoE_Rev_L1.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01216,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-M/ESP32-PoE_Rev_M.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01217,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-M1/ESP32-PoE_Rev_M1.pdf,1,electrical_schematic
+REVGRP-0039,DRW-01218,OLIMEX Ltd,HARDWARE/ESP32-PoE-hardware-revision-M2/ESP32-PoE_Rev_M2.pdf,1,electrical_schematic
+REVGRP-0040,DRW-00965,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-Maxi/2. Older hardware revisions/iMX233-OLinuXino-MAXI hardware revision B1/iMX233-OLINUXINO-MAXI_Rev_B1.sch.pdf,1,electrical_schematic
+REVGRP-0040,DRW-00966,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-Maxi/2. Older hardware revisions/iMX233-OLinuXino-MAXI hardware revision C2/iMX233-OLINUXINO-MAXI_Rev_C2.sch.pdf,1,electrical_schematic
+REVGRP-0041,DRW-00967,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-Micro/1. Latest hardware revision/iMX233-OLinuXino-MICRO hardware revision E/iMX233-OLinuXino-Micro_Rev_E.pdf,1,electrical_schematic
+REVGRP-0041,DRW-00969,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-Micro/2. Older hardware revisions/iMX233-OLinuXino-MICRO hardware revision C/iMX233-OLinuXino-Micro_Rev_C.pdf,1,electrical_schematic
+REVGRP-0041,DRW-00970,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-Micro/2. Older hardware revisions/iMX233-OLinuXino-MICRO hardware revision D/iMX233-OLinuXino-Micro_Rev_D.pdf,1,electrical_schematic
+REVGRP-0042,DRW-00973,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-NANO/1. Latest hardware revision/iMX233-OLinuXino-NANO hardware revision C/iMX233-OLinuXino-NANO_Rev_C.pdf,1,electrical_schematic
+REVGRP-0042,DRW-00974,OLIMEX Ltd,HARDWARE/iMX233-OLinuXino-NANO/2. Older hardware revisions/iMX233-OLinuXino-NANO hardware revision B/iMX233-OLinuXino-NANO_Rev_B.pdf,1,electrical_schematic
+REVGRP-0043,DRW-01256,OLIMEX Ltd,HARDWARE/Neo6502-rev-B/Neo6502_Rev_B.pdf,1,electrical_schematic
+REVGRP-0043,DRW-01257,OLIMEX Ltd,HARDWARE/Neo6502-rev-B1/Neo6502_Rev_B1.pdf,1,electrical_schematic
+REVGRP-0043,DRW-01258,OLIMEX Ltd,HARDWARE/New6502-Rev-A/Neo6502_Rev_A.pdf,1,electrical_schematic
+REVGRP-0044,DRW-00951,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino/1. Latest hardware revision/RT5350F-OLinuXino hardware revision F/RT5350F_OLinuXino_Rev_F.pdf,1,electrical_schematic
+REVGRP-0044,DRW-00952,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino/2. Older hardware revisions/RT5350F-OLinuXino hardware revision A1/RT5350F_OLinuXino_Rev-A.pdf,1,electrical_schematic
+REVGRP-0044,DRW-00954,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino/2. Older hardware revisions/RT5350F-OLinuXino hardware revision B/RT5350F_OLinuXino_Rev_B.pdf,1,electrical_schematic
+REVGRP-0044,DRW-00955,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino/2. Older hardware revisions/RT5350F-OLinuXino hardware revision C1/RT5350F_OLinuXino_Rev_C1.pdf,1,electrical_schematic
+REVGRP-0044,DRW-00956,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino/2. Older hardware revisions/RT5350F-OLinuXino hardware revision D/RT5350F_OLinuXino_Rev_D.pdf,1,electrical_schematic
+REVGRP-0045,DRW-00948,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino-EVB/1. Latest hardware revision/RT5350F-OLinuXino-EVB hardware reivison C/RT5350F_OLinuXino_EVB_Rev_C.pdf,1,electrical_schematic
+REVGRP-0045,DRW-00949,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino-EVB/2. Older hardware revisions/RT5350F-OLinuXino-EVB hardware reivison A/RT5350F_OLinuXino_EVB_Rev_A.pdf,1,electrical_schematic
+REVGRP-0045,DRW-00950,OLIMEX Ltd,HARDWARE/RT5350F-OLinuXino/RT5350F-OLinuXino-EVB/2. Older hardware revisions/RT5350F-OLinuXino-EVB hardware reivison B/RT5350F_OLinuXino_EVB_Rev_B.pdf,1,electrical_schematic
+REVGRP-0046,DRW-01254,OLIMEX Ltd,HARDWARE/RVPC-Rev.A/RVPC_Rev_A.pdf,1,electrical_schematic
+REVGRP-0046,DRW-01255,OLIMEX Ltd,HARDWARE/RVPC_Rev.B/RVPC_Rev_B.pdf,1,electrical_schematic
+REVGRP-0047,DRW-00199,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/center_pulley_at3_t10.PDF,1,mechanical_drawing
+REVGRP-0047,DRW-00200,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/center_pulley_at3_t10_inch.PDF,1,mechanical_drawing
+REVGRP-0048,DRW-00201,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/codewheel_modification.PDF,1,mechanical_drawing
+REVGRP-0048,DRW-00202,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/codewheel_modification_inch.PDF,1,mechanical_drawing
+REVGRP-0049,DRW-00203,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/motor_pulley_at3_t10.PDF,1,mechanical_drawing
+REVGRP-0049,DRW-00204,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/motor_pulley_at3_t10_inch.PDF,1,mechanical_drawing
+REVGRP-0050,DRW-00205,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/motor_shaft.PDF,1,mechanical_drawing
+REVGRP-0050,DRW-00206,Open Dynamic Robot Initiative (MPI-IS / NYU),mechanics/actuator_module_v1/drawings/motor_shaft_inch.PDF,1,mechanical_drawing
+REVGRP-0051,DRW-01880,Particle Industries,eagle/electron_v012/electron_v012_sch.pdf,1,electrical_schematic
+REVGRP-0051,DRW-01881,Particle Industries,eagle/electron_v012/electron_v012_sch.pdf,2,electrical_schematic
+REVGRP-0051,DRW-01882,Particle Industries,eagle/electron_v012/electron_v012_sch.pdf,3,electrical_schematic
+REVGRP-0051,DRW-01883,Particle Industries,eagle/electron_v012/electron_v012_sch.pdf,4,electrical_schematic
+REVGRP-0051,DRW-01887,Particle Industries,pdfs/particle-electron-v020/electron_v020_sch.pdf,1,electrical_schematic
+REVGRP-0051,DRW-01888,Particle Industries,pdfs/particle-electron-v020/electron_v020_sch.pdf,2,electrical_schematic
+REVGRP-0051,DRW-01889,Particle Industries,pdfs/particle-electron-v020/electron_v020_sch.pdf,3,electrical_schematic
+REVGRP-0051,DRW-01890,Particle Industries,pdfs/particle-electron-v020/electron_v020_sch.pdf,4,electrical_schematic
+REVGRP-0052,DRW-01876,Particle Industries,eagle/electron_v010/electron_v010_schematic.pdf,1,electrical_schematic
+REVGRP-0052,DRW-01877,Particle Industries,eagle/electron_v010/electron_v010_schematic.pdf,2,electrical_schematic
+REVGRP-0052,DRW-01878,Particle Industries,eagle/electron_v010/electron_v010_schematic.pdf,3,electrical_schematic
+REVGRP-0052,DRW-01879,Particle Industries,eagle/electron_v010/electron_v010_schematic.pdf,4,electrical_schematic
+REVGRP-0052,DRW-01891,Particle Industries,pdfs/particle-electron_v010/electron_v010_schematic.pdf,1,electrical_schematic
+REVGRP-0052,DRW-01892,Particle Industries,pdfs/particle-electron_v010/electron_v010_schematic.pdf,2,electrical_schematic
+REVGRP-0052,DRW-01893,Particle Industries,pdfs/particle-electron_v010/electron_v010_schematic.pdf,3,electrical_schematic
+REVGRP-0052,DRW-01894,Particle Industries,pdfs/particle-electron_v010/electron_v010_schematic.pdf,4,electrical_schematic
+REVGRP-0053,DRW-00157,Pixhawk / PX4 project,FMUv3_REV_D/PCB Print/Assembly.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0053,DRW-00158,Pixhawk / PX4 project,FMUv3_REV_D/PCB Print/Assembly.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0053,DRW-00170,Pixhawk / PX4 project,IMUv3_REV_C/PCB Print/Assembly.PDF,1,pcb_fab_assembly_drawing
+REVGRP-0053,DRW-00181,Pixhawk / PX4 project,PSMv3_REV_C/PCB Print/Assembly.PDF,2,pcb_fab_assembly_drawing
+REVGRP-0054,DRW-00159,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,1,electrical_schematic
+REVGRP-0054,DRW-00160,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,2,electrical_schematic
+REVGRP-0054,DRW-00161,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,3,electrical_schematic
+REVGRP-0054,DRW-00162,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,4,electrical_schematic
+REVGRP-0054,DRW-00163,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,5,electrical_schematic
+REVGRP-0054,DRW-00164,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,6,electrical_schematic
+REVGRP-0054,DRW-00165,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,7,electrical_schematic
+REVGRP-0054,DRW-00166,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,8,electrical_schematic
+REVGRP-0054,DRW-00167,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,9,electrical_schematic
+REVGRP-0054,DRW-00168,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,10,electrical_schematic
+REVGRP-0054,DRW-00169,Pixhawk / PX4 project,FMUv3_REV_D/Schematic Print/Schematic Prints.PDF,11,electrical_schematic
+REVGRP-0054,DRW-00171,Pixhawk / PX4 project,IMUv3_REV_C/Schematic Print/Schematic Prints.PDF,1,electrical_schematic
+REVGRP-0054,DRW-00182,Pixhawk / PX4 project,PSMv3_REV_C/Schematic Print/Schematic Prints.PDF,1,electrical_schematic
+REVGRP-0054,DRW-00183,Pixhawk / PX4 project,PSMv3_REV_C/Schematic Print/Schematic Prints.PDF,2,electrical_schematic
+REVGRP-0055,DRW-01934,Portland State Aerospace Society (OreSat),Cameras/OreSatLive/Build/dxwificardoresatlive.DXF,1,cad_dxf
+REVGRP-0055,DRW-01943,Portland State Aerospace Society (OreSat),Cards/build/dxwificardoresatlive.DXF,1,cad_dxf
+REVGRP-0056,DRW-01043,PyCubed (Stanford / Carnegie Mellon),batteryboard-v01/batteryboard.pdf,1,electrical_schematic
+REVGRP-0056,DRW-01044,PyCubed (Stanford / Carnegie Mellon),batteryboard-v01b/batteryboard.pdf,1,electrical_schematic
+REVGRP-0057,DRW-01045,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,1,electrical_schematic
+REVGRP-0057,DRW-01046,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,2,electrical_schematic
+REVGRP-0057,DRW-01047,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,3,electrical_schematic
+REVGRP-0057,DRW-01048,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,4,electrical_schematic
+REVGRP-0057,DRW-01049,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,5,electrical_schematic
+REVGRP-0057,DRW-01050,PyCubed (Stanford / Carnegie Mellon),mainboard-v01/mainboard.pdf,6,electrical_schematic
+REVGRP-0057,DRW-01051,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,1,electrical_schematic
+REVGRP-0057,DRW-01052,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,2,electrical_schematic
+REVGRP-0057,DRW-01053,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,3,electrical_schematic
+REVGRP-0057,DRW-01054,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,4,electrical_schematic
+REVGRP-0057,DRW-01055,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,5,electrical_schematic
+REVGRP-0057,DRW-01056,PyCubed (Stanford / Carnegie Mellon),mainboard-v02/mainboard.pdf,6,electrical_schematic
+REVGRP-0057,DRW-01057,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,1,electrical_schematic
+REVGRP-0057,DRW-01058,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,2,electrical_schematic
+REVGRP-0057,DRW-01059,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,3,electrical_schematic
+REVGRP-0057,DRW-01060,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,4,electrical_schematic
+REVGRP-0057,DRW-01061,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,5,electrical_schematic
+REVGRP-0057,DRW-01062,PyCubed (Stanford / Carnegie Mellon),mainboard-v04/mainboard.pdf,6,electrical_schematic
+REVGRP-0057,DRW-01063,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,1,electrical_schematic
+REVGRP-0057,DRW-01064,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,2,electrical_schematic
+REVGRP-0057,DRW-01065,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,3,electrical_schematic
+REVGRP-0057,DRW-01066,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,4,electrical_schematic
+REVGRP-0057,DRW-01067,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,5,electrical_schematic
+REVGRP-0057,DRW-01068,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,6,electrical_schematic
+REVGRP-0057,DRW-01069,PyCubed (Stanford / Carnegie Mellon),mainboard-v05/mainboard-v05.pdf,7,electrical_schematic
+REVGRP-0058,DRW-00872,Raspberry Pi Ltd,documentation/asciidoc/accessories/monitor/images/mechanical-drawing.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0058,DRW-00873,Raspberry Pi Ltd,documentation/asciidoc/accessories/monitor/images/mechanical-drawing.png,1,mechanical_outline_drawing
+REVGRP-0059,DRW-00265,Shenzhen Creality 3D Technology,2D/Support Frame.PDF,1,mechanical_drawing
+REVGRP-0059,DRW-00239,Shenzhen Creality 3D Technology,Ender-3 Mechanical/PDF/Support frame.pdf,1,mechanical_drawing
+REVGRP-0060,DRW-00269,Shenzhen Creality 3D Technology,2D/Y Adjustment Block.PDF,1,mechanical_drawing
+REVGRP-0060,DRW-00243,Shenzhen Creality 3D Technology,Ender-3 Mechanical/PDF/Y Adjustment Block.pdf,1,mechanical_drawing
+REVGRP-0061,DRW-00271,Shenzhen Creality 3D Technology,2D/Y limit switch bracket.PDF,1,mechanical_drawing
+REVGRP-0061,DRW-00245,Shenzhen Creality 3D Technology,Ender-3 Mechanical/PDF/Y limit switch bracket.pdf,1,mechanical_drawing
+REVGRP-0062,DRW-00270,Shenzhen Creality 3D Technology,2D/Y Motor holder.PDF,1,mechanical_drawing
+REVGRP-0062,DRW-00244,Shenzhen Creality 3D Technology,Ender-3 Mechanical/PDF/Y Motor holder.pdf,1,mechanical_drawing
+REVGRP-0063,DRW-00272,Shenzhen Creality 3D Technology,2D/Z Threaded Rod Holder-A.PDF,1,mechanical_drawing
+REVGRP-0063,DRW-00273,Shenzhen Creality 3D Technology,2D/Z Threaded Rod Holder-B.PDF,1,mechanical_drawing
+REVGRP-0064,DRW-00298,System76,chassis/launch-lite/Drawings/PN-000164 v28 v1.pdf,1,mechanical_drawing
+REVGRP-0064,DRW-00299,System76,chassis/launch-lite/Drawings/PN-000164 v28 v3.pdf,1,mechanical_drawing
+REVGRP-0065,DRW-00300,System76,chassis/launch-lite/Drawings/PN-000166 v11 v2.pdf,1,mechanical_drawing
+REVGRP-0065,DRW-00301,System76,chassis/launch-lite/Drawings/PN-000166 v11 v4.pdf,1,mechanical_drawing
+REVGRP-0066,DRW-01917,Where Labs LLC (Bus Pirate),bus_pirate_pcb/development/7-REV0A-prototype-1/plots/7-REV0__Assembly.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0066,DRW-01918,Where Labs LLC (Bus Pirate),bus_pirate_pcb/development/7-REV0A-prototype-1/plots/7-REV0__Assembly.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0066,DRW-01919,Where Labs LLC (Bus Pirate),bus_pirate_pcb/development/7-REV1B-prototype-2/plots/7-REV1B__Assembly.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0066,DRW-01920,Where Labs LLC (Bus Pirate),bus_pirate_pcb/development/7-REV1B-prototype-2/plots/7-REV1B__Assembly.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0067,DRW-01484,bunnie studios / betrusted.io (Precursor),mainboard-pvt2/Assembly Drawings.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0067,DRW-01485,bunnie studios / betrusted.io (Precursor),mainboard-pvt2/Assembly Drawings.pdf,2,pcb_fab_assembly_drawing
+REVGRP-0067,DRW-01493,bunnie studios / betrusted.io (Precursor),rpi-hat-v3/Assembly Drawings.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0067,DRW-01496,bunnie studios / betrusted.io (Precursor),rpi-hat-v4/Assembly Drawings-v4.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0068,DRW-01463,bunnie studios / betrusted.io (Precursor),kbd-v2/betrusted-kbd-v2.pdf,1,electrical_schematic
+REVGRP-0068,DRW-01464,bunnie studios / betrusted.io (Precursor),kbd-v3/pcb/betrusted-kbd-v3.pdf,1,electrical_schematic
+REVGRP-0069,DRW-01494,bunnie studios / betrusted.io (Precursor),rpi-hat-v3/rpi-hat-v3.pdf,1,electrical_schematic
+REVGRP-0069,DRW-01495,bunnie studios / betrusted.io (Precursor),rpi-hat-v3/rpi-hat-v3.pdf,2,electrical_schematic
+REVGRP-0069,DRW-01497,bunnie studios / betrusted.io (Precursor),rpi-hat-v4/rpi-hat-v4.PDF,2,electrical_schematic
+REVGRP-0070,DRW-01071,mjbots Robotic Systems,hw/c1/r1.1/20240105-moteus_c1-r1_1.pdf,1,electrical_schematic
+REVGRP-0070,DRW-01072,mjbots Robotic Systems,hw/c1/r1.2/20240305-moteus-c1-r1_2.pdf,1,electrical_schematic
+REVGRP-0071,DRW-01073,mjbots Robotic Systems,hw/controller/r4.3/20200403-moteus-controller-r43-mechanical.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0071,DRW-01074,mjbots Robotic Systems,hw/controller/r4.5/20210124-moteus-controller-r45-mechanical.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0072,DRW-01075,mjbots Robotic Systems,hw/n1/r1.2/20230226-moteus-n1-mechanical.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0072,DRW-01076,mjbots Robotic Systems,hw/n1/r1.3/20230523-moteus-n1-r1_3-mechanical.pdf,1,pcb_fab_assembly_drawing
+REVGRP-0073,DRW-01992,phenoptix / MeArm,hardware/Robot Chassis/v1/MeArmV1.0.dxf,1,cad_dxf
+REVGRP-0073,DRW-01993,phenoptix / MeArm,hardware/Robot Chassis/v1/MeArmV1.1.dxf,1,cad_dxf
+REVGRP-0073,DRW-01994,phenoptix / MeArm,hardware/Robot Chassis/v2/MeArmV2.dxf,1,cad_dxf
+REVGRP-0073,DRW-01995,phenoptix / MeArm,hardware/Robot Chassis/v3/MeArmV3.dxf,1,cad_dxf

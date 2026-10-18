@@ -12,6 +12,8 @@ import datetime as dt
 from pathlib import Path
 from typing import Any
 
+from axisworks_eval.real_metrics import headline_lines
+
 SCHEMA_VERSION = 1
 
 DATASET = {
@@ -50,6 +52,12 @@ def headline(details: dict[str, Any]) -> dict[str, Any]:
         if overall:
             out[f"extraction_precision_{drawing_class}"] = overall.get("precision")
             out[f"extraction_recall_{drawing_class}"] = overall.get("recall")
+    text_layer = (details.get("text_layer") or {}).get("overall") or {}
+    if text_layer:
+        out["text_layer_reads_supported_near"] = text_layer.get("supported_near_rate")
+        out["text_layer_reads_supported_anywhere"] = text_layer.get("supported_anywhere_rate")
+        out["text_layer_callouts_read"] = text_layer.get("callouts_read_rate")
+    out.update(headline_lines(details.get("holdout") or {}))
     live = ((details.get("live_boxes") or {}).get("overall") or {}).get("by_type") or {}
     for char_type, score in sorted(live.items()):
         out[f"live_{char_type}_box_recall"] = score.get("recall")
@@ -68,10 +76,27 @@ def not_measured(details: dict[str, Any]) -> list[str]:
     if "ocr" not in details:
         out.append("OCR character error rate: needs a run with --ocr.")
     out.append("Form 3 field accuracy: there are no labelled FAIRs to score against yet.")
-    out.append(
-        "Customer drawings: every number comes from synthetic drawings. "
-        "Export-controlled samples are never evaluated or published."
-    )
+    if "holdout" in details:
+        out.append(
+            "Precision and recall on real drawings: the held-out open-hardware sheets carry "
+            "machine truth only, the dimensions their DXF states (matched by value) and the "
+            "PDF's own text layer (reads supported near their box, callouts read). GD&T frames, "
+            "notes and title blocks have no truth there and are not scored, so nothing on real "
+            "drawings is a precision or a recall. Customer and export-controlled drawings are "
+            "never evaluated or published."
+        )
+    elif "text_layer" in details:
+        out.append(
+            "Precision and recall on real drawings: the labelled numbers come from synthetic "
+            "drawings; the open-hardware PDFs have no hand labels and are checked against their "
+            "own text layer instead. Customer and export-controlled drawings are never evaluated "
+            "or published."
+        )
+    else:
+        out.append(
+            "Customer drawings: every number comes from synthetic drawings. "
+            "Export-controlled samples are never evaluated or published."
+        )
     return out
 
 

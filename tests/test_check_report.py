@@ -9,7 +9,8 @@ from pathlib import Path
 import pytest
 from axisworks_eval.cadsy_adapter import load_rows
 from axisworks_eval.degrade import degrade
-from axisworks_eval.verify import check_report, check_truth
+from axisworks_eval.holdout import check as check_split
+from axisworks_eval.verify import check_holdout, check_report, check_text_layer, check_truth
 
 ROOT = Path(__file__).resolve().parents[1]
 FIXTURES = ROOT / "fixtures" / "cadsy"
@@ -36,3 +37,34 @@ def test_the_labels_parse():
 def test_a_scan_is_deterministic():
     png = (FIXTURES / "part_0001" / "asme.png").read_bytes()
     assert hashlib.sha256(degrade(png)).digest() == hashlib.sha256(degrade(png)).digest()
+
+
+TESTSET = ROOT / "fixtures" / "drawing-testset-v1"
+
+
+@pytest.mark.parametrize("path", REPORTS, ids=lambda p: p.name)
+def test_test_set_scores_rebuild_from_the_pdfs(path):
+    """Every 25th sheet here; scripts/check_report.py --testset rebuilds them all."""
+    report = json.loads(path.read_text(encoding="utf-8"))
+    section = report.get("details", {}).get("text_layer")
+    if not section or not TESTSET.is_dir():
+        pytest.skip("no test-set section in this report, or the test set is not here")
+    sample = {**report, "details": {"text_layer": {"sheets": section["sheets"][::25]}}}
+    assert check_text_layer(sample, TESTSET) == []
+
+
+def test_the_sealed_split_follows_from_the_manifest():
+    if not TESTSET.is_dir():
+        pytest.skip("the test set is not here")
+    assert check_split(TESTSET) == []
+
+
+@pytest.mark.parametrize("path", REPORTS, ids=lambda p: p.name)
+def test_holdout_scores_rebuild_from_the_vectors(path):
+    """Every 20th held-out sheet here; scripts/check_report.py --holdout rebuilds them all."""
+    report = json.loads(path.read_text(encoding="utf-8"))
+    section = report.get("details", {}).get("holdout")
+    if not section or not TESTSET.is_dir():
+        pytest.skip("no holdout section in this report, or the test set is not here")
+    sample = {**report, "details": {"holdout": {**section, "sheets": section["sheets"][::20]}}}
+    assert check_holdout(sample, TESTSET) == []

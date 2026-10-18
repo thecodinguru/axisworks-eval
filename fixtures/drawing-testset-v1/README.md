@@ -150,3 +150,22 @@ tools/                           the scripts that built this set and the top-up 
 `fetch.py`, `lfs_fix.py`, `classify.py`, `build.py`, `package.py`, `slim.py`, `recompress.py`, `licenses.py`, `readme.py` rebuild the set from scratch
 (set `DTS_WORK` to a scratch directory; requires git, poppler-utils, qpdf, ImageMagick, Python 3 with numpy, opencv,
 pypdf, Pillow, matplotlib, ezdxf).
+
+
+## In this copy (AxisWorks, 18 October 2026)
+
+This folder is the set as the public `axisworks-eval` repository carries it:
+`manifest.jsonl`, `ATTRIBUTION.md`, `licenses/`, every vector source
+(`source_vector/`: 604 single-page PDFs and 68 DXFs), the DXF renders the set
+shipped (`sheets/cad_dxf/`, byte-identical to the manifest's `sha256_png`),
+`revision_groups.csv` and `stats.json`. The PDF renders and the text-layer
+label files are not here: a PDF renders and its words read from the PDF
+itself. Schematic pages are not here either (no vectors shipped, no
+dimensions to score).
+
+`holdout_v1.jsonl` is the sealed split of the 663 vector sheets of the three
+dimension classes, by publisher: 529 held out (18 publishers), 134 for
+development (Voron Design, Creality, Prusa Research, MeArm, NASA JPL). It is
+written and checked by `axisworks_eval/holdout.py`; its SHA-256 is
+`7bc69609b98130ec3e81672f82127a3a89ec09397bb9f96e3f5c98eba59a19d0`. The
+product is never tuned on the held-out side.

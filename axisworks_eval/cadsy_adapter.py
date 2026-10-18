@@ -16,7 +16,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-#: Cadsy annotation type -> AxisDraw char_type (None = not a characteristic).
+#: Cadsy annotation type -> AxisWorks char_type (None = not a characteristic).
 CHAR_TYPE_BY_ANNOTATION: dict[str, str | None] = {
     "dimension": "dimension",
     "callout": "dimension",
@@ -116,9 +116,13 @@ def load_labels(path: str | Path) -> list[CadsyAnnotation]:
 
 
 def normalize_text(text: str) -> str:
-    """ASME/ISO-neutral form: decimal point, ``X`` for ``×``, single spaces, upper."""
+    """ASME/ISO-neutral form: decimal point, ``X`` for ``×``, single spaces, upper.
+
+    The diameter sign is written three ways: ⌀ (the drafting symbol), Ø and ∅
+    (the empty-set sign, which the extraction prompts themselves use).
+    """
     t = re.sub(r"(?<=\d),(?=\d)", ".", text)
-    t = t.replace("×", "X").replace("Ø", "⌀")
+    t = t.replace("×", "X").replace("Ø", "⌀").replace("∅", "⌀")
     t = re.sub(r"\s+", " ", t).strip().upper()
     # "4X 7" and "4X7" are the same callout.
     t = re.sub(r"(\d)\s*X\s*", r"\1X ", t)
