@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 """Check an AxisWorks accuracy report.
 
-    python scripts/check_report.py reports/accuracy_2026-10-17.json
-    python scripts/check_report.py reports/accuracy_2026-10-17.json --labels datasets/cadsy/samples
+    python scripts/check_report.py reports/accuracy_2026-10-18.json
+    python scripts/check_report.py reports/accuracy_2026-10-18.json --labels datasets/cadsy/samples
 
 The first form recomputes every derived number from the details the report
 carries. With --labels (the Cadsy part folders, from

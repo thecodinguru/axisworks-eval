@@ -24,7 +24,7 @@ export-controlled, is in any number here.
 headline and the list of what is not measured are recomputed from the
 per-part results the report carries:
 
-    python scripts/check_report.py reports/accuracy_2026-10-17.json
+    python scripts/check_report.py reports/accuracy_2026-10-18.json
 
 **2. The truth is the public labels.** With the dataset downloaded, the truth
 each result was scored against is rebuilt from the labels: the requirement
@@ -32,7 +32,7 @@ rows of every sheet, the seeded revision edits (seed 7), the twin pairs, the
 moved view and the labelled characteristics the extraction is scored on:
 
     python scripts/fetch_cadsy_dataset.py
-    python scripts/check_report.py reports/accuracy_2026-10-17.json --labels datasets/cadsy/samples
+    python scripts/check_report.py reports/accuracy_2026-10-18.json --labels datasets/cadsy/samples
 
 **3. The scanned drawings.** `axisworks_eval/degrade.py` makes the scanned
 class from each clean sheet: two-thirds scale (a 300 dpi original scanned at
