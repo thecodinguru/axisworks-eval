@@ -84,7 +84,9 @@ def split(rows: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     is ever tuned on and scored.
     """
     kept = [r for r in rows if r.get("category") in CLASSES and r.get("file_vector")]
-    side = {r["sheet_id"]: "dev" if r.get("publisher") in DEV_PUBLISHERS else "holdout" for r in kept}
+    side = {
+        r["sheet_id"]: "dev" if r.get("publisher") in DEV_PUBLISHERS else "holdout" for r in kept
+    }
     by_id = {r["sheet_id"]: r for r in kept}
     groups: dict[str, set[str]] = {}
     for r in kept:

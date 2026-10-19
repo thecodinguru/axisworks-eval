@@ -265,6 +265,14 @@ def check_truth(
                     perturbations[part_id][kind]["truth"],
                     len(ids),
                 )
+            scope = perturbations[part_id].get("delta_scope")
+            if scope is not None:
+                _same(
+                    problems,
+                    f"perturbation {part_id} delta_scope truth",
+                    scope["truth"],
+                    len(truth.modified | truth.added),
+                )
 
         if part_id in balloons["twins"]:
             pairs = len(twin_truth(asme, iso))
@@ -347,7 +355,9 @@ def check_holdout(report: dict[str, Any], root: str | Path) -> list[str]:
     stated = (section.get("set") or {}).get("sha256")
     path = base / HOLDOUT_FILE
     if stated and path.is_file() and stated != sha256_of(path):
-        problems.append(f"holdout: the report names {HOLDOUT_FILE} {stated[:12]}…, the file differs")
+        problems.append(
+            f"holdout: the report names {HOLDOUT_FILE} {stated[:12]}…, the file differs"
+        )
     if not path.is_file():
         return problems
     committed = {r["sheet_id"]: r for r in load_holdout(base)}

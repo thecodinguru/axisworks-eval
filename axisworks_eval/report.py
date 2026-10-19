@@ -39,6 +39,8 @@ def headline(details: dict[str, Any]) -> dict[str, Any]:
     perturbation = details.get("perturbation_summary") or {}
     if perturbation:
         out["seeded_change_detection_micro_f1"] = perturbation.get("mean_micro_f1")
+        if "mean_delta_scope_f1" in perturbation:
+            out["seeded_delta_fai_scope_f1"] = perturbation["mean_delta_scope_f1"]
     balloons = (details.get("balloons") or {}).get("summary") or {}
     for scenario in ("twins", "seeded"):
         pairs = (balloons.get(scenario) or {}).get("pairs")

@@ -131,6 +131,10 @@ class PerturbationScore:
     truth: dict[str, int]
     predicted: dict[str, int]
     tp: dict[str, int]
+    #: The delta FAI scope drafted from the comparison against the edited rows
+    #: (modified and added): ``{"truth", "predicted", "tp"}``. Absent in reports
+    #: written before 18 October 2026.
+    scope: dict[str, int] | None = None
 
     def prf(self, kind: str) -> tuple[float, float, float]:
         tp = self.tp.get(kind, 0)
@@ -161,15 +165,34 @@ class PerturbationScore:
                 "recall": round(r, 3),
                 "f1": round(f, 3),
             }
+        if self.scope is not None:
+            tp, pred, truth = self.scope["tp"], self.scope["predicted"], self.scope["truth"]
+            p = tp / pred if pred else 0.0
+            r = tp / truth if truth else 0.0
+            f = 2 * p * r / (p + r) if (p + r) else 0.0
+            out["delta_scope"] = {
+                "truth": truth,
+                "predicted": pred,
+                "tp": tp,
+                "precision": round(p, 3),
+                "recall": round(r, 3),
+                "f1": round(f, 3),
+            }
         return out
 
     @classmethod
     def from_dict(cls, data: dict[str, Any]) -> PerturbationScore:
         kinds = ("modified", "removed", "added")
+        scope = data.get("delta_scope")
         return cls(
             truth={k: data[k]["truth"] for k in kinds},
             predicted={k: data[k]["predicted"] for k in kinds},
             tp={k: data[k]["tp"] for k in kinds},
+            scope=(
+                {k: scope[k] for k in ("truth", "predicted", "tp")}
+                if isinstance(scope, dict)
+                else None
+            ),
         )
 
 
@@ -187,7 +210,12 @@ def summarize_twins(results: Sequence[dict[str, Any]]) -> dict[str, Any]:
 
 
 def summarize_perturbations(scores: Sequence[dict[str, Any]]) -> dict[str, Any]:
-    """Seeded edits over every part: the mean of each part's micro F1."""
+    """Seeded edits over every part: the mean of each part's micro F1, and of the
+    delta FAI scope's F1 when the scores carry one."""
     if not scores:
         return {}
-    return {"mean_micro_f1": round(sum(s["micro_f1"] for s in scores) / len(scores), 3)}
+    out = {"mean_micro_f1": round(sum(s["micro_f1"] for s in scores) / len(scores), 3)}
+    scoped = [s["delta_scope"]["f1"] for s in scores if "delta_scope" in s]
+    if scoped:
+        out["mean_delta_scope_f1"] = round(sum(scoped) / len(scoped), 3)
+    return out

@@ -178,9 +178,7 @@ def read_dimensions(path: str | Path, *, spaces: Iterable[str] = ("model",)) -> 
                 text, measurement = _computed_text(dimension, kind)
             if not text:
                 continue
-            out.append(
-                CadDimension(kind, text, tuple(numbers(text)), measurement, source, space)
-            )
+            out.append(CadDimension(kind, text, tuple(numbers(text)), measurement, source, space))
     return out
 
 
@@ -191,9 +189,7 @@ def truth_for_sheet(root: str | Path, row: dict[str, Any]) -> tuple[list[CadDime
     vector = str(row.get("file_vector") or "")
     if vector.lower().endswith(".dxf"):
         return read_dimensions(base / vector), "dxf"
-    alternates = [
-        str(a) for a in row.get("alt_formats") or [] if str(a).lower().endswith(".dxf")
-    ]
+    alternates = [str(a) for a in row.get("alt_formats") or [] if str(a).lower().endswith(".dxf")]
     if alternates:
         dims: list[CadDimension] = []
         for name in alternates:

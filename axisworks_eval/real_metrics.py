@@ -57,7 +57,9 @@ class ValueScore:
 
     def to_dict(self) -> dict[str, Any]:
         out: dict[str, Any] = {f.name: getattr(self, f.name) for f in fields(self)}
-        out["value_match_full_rate"] = round(self.matched_full / self.truth, 3) if self.truth else 0.0
+        out["value_match_full_rate"] = (
+            round(self.matched_full / self.truth, 3) if self.truth else 0.0
+        )
         out["value_match_nominal_rate"] = (
             round(self.matched_nominal / self.truth, 3) if self.truth else 0.0
         )
@@ -158,9 +160,7 @@ def summarize(sheets: Iterable[dict[str, Any]]) -> dict[str, Any]:
         row.setdefault("overall", ClassScore()).add_sheet(entry)
     by_class = {
         drawing_class: {
-            "by_category": {
-                c: s.to_dict() for c, s in sorted(cells.items()) if c != "overall"
-            },
+            "by_category": {c: s.to_dict() for c, s in sorted(cells.items()) if c != "overall"},
             "overall": cells.get("overall", ClassScore()).to_dict(),
         }
         for drawing_class, cells in sorted(table.items())
