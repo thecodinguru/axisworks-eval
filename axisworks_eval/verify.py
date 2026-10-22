@@ -37,6 +37,7 @@ from axisworks_eval.extraction_metrics import (
     CHAR_TYPES,
     TypeExtraction,
     rows_of,
+    summarize_provenance,
     truth_annotations,
 )
 from axisworks_eval.holdout import FILE_NAME as HOLDOUT_FILE
@@ -182,6 +183,11 @@ def check_report(report: dict[str, Any]) -> list[str]:
             recomputed["by_category"],
         )
         _same(problems, "text_layer overall", text_layer.get("overall"), recomputed["overall"])
+
+    provenance = details.get("provenance") or {}
+    if provenance:
+        recomputed = summarize_provenance(provenance.get("sheets") or [])
+        _same(problems, "provenance by_class", provenance.get("by_class"), recomputed["by_class"])
 
     held = details.get("holdout") or {}
     if held:

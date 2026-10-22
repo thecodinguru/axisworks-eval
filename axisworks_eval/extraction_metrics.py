@@ -193,3 +193,43 @@ def merge_extraction(scores: Iterable[ExtractionScore], examples_each: int = 2) 
             merged.by_type.setdefault(char_type, TypeExtraction()).add(counts)
         merged.misreads.extend(score.misreads[:examples_each])
     return merged
+
+
+def provenance_of_read(result: Any) -> dict[str, int]:
+    """How many of a read's dimensions and frames carry a box, and name the stage that placed it.
+
+    The plan's provenance gate asks that every published row says where it
+    came from. On the harness side that is the read itself: ``with_box`` reads
+    carry a box, ``with_source`` reads carry a box and its ``bbox_source``.
+    """
+    items = items_of(getattr(result, "dimensions", None)) + items_of(
+        getattr(result, "gdt_frames", None)
+    )
+    boxed = [item for item in items if box_of(getattr(item, "bbox", None))]
+    sourced = [item for item in boxed if getattr(item, "bbox_source", "")]
+    return {"reads": len(items), "with_box": len(boxed), "with_source": len(sourced)}
+
+
+def summarize_provenance(sheets: Iterable[dict[str, Any]]) -> dict[str, Any]:
+    """Per drawing class, the reads with a box and with a box source, pooled over the sheets.
+
+    A sheet entry: ``{"class", "reads", "with_box", "with_source"}``.
+    """
+    by_class: dict[str, dict[str, int]] = {}
+    for sheet in sheets:
+        cell = by_class.setdefault(
+            str(sheet.get("class", "clean")),
+            {"sheets": 0, "reads": 0, "with_box": 0, "with_source": 0},
+        )
+        cell["sheets"] += 1
+        for key in ("reads", "with_box", "with_source"):
+            cell[key] += int(sheet.get(key, 0) or 0)
+    out: dict[str, Any] = {}
+    for drawing_class, cell in sorted(by_class.items()):
+        reads = cell["reads"]
+        out[drawing_class] = {
+            **cell,
+            "box_rate": round(cell["with_box"] / reads, 3) if reads else 0.0,
+            "source_rate": round(cell["with_source"] / reads, 3) if reads else 0.0,
+        }
+    return {"by_class": out}

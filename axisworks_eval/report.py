@@ -60,6 +60,9 @@ def headline(details: dict[str, Any]) -> dict[str, Any]:
         out["text_layer_reads_supported_anywhere"] = text_layer.get("supported_anywhere_rate")
         out["text_layer_callouts_read"] = text_layer.get("callouts_read_rate")
     out.update(headline_lines(details.get("holdout") or {}))
+    provenance = (details.get("provenance") or {}).get("by_class") or {}
+    for drawing_class, cell in sorted(provenance.items()):
+        out[f"provenance_box_rate_{drawing_class}"] = cell.get("box_rate")
     live = ((details.get("live_boxes") or {}).get("overall") or {}).get("by_type") or {}
     for char_type, score in sorted(live.items()):
         out[f"live_{char_type}_box_recall"] = score.get("recall")
@@ -78,6 +81,13 @@ def not_measured(details: dict[str, Any]) -> list[str]:
     if "ocr" not in details:
         out.append("OCR character error rate: needs a run with --ocr.")
     out.append("Form 3 field accuracy: there are no labelled FAIRs to score against yet.")
+    if "provenance" in details:
+        out.append(
+            "Provenance of manual rows and derived limits: the report counts the reads that "
+            "carry a box and name the stage that placed it; rows a person adds and tolerances "
+            "taken from a title block are checked in the product (GET /compliance/provenance), "
+            "not here."
+        )
     if "holdout" in details:
         out.append(
             "Precision and recall on real drawings: the held-out open-hardware sheets carry "
