@@ -187,8 +187,8 @@ read is an amendment (below), and the report that follows it says so.
 
 ## 11. Versions and tooling
 
-- Protocol commits: product `<to be filled by the commit after the tag>`;
-  this repository `<idem>`, tag `protocol-v0`.
+- Protocol commits: product `1d366ef` (axisworks-service); this repository
+  `8947ed2`, tag `protocol-v0`.
 - Prompt version 3, extractor version 3 (`versions.py` in the product).
 - pdfplumber 0.11.9 (the words of the text layer), ezdxf ≥ 1.4 (CAD truth),
   Pillow (the scan); Python 3.11 or later.
