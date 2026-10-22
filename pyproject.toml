@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "axisworks-eval"
-version = "2026.10.18"
+version = "2026.10.22"
 description = "Checks for the AxisWorks accuracy report, published for verification"
 readme = "README.md"
 requires-python = ">=3.11"

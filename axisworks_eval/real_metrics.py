@@ -17,7 +17,10 @@ of machine truth and no hand labels:
 
 Both are reported per drawing category (mechanical, PCB fabrication and
 assembly, DXF-native) and per drawing class (clean, and the same sheet
-scanned by ``degrade.py``), and never as "precision and recall".
+scanned by ``degrade.py``), and never as "precision and recall". The headline
+also names the worst slice: per class, the category with the lowest value
+match among those with enough CAD truth (``worst_slice``), so an aggregate
+never hides it.
 """
 
 from __future__ import annotations
@@ -38,6 +41,9 @@ from axisworks_eval.text_layer_metrics import (
 )
 
 CLASSES = ("clean", "scanned")
+#: A category is a slice a page may lead with only when this many of its sheets carry
+#: CAD truth; one sheet's score is never "the worst slice".
+WORST_SLICE_MIN_SHEETS = 5
 
 
 @dataclass
@@ -122,6 +128,8 @@ class ClassScore:
 
     sheets: int = 0
     failed: int = 0
+    #: Sheets whose CAD truth states at least one numbered dimension.
+    sheets_with_cad_truth: int = 0
     values: ValueScore | None = None
     text: TextLayerScore | None = None
 
@@ -132,13 +140,20 @@ class ClassScore:
             return
         if "values" in entry:
             self.values = self.values or ValueScore()
-            self.values.add(ValueScore.from_dict(entry["values"]))
+            score = ValueScore.from_dict(entry["values"])
+            self.values.add(score)
+            if score.truth:
+                self.sheets_with_cad_truth += 1
         if "text" in entry:
             self.text = self.text or TextLayerScore()
             self.text.add(TextLayerScore.from_dict(entry["text"]))
 
     def to_dict(self) -> dict[str, Any]:
-        out: dict[str, Any] = {"sheets": self.sheets, "failed": self.failed}
+        out: dict[str, Any] = {
+            "sheets": self.sheets,
+            "failed": self.failed,
+            "sheets_with_cad_truth": self.sheets_with_cad_truth,
+        }
         if self.values is not None:
             out["values"] = self.values.to_dict()
         if self.text is not None:
@@ -168,8 +183,34 @@ def summarize(sheets: Iterable[dict[str, Any]]) -> dict[str, Any]:
     return {"by_class": by_class, "overall": (by_class.get("clean") or {}).get("overall", {})}
 
 
+def worst_slice(
+    cells: dict[str, Any], *, min_sheets: int = WORST_SLICE_MIN_SHEETS
+) -> dict[str, Any] | None:
+    """The category with the lowest value match, among those with enough CAD truth.
+
+    ``cells`` is one class's ``by_category``. A category qualifies when at least
+    ``min_sheets`` of its sheets carry CAD truth. A tie goes to the first
+    category by name; None when nothing qualifies.
+    """
+    worst: dict[str, Any] | None = None
+    for category, cell in sorted(cells.items()):
+        values = cell.get("values") or {}
+        rate = values.get("value_match_full_rate")
+        if rate is None or cell.get("sheets_with_cad_truth", 0) < min_sheets:
+            continue
+        if worst is None or rate < worst["value_match_full_rate"]:
+            worst = {
+                "category": category,
+                "value_match_full_rate": rate,
+                "sheets": cell.get("sheets_with_cad_truth", 0),
+                "truth": values.get("truth", 0),
+            }
+    return worst
+
+
 def headline_lines(block: dict[str, Any]) -> dict[str, Any]:
-    """What the report's headline shows for the holdout: value match and the text proxy, per class."""
+    """What the report's headline shows for the holdout, per class: value match, the text
+    proxy, and the worst slice (the category with the lowest value match)."""
     out: dict[str, Any] = {}
     for drawing_class, cells in (block.get("by_class") or {}).items():
         overall = cells.get("overall") or {}
@@ -180,6 +221,12 @@ def headline_lines(block: dict[str, Any]) -> dict[str, Any]:
         if text:
             out[f"holdout_reads_supported_near_{drawing_class}"] = text.get("supported_near_rate")
             out[f"holdout_callouts_read_{drawing_class}"] = text.get("callouts_read_rate")
+        worst = worst_slice(cells.get("by_category") or {})
+        if worst:
+            out[f"holdout_worst_slice_{drawing_class}"] = worst["category"]
+            out[f"holdout_worst_slice_values_matched_{drawing_class}"] = worst[
+                "value_match_full_rate"
+            ]
     return out
 
 

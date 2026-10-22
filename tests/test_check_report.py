@@ -68,3 +68,35 @@ def test_holdout_scores_rebuild_from_the_vectors(path):
         pytest.skip("no holdout section in this report, or the test set is not here")
     sample = {**report, "details": {"holdout": {**section, "sheets": section["sheets"][::20]}}}
     assert check_holdout(sample, TESTSET) == []
+
+
+def test_a_holdout_headline_names_the_worst_slice():
+    """A report with a holdout section checks out, and its headline names the worst slice."""
+    import datetime as dt
+
+    from axisworks_eval.real_metrics import ValueScore
+    from axisworks_eval.real_metrics import summarize as summarize_holdout
+    from axisworks_eval.report import build_report
+
+    def entry(sheet_id, category, full):
+        return {
+            "sheet_id": sheet_id,
+            "category": category,
+            "class": "clean",
+            "split": "holdout",
+            "values": ValueScore(
+                truth=10, reads=10, matched_full=full, matched_nominal=10
+            ).to_dict(),
+        }
+
+    sheets = [entry(f"m{i}", "mechanical_drawing", 9) for i in range(5)] + [
+        entry(f"d{i}", "cad_dxf", 7) for i in range(5)
+    ]
+    details = {"holdout": {**summarize_holdout(sheets), "sheets": sheets}}
+    report = build_report(
+        details, root="fixtures", parts=0, generated_at=dt.datetime(2026, 10, 22, tzinfo=dt.UTC)
+    )
+    assert check_report(report) == []
+    assert report["headline"]["holdout_values_matched_clean"] == 0.8
+    assert report["headline"]["holdout_worst_slice_clean"] == "cad_dxf"
+    assert report["headline"]["holdout_worst_slice_values_matched_clean"] == 0.7

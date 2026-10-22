@@ -70,7 +70,10 @@ from the sealed split and the vectors:
 The split itself is checked the same way; a `holdout_v1.jsonl` that does not
 follow from `manifest.jsonl` fails the check. Frames, notes and title blocks
 have no truth there and are not scored; nothing on real drawings is a
-precision or a recall.
+precision or a recall. The run is preregistered in [`PROTOCOL.md`](PROTOCOL.md):
+the sealed split, the measures by function, the gates, the slices and the
+worst-slice rule, the configurations to be run, and the no-tuning and
+commit-before-run rules, committed before the first scored read.
 
 **5. The scanned drawings.** `axisworks_eval/degrade.py` makes the scanned
 class from each clean sheet: two-thirds scale (a 300 dpi original scanned at
@@ -103,7 +106,9 @@ it, which model read the sheets and how the run was configured.
   drawing category.
 - **Real drawings (holdout).** The held-out sheets read once each, clean and
   scanned: printed dimensions matched by value against CAD truth, reads
-  supported by the text layer, callouts read, by category and drawing class.
+  supported by the text layer, callouts read, by category and drawing class;
+  the headline names the worst slice, the category with the lowest value
+  match among those with enough CAD truth.
 - **Extraction.** What the extractor reads from each sheet against the labels:
   precision and recall by characteristic type, drawing standard and drawing
   class (clean, scanned). A read counts as correct only when its value matches;
@@ -119,6 +124,7 @@ Each report also lists what it does not measure.
   check (`text_layer_metrics`), the sealed split (`holdout`), CAD truth
   (`dxf_truth`) and the real-drawing scores (`real_metrics`), the report
   (`report`) and the checks (`verify`).
+- `PROTOCOL.md`: the preregistered protocol of AxisBench v0.
 - `reports/`: the dated reports.
 - `fixtures/cadsy/`: four of the 65 parts, enough for the tests.
 - `fixtures/drawing-testset-v1/`: the open-hardware vectors (PDF and DXF) with
