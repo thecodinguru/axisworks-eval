@@ -1,6 +1,6 @@
 # AxisWorks evaluation, published for verification
 
-The accuracy figures on [superpositionlabs.ai/accuracy](https://superpositionlabs.ai/accuracy)
+The accuracy figures on [superpositionlabs.ai](https://superpositionlabs.ai/)
 come from a dated report in `reports/`. This repository lets you check that
 report without our product: the arithmetic behind every number, and the truth
 each number was scored against, rebuilt from the public dataset.
