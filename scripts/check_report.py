@@ -5,6 +5,7 @@
     python scripts/check_report.py reports/accuracy_2026-10-18.json --labels datasets/cadsy/samples
     python scripts/check_report.py <report> --testset fixtures/drawing-testset-v1
     python scripts/check_report.py <report> --holdout fixtures/drawing-testset-v1
+    python scripts/check_report.py reports/mechvqa_2026-11-07.json --mechvqa datasets/mechvqa
 
 The first form recomputes every derived number from the details the report
 carries. With --labels (the Cadsy part folders, from
@@ -12,8 +13,12 @@ scripts/fetch_cadsy_dataset.py) the truth behind each result is rebuilt from
 the labels too. With --testset every score of the open-hardware test set is
 rebuilt from its PDFs and the reads the report lists. With --holdout the
 sealed split is checked against the manifest and every held-out score is
-rebuilt from the sheet's PDF or DXF and the listed reads. Exits 1 if anything
-does not check out.
+rebuilt from the sheet's PDF or DXF and the listed reads. A MechVQA report
+is always checked against the committed manifest in fixtures/mechvqa (every
+score from its votes, every cell from its rows, no question dropped or
+doubled); with --mechvqa (the set from scripts/fetch_mechvqa_dataset.py) the
+manifest is rebuilt from the set and the judge-free numeric check from the
+reference answers. Exits 1 if anything does not check out.
 """
 
 from __future__ import annotations
@@ -23,14 +28,18 @@ import json
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
 
 from axisworks_eval.verify import (  # noqa: E402
     check_holdout,
+    check_mechvqa,
     check_report,
     check_text_layer,
     check_truth,
 )
+
+MECHVQA_FIXTURES = ROOT / "fixtures" / "mechvqa"
 
 
 def main() -> int:
@@ -42,6 +51,9 @@ def main() -> int:
     ap.add_argument("--testset", type=Path, help="the drawing-testset-v1 folder (its PDFs)")
     ap.add_argument(
         "--holdout", type=Path, help="the drawing-testset-v1 folder (holdout_v1.jsonl, PDFs, DXFs)"
+    )
+    ap.add_argument(
+        "--mechvqa", type=Path, help="the fetched MechVQA set (scripts/fetch_mechvqa_dataset.py)"
     )
     args = ap.parse_args()
 
@@ -69,6 +81,18 @@ def main() -> int:
         held = check_holdout(report, args.holdout)
         print(f"  holdout from its vectors: {'matches' if not held else f'{len(held)} differ'}")
         problems += held
+    if (report.get("details") or {}).get("mechvqa"):
+        fixtures = MECHVQA_FIXTURES if MECHVQA_FIXTURES.is_dir() else None
+        judged = [
+            p
+            for p in check_mechvqa(report, root=args.mechvqa, fixture_dir=fixtures)
+            if p not in problems
+        ]
+        what = "manifest and the fetched set" if args.mechvqa else "manifest"
+        print(
+            f"  mechvqa against the {what}: {'matches' if not judged else f'{len(judged)} differ'}"
+        )
+        problems += judged
     for problem in problems:
         print(f"    {problem}")
     print("  headline:")

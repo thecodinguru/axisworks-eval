@@ -17,6 +17,12 @@ the private code and are published as counts.
 The open-hardware test set is the exception: its reads are listed sheet by
 sheet, so ``check_text_layer`` rebuilds every test-set score from the PDFs in
 ``fixtures/drawing-testset-v1`` and those reads.
+
+A MechVQA report lists every answer and every judge's vote, so
+``check_mechvqa`` recomputes each question's score from the votes, every
+summary cell from the rows, and, with the committed manifest, that no
+question was dropped or counted twice; with the fetched set it also rebuilds
+the judge-free numeric check from the reference answers.
 """
 
 from __future__ import annotations
@@ -25,6 +31,7 @@ from collections.abc import Callable, Iterable
 from pathlib import Path
 from typing import Any
 
+import axisworks_eval.mechvqa_metrics as mv
 from axisworks_eval.balloon_metrics import (
     SCENARIOS,
     BalloonResult,
@@ -212,8 +219,149 @@ def check_report(report: dict[str, Any]) -> list[str]:
         _same(problems, "holdout by_class", held.get("by_class"), recomputed["by_class"])
         _same(problems, "holdout overall", held.get("overall"), recomputed["overall"])
 
+    if details.get("mechvqa"):
+        problems += check_mechvqa(report)
+
     _same(problems, "headline", report.get("headline"), headline(details))
     _same(problems, "not_measured", report.get("not_measured"), not_measured(details))
+    return problems
+
+
+#: The per-question fields a manifest row fixes; a report row must agree with it.
+_MECHVQA_FIXED = ("subcategory", "capability", "difficulty", "language", "qualityscore")
+
+
+def _check_mechvqa_rows(problems: list[str], name: str, rows: list[dict[str, Any]]) -> None:
+    """Each row's derived fields from what it carries: the vote, the answer hash and language."""
+    for row in rows:
+        where = f"mechvqa {name} {row.get('question_id')}"
+        answer = str(row.get("answer") or "")
+        if row.get("abstained") or row.get("failed"):
+            expected = 0.0
+        else:
+            expected = mv.vote(list(row.get("judges") or []))
+        _same(problems, f"{where} score", row.get("score"), expected)
+        if "answer_sha256" in row:
+            _same(problems, f"{where} answer_sha256", row["answer_sha256"], mv.sha256_text(answer))
+        if "answer_language" in row:
+            _same(
+                problems, f"{where} answer_language", row["answer_language"], mv.language_of(answer)
+            )
+
+
+def _check_mechvqa_summary(problems: list[str], name: str, config: dict[str, Any]) -> None:
+    """Every cell of the configuration's summary from its rows, bands included."""
+    stated = config.get("summary") or {}
+    recomputed = mv.summarize(list(config.get("questions") or []))
+    for key in sorted(set(stated) | set(recomputed)):
+        a, b = stated.get(key), recomputed.get(key)
+        if isinstance(a, dict) and isinstance(b, dict) and key.startswith("by_"):
+            for cell_name in sorted(set(a) | set(b)):
+                _same(
+                    problems,
+                    f"mechvqa {name} summary {key} {cell_name}",
+                    a.get(cell_name),
+                    b.get(cell_name),
+                )
+        else:
+            _same(problems, f"mechvqa {name} summary {key}", a, b)
+
+
+def _check_mechvqa_manifest(
+    problems: list[str], block: dict[str, Any], fixture_dir: Path
+) -> dict[str, dict[str, Any]]:
+    manifest = {r["question_id"]: r for r in mv.load_manifest(fixture_dir)}
+    meta = mv.load_manifest_meta(fixture_dir)
+    dataset = block.get("dataset") or {}
+    for key in ("commit", "jsonl_sha256", "questions", "images"):
+        if key in dataset:
+            _same(problems, f"mechvqa dataset {key}", dataset[key], meta.get(key))
+    if "manifest_sha256" in dataset:
+        _same(
+            problems,
+            "mechvqa dataset manifest_sha256",
+            dataset["manifest_sha256"],
+            sha256_of(fixture_dir / mv.MANIFEST_NAME),
+        )
+    for name, config in (block.get("configurations") or {}).items():
+        rows = list(config.get("questions") or [])
+        seen: dict[str, int] = {}
+        for row in rows:
+            qid = str(row.get("question_id"))
+            seen[qid] = seen.get(qid, 0) + 1
+            fixed = manifest.get(qid)
+            if fixed is None:
+                problems.append(f"mechvqa {name} {qid}: not in {mv.MANIFEST_NAME}")
+                continue
+            for key in _MECHVQA_FIXED:
+                _same(problems, f"mechvqa {name} {qid} {key}", row.get(key), fixed.get(key))
+            if "answer_sha256" in fixed and "reference_sha256" in row:
+                _same(
+                    problems,
+                    f"mechvqa {name} {qid} reference_sha256",
+                    row["reference_sha256"],
+                    fixed["answer_sha256"],
+                )
+        for qid, count in seen.items():
+            if count > 1:
+                problems.append(f"mechvqa {name} {qid}: appears {count} times")
+        subset = config.get("subset")
+        if subset:
+            _same(problems, f"mechvqa {name} subset questions", subset.get("questions"), len(rows))
+        else:
+            dropped = sorted(set(manifest) - set(seen))
+            problems += [f"mechvqa {name} {qid}: dropped from the configuration" for qid in dropped]
+    return manifest
+
+
+def check_mechvqa(
+    report: dict[str, Any],
+    root: str | Path | None = None,
+    fixture_dir: str | Path | None = None,
+) -> list[str]:
+    """The MechVQA block against itself, the committed manifest and the fetched set.
+
+    Alone, every question's score is recomputed from the judges' votes (an
+    abstained or failed row is 0) and every summary cell from the rows. With
+    ``fixture_dir`` (the committed ``manifest.jsonl`` and ``MANIFEST.json``)
+    the dataset block must name the same pin and hashes, every stored
+    question must be in the manifest with the manifest's subtask, difficulty,
+    language and quality, and every manifest question must appear exactly once
+    in each configuration unless the configuration declares the subset it ran.
+    With ``root`` (the fetched set) the manifest must rebuild from it and the
+    judge-free ``numeric_exact`` of every row is recomputed from the reference
+    answer. The headline and ``not_measured`` are ``check_report``'s.
+    """
+    problems: list[str] = []
+    block = (report.get("details") or {}).get("mechvqa") or {}
+    if not block:
+        return problems
+    configurations = block.get("configurations") or {}
+    for name, config in configurations.items():
+        _check_mechvqa_rows(problems, name, list(config.get("questions") or []))
+        _check_mechvqa_summary(problems, name, config)
+    if fixture_dir is not None:
+        _check_mechvqa_manifest(problems, block, Path(fixture_dir))
+    if root is not None:
+        root = Path(root)
+        if fixture_dir is not None:
+            problems += [f"mechvqa manifest: {p}" for p in mv.check(root, fixture_dir)]
+        if (root / mv.BENCHMARK_PATH).is_file():
+            references = {q.question_id: q.answer for q in mv.load(root)}
+            for name, config in configurations.items():
+                for row in config.get("questions") or []:
+                    qid = str(row.get("question_id"))
+                    if qid not in references:
+                        problems.append(f"mechvqa {name} {qid}: not in the fetched set")
+                        continue
+                    _same(
+                        problems,
+                        f"mechvqa {name} {qid} numeric_exact",
+                        row.get("numeric_exact"),
+                        mv.numeric_exact(references[qid], str(row.get("answer") or "")),
+                    )
+        else:
+            problems.append(f"mechvqa: {mv.BENCHMARK_PATH} is not under {root}")
     return problems
 
 

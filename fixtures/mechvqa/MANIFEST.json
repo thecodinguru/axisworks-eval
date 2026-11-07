@@ -1,0 +1,36 @@
+{
+  "version": "mechvqa_public_v1",
+  "repo": "xiaofengShi/MechVQA",
+  "commit": "c8d61513aef05b4f5d117bb0c6d1a055451d6f33",
+  "benchmark_path": "benchmark_data/vqa_benchmark/mechvqa_benchmark.jsonl",
+  "jsonl_sha256": "e9ff49a26742d24ac6c1cdff5279aa4eb75e3a17787da54efe75faff2adaeba2",
+  "questions": 1185,
+  "images": 562,
+  "by_subtask": {
+    "Identification & Counting": 41,
+    "Dimension & Annotation": 445,
+    "Text & Table": 43,
+    "Item Localization": 113,
+    "Structure Understanding": 29,
+    "Geometric Calculation": 207,
+    "Assembly Relationship": 22,
+    "Projection & Multi-view": 33,
+    "Anomaly Detection": 192,
+    "Consistency Judgment": 60
+  },
+  "by_capability": {
+    "Recognition": 642,
+    "Reasoning": 291,
+    "Judging": 252
+  },
+  "by_difficulty": {
+    "Easy": 580,
+    "Medium": 419,
+    "Hard": 186
+  },
+  "by_language": {
+    "zh": 850,
+    "en": 335
+  },
+  "capability_mismatches": 2
+}

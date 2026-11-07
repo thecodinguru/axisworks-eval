@@ -75,7 +75,30 @@ the sealed split, the measures by function, the gates, the slices and the
 worst-slice rule, the configurations to be run, and the no-tuning and
 commit-before-run rules, committed before the first scored read.
 
-**5. The scanned drawings.** `axisworks_eval/degrade.py` makes the scanned
+**5. MechVQA.** [MechVQA](https://github.com/xiaofengShi/MechVQA) (ICML 2026)
+is a public question-answering benchmark over 562 textbook and handbook
+drawings: 1,185 questions with reference answers, ten subtasks under three
+capabilities, scored by language-model judges. It is a second, public track
+beside AxisBench v0, never a gate and never a holdout; its protocol is
+[`PROTOCOL-MECHVQA.md`](PROTOCOL-MECHVQA.md). A report
+(`reports/mechvqa_<date>.json`) lists every question's answer and every
+judge's vote for each configuration (the product's record path, the hosted
+model as a raw VQA model, any OpenAI-compatible target), so every score,
+every cell and the headline recompute from the report alone, and the
+committed manifest (`fixtures/mechvqa/`, SHA-256 of every question, answer
+and image at the pinned commit) shows no question was dropped or doubled.
+With the set fetched, the manifest itself rebuilds and the judge-free numeric
+check is recomputed from the reference answers:
+
+    python scripts/check_report.py reports/mechvqa_<date>.json
+    python scripts/fetch_mechvqa_dataset.py
+    python scripts/check_report.py reports/mechvqa_<date>.json --mechvqa datasets/mechvqa
+
+The judges' votes themselves cannot be rebuilt without the judges;
+`axisworks_eval/mechvqa_judge.py` carries the repository's judge prompt and
+re-judges a sample of a report (`rejudge_sample`) with an API key of your own.
+
+**6. The scanned drawings.** `axisworks_eval/degrade.py` makes the scanned
 class from each clean sheet: two-thirds scale (a 300 dpi original scanned at
 200 dpi), rotated 0.4 degrees, JPEG at quality 60, back to PNG. The same
 sheet always gives the same image.
@@ -124,9 +147,15 @@ Each report also lists what it does not measure.
   check (`text_layer_metrics`), the sealed split (`holdout`), CAD truth
   (`dxf_truth`) and the real-drawing scores (`real_metrics`), the report
   (`report`) and the checks (`verify`).
-- `PROTOCOL.md`: the preregistered protocol of AxisBench v0.
-- `reports/`: the dated reports.
+- `PROTOCOL.md`: the preregistered protocol of AxisBench v0;
+  `PROTOCOL-MECHVQA.md`: the MechVQA track (`mechvqa_metrics`, the set, the
+  scoring and its departures from the repository's evaluator;
+  `mechvqa_judge`, the judge prompt and the call).
+- `reports/`: the dated reports, `accuracy_*` (AxisBench and Cadsy) and
+  `mechvqa_*` (MechVQA), never mixed.
 - `fixtures/cadsy/`: four of the 65 parts, enough for the tests.
+- `fixtures/mechvqa/`: the manifest of the pinned MechVQA set (`manifest.jsonl`,
+  `MANIFEST.json`), hashes only; the drawings are fetched, never committed.
 - `fixtures/drawing-testset-v1/`: the open-hardware vectors (PDF and DXF) with
   their licenses, the DXF renders the set ships (`sheets/cad_dxf/`), the
   revision groups, and the sealed split `holdout_v1.jsonl`
